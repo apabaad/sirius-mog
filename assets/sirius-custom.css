@@ -1,0 +1,22 @@
+.sirius-card-hover {
+  transition: 0.5s ease;
+}
+
+.sirius-card-hover:hover {
+  opacity: 0.8;
+}
+
+.sirius-card-hover:hover .image__card-heading {
+  color: black;
+  opacity: 1 !important;
+}
+
+.image-card__img {
+  margin: 0 6px;
+}
+
+.sf__newsletter-form-group button {
+  background-color: red;
+  width: 7rem;
+  border: 0;
+}

@@ -298,7 +298,8 @@
                                 </div>
 
                             {% when 'image_card' %}
-                                {% render 'image-card', block: block, grid_columns: 'w-full', stack_on_mobile: scrollMobile, image_card_class: 'sf__hover-scale-up' %}
+                                {% comment %} {% render 'image-card', block: block, grid_columns: 'w-full', stack_on_mobile: scrollMobile, image_card_class: 'sf__hover-scale-up' %} {% endcomment %}
+                                {% render 'image-card', block: block, grid_columns: 'w-full', stack_on_mobile: scrollMobile, image_card_class: 'sirius-card-hover' %}
                             {% when 'product_bundles' %}
                                 <div class="product-bundles sm:pr-28">
                                     {% if block.settings.subheading != blank %}

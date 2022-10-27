@@ -295,35 +295,6 @@
     "fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a": {
       "type": "custom-content",
       "blocks": {
-        "template--16719655960886__fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a-1666588767116f7090-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "title": "Talk about your brand",
-            "subheading": "",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "width": "50%",
-            "alignment": "center",
-            "align_text": "left",
-            "text_size": "medium",
-            "text_color": "black",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-primary",
-            "button_size": "",
-            "block_custom_class": ""
-          }
-        },
-        "template--16719655960886__fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a-1666588767116f7090-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "width": "50%",
-            "alignment": "center",
-            "block_custom_class": ""
-          }
-        },
         "723d8e05-d7cb-4a57-b437-5db48e51567e": {
           "type": "image_card",
           "settings": {
@@ -364,8 +335,6 @@
         }
       },
       "block_order": [
-        "template--16719655960886__fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a-1666588767116f7090-0",
-        "template--16719655960886__fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a-1666588767116f7090-1",
         "723d8e05-d7cb-4a57-b437-5db48e51567e",
         "2c8ee2ee-713c-42bb-8bc1-46feaf0c533d"
       ],
@@ -376,7 +345,7 @@
         "header_alignment": "center",
         "container": "w-full",
         "background_color": "",
-        "gap": 30,
+        "gap": 20,
         "use_scroll_mobile": false,
         "gap_mobile": 16,
         "padding_top": 0,
@@ -396,9 +365,105 @@
         "email_placeholder": "Email",
         "submit_button": "SUBMIT",
         "text_color": "white",
-        "show_icon": true,
+        "show_icon": false,
         "icon_img_width": "30",
         "show_agreement": false,
+        "padding_top": 24,
+        "padding_bottom": 24,
+        "custom_class": ""
+      }
+    },
+    "b0579a63-3764-44b8-8c2f-4dec1bbc0a93": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "OUR PRODUCTS",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "#ffffff",
+        "collection": "undermount-range",
+        "enable_flashsale": false,
+        "show_countdown": false,
+        "product_to_show": 5,
+        "items_per_row": 5,
+        "item_gap": 30,
+        "pcard_layout": "2",
+        "pcard_image_ratio": "1\/1",
+        "show_vendor": false,
+        "hide_title": false,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "button_type": "link",
+        "button_text": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "infinite_load": false,
+        "max_page_load": 3,
+        "use_scroll_mobile": true,
+        "item_gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "b1a7d2a3-663f-45e5-a3f3-d7fa33096557": {
+      "type": "brands-list",
+      "blocks": {
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bing_Lee_360x_6fe7dc69-6634-4b75-be12-e06a093e3c6e.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retravision-white.svg_55add582-867e-4124-a769-f9308a4e971d.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/98122501226526.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/winning-logo-637138690335837076.svg_e122f80f-e7f8-4c81-a49d-738c1b21fc0b.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        }
+      },
+      "block_order": [
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0",
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-1",
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2",
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3"
+      ],
+      "settings": {
+        "heading": "Brand list",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "item_per_row": 8,
+        "enable_slider": true,
+        "autorotate": true,
+        "autorotate_speed": 3,
         "padding_top": 0,
         "padding_bottom": 0,
         "custom_class": ""
@@ -411,6 +476,8 @@
     "162251092958fcda7c",
     "16225125199f82d8fe",
     "fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a",
-    "eb492102-d0c7-4732-a222-48828d2a2978"
+    "eb492102-d0c7-4732-a222-48828d2a2978",
+    "b0579a63-3764-44b8-8c2f-4dec1bbc0a93",
+    "b1a7d2a3-663f-45e5-a3f3-d7fa33096557"
   ]
 }
