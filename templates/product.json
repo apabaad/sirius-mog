@@ -2,6 +2,7 @@
   "sections": {
     "breadcrumb": {
       "type": "breadcrumb",
+      "disabled": true,
       "settings": {
         "container": "container",
         "text_alignment": "center",
@@ -19,6 +20,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_saving": false
           }
@@ -40,10 +42,16 @@
         },
         "addons": {
           "type": "addons",
+          "disabled": true,
           "settings": {
             "show_atcp": true,
             "show_ask_a_question": true,
             "show_social": true
+          }
+        },
+        "b8d3b263-7f85-434e-b09b-7ac70aede5a7": {
+          "type": "description",
+          "settings": {
           }
         }
       },
@@ -52,12 +60,13 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "addons"
+        "addons",
+        "b8d3b263-7f85-434e-b09b-7ac70aede5a7"
       ],
       "settings": {
         "container": "container",
         "layout": "layout-6",
-        "show_atwl": true,
+        "show_atwl": false,
         "enable_history_state": true,
         "enable_variant_group_images": false,
         "show_featured_media": true,
@@ -65,8 +74,8 @@
         "enable_video_autoplay": false,
         "show_nav_media_mobile": false,
         "show_pagination_mobile": true,
-        "use_sticky_atc": true,
-        "use_sticky_atc_on_mobile": true,
+        "use_sticky_atc": false,
+        "use_sticky_atc_on_mobile": false,
         "enable_dynamic_checkout": false,
         "sticky_atc_wishtlist": false,
         "sticky_atc_compare": false
@@ -74,6 +83,7 @@
     },
     "product-details-tabs": {
       "type": "product-details-tabs",
+      "disabled": true,
       "blocks": {
         "description": {
           "type": "description",
@@ -102,6 +112,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "container": "container",
         "heading": "You Might Also Like",
@@ -114,6 +125,7 @@
     },
     "recent-viewed-products": {
       "type": "recent-viewed-products",
+      "disabled": true,
       "settings": {
         "container": "container",
         "heading": "Recently Viewed Products",
