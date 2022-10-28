@@ -123,10 +123,10 @@
               {% for product in current_collection.products limit: product_to_show %}
                 {% if enable_slider %}
                   <div class="swiper-slide sf-column">
-                    {% render 'product-card', product: product, card_style: card_style, image_ratio: image_ratio, show_vendor: show_vendor, hide_title: hide_title %}
+                    {% render 'product-card', product: product, card_style: card_style, image_ratio: image_ratio, show_vendor: show_vendor, hide_title: hide_title, show_price: section.settings.show_price %}
                   </div>
                 {% else %}
-                  {% render 'product-card', product: product, column_wrapper: true, card_style: card_style, image_ratio: image_ratio, show_vendor: show_vendor, hide_title: hide_title %}
+                  {% render 'product-card', product: product, column_wrapper: true, card_style: card_style, image_ratio: image_ratio, show_vendor: show_vendor, hide_title: hide_title, show_price: section.settings.show_price %}
                 {% endif %}
               {% endfor %}
             {% else %}
@@ -378,6 +378,12 @@
       "type": "checkbox",
       "id": "hide_title",
       "label": "Hide product title",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_price",
+      "label": "Show product price",
       "default": false
     },
     {

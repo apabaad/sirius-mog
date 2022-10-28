@@ -5010,11 +5010,11 @@ button.sf__btn.sf__btn-white:hover {
   }
 }
 .section__header {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 @media screen and (max-width: 1535px) {
   .section__header {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
 }
 @media screen and (max-width: 1279px) {

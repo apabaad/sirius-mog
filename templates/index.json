@@ -45,253 +45,6 @@
         "custom_class": ""
       }
     },
-    "16225316461d1cff80": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "16225316461d1cff80-1": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "bags",
-            "title": "Leather Bag"
-          }
-        },
-        "16225316461d1cff80-2": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "shoes",
-            "title": "Shoes"
-          }
-        },
-        "7a571158-7686-4e66-a693-4716fc905604": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "tops",
-            "title": "Tops"
-          }
-        },
-        "12985deb-0775-45ce-80f6-6be7f3150a91": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "blazer",
-            "title": "Blazers"
-          }
-        },
-        "07ebf095-1da2-4546-87f3-97e73a789e8d": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "basic",
-            "title": "Basic"
-          }
-        },
-        "694c01c9-a95f-4c09-9cf0-ec75f0131e98": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "glasses",
-            "title": "Glasses"
-          }
-        },
-        "6d4abb37-5aa2-4499-a2b0-5d85f0d36eec": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "sneakers",
-            "title": "Sneakers"
-          }
-        },
-        "65e38235-f03b-43c9-8590-38c9c656e51c": {
-          "type": "collection_block",
-          "settings": {
-            "collection": "sandals",
-            "title": "Sandals"
-          }
-        }
-      },
-      "block_order": [
-        "16225316461d1cff80-1",
-        "16225316461d1cff80-2",
-        "7a571158-7686-4e66-a693-4716fc905604",
-        "12985deb-0775-45ce-80f6-6be7f3150a91",
-        "07ebf095-1da2-4546-87f3-97e73a789e8d",
-        "694c01c9-a95f-4c09-9cf0-ec75f0131e98",
-        "6d4abb37-5aa2-4499-a2b0-5d85f0d36eec",
-        "65e38235-f03b-43c9-8590-38c9c656e51c"
-      ],
-      "settings": {
-        "heading": "Season Collection",
-        "subheading": "",
-        "description": "",
-        "header_alignment": "left",
-        "container": "container-fluid",
-        "background_color": "",
-        "layout": "grid",
-        "card_style": "inside",
-        "text_alignment": "left",
-        "hover_effect": "scaling-up",
-        "show_product_count": true,
-        "count_inline_title": true,
-        "image_rounded": false,
-        "items_per_row": 4,
-        "item_gap": 30,
-        "enable_slider": true,
-        "show_pagination": true,
-        "show_navigation": true,
-        "autorotate": false,
-        "autorotate_speed": 4,
-        "use_scroll_mobile": true,
-        "mobile_gap": 16,
-        "hidden_slide_control_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "custom_class": ""
-      }
-    },
-    "162251092958fcda7c": {
-      "type": "product-tabs",
-      "disabled": true,
-      "blocks": {
-        "162251092958fcda7c-0": {
-          "type": "tab",
-          "settings": {
-            "title": "best sellers",
-            "collection": "best-sellers"
-          }
-        },
-        "162251092958fcda7c-1": {
-          "type": "tab",
-          "settings": {
-            "title": "new arrivals",
-            "collection": "new-arrivals"
-          }
-        },
-        "ca2d4551-2c7d-4127-8e24-a66b44e4ece8": {
-          "type": "tab",
-          "settings": {
-            "title": "on trend",
-            "collection": "best-sellers"
-          }
-        }
-      },
-      "block_order": [
-        "162251092958fcda7c-0",
-        "162251092958fcda7c-1",
-        "ca2d4551-2c7d-4127-8e24-a66b44e4ece8"
-      ],
-      "settings": {
-        "heading": "You are in",
-        "subheading": "",
-        "description": "",
-        "header_alignment": "center",
-        "container": "container-fluid",
-        "background_color": "rgba(0,0,0,0)",
-        "tab_header": "select",
-        "limit": 15,
-        "show_button": true,
-        "button_type": "load",
-        "button_label": "Load More",
-        "button_style": "sf__btn-secondary",
-        "button_size": "",
-        "pcard_layout": "2",
-        "pcard_image_ratio": "",
-        "show_vendor": false,
-        "items_per_row": 5,
-        "item_gap": 30,
-        "enable_slider": false,
-        "show_navigation": false,
-        "show_pagination": false,
-        "use_scroll_mobile": true,
-        "item_gap_mobile": 16,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "custom_class": ""
-      }
-    },
-    "16225125199f82d8fe": {
-      "type": "icon-box",
-      "disabled": true,
-      "blocks": {
-        "16225125199f82d8fe-0": {
-          "type": "iconbox",
-          "settings": {
-            "image_by_url": "",
-            "title": "Free Shipping",
-            "description": "<p>Tell about your service.<\/p>",
-            "link": "",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-link",
-            "button_size": ""
-          }
-        },
-        "16225125199f82d8fe-1": {
-          "type": "iconbox",
-          "settings": {
-            "image_by_url": "",
-            "title": "Money Guarantee",
-            "description": "<p>Within 30 days for an exchange.<\/p>",
-            "link": "",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-link",
-            "button_size": ""
-          }
-        },
-        "16225125199f82d8fe-2": {
-          "type": "iconbox",
-          "settings": {
-            "image_by_url": "",
-            "title": "Online Support",
-            "description": "<p>24 hours a day, 7 days a week<\/p>",
-            "link": "",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-link",
-            "button_size": ""
-          }
-        },
-        "71deafbb-3baf-443a-a087-3f7b8af7b9fa": {
-          "type": "iconbox",
-          "settings": {
-            "image_by_url": "",
-            "title": "Flexible Payment",
-            "description": "<p>Pay with Multiple Credit Cards<\/p>",
-            "link": "",
-            "button_label": "",
-            "button_link": "",
-            "button_style": "sf__btn-link",
-            "button_size": ""
-          }
-        }
-      },
-      "block_order": [
-        "16225125199f82d8fe-0",
-        "16225125199f82d8fe-1",
-        "16225125199f82d8fe-2",
-        "71deafbb-3baf-443a-a087-3f7b8af7b9fa"
-      ],
-      "settings": {
-        "heading": "",
-        "subheading": "",
-        "description": "",
-        "header_alignment": "center",
-        "container": "container",
-        "background_color": "rgba(0,0,0,0)",
-        "item_per_row": 4,
-        "item_gap": 30,
-        "item_gap_mobile": 10,
-        "card_style": "horizontal",
-        "image_max_width": "30px",
-        "content_alignment": "start",
-        "hover_effect": "none",
-        "enable_slider": false,
-        "show_pagination": true,
-        "show_navigation": true,
-        "use_scroll_mobile": false,
-        "use_grid_column_mb": false,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "custom_class": ""
-      }
-    },
     "fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a": {
       "type": "custom-content",
       "blocks": {
@@ -369,7 +122,7 @@
         "icon_img_width": "30",
         "show_agreement": false,
         "padding_top": 24,
-        "padding_bottom": 24,
+        "padding_bottom": 0,
         "custom_class": ""
       }
     },
@@ -392,6 +145,7 @@
         "pcard_image_ratio": "1\/1",
         "show_vendor": false,
         "hide_title": false,
+        "show_price": false,
         "enable_slider": false,
         "show_pagination": false,
         "show_navigation": false,
@@ -403,7 +157,7 @@
         "max_page_load": 3,
         "use_scroll_mobile": true,
         "item_gap_mobile": 16,
-        "padding_top": 0,
+        "padding_top": 70,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -413,17 +167,9 @@
       "blocks": {
         "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Bing_Lee_360x_6fe7dc69-6634-4b75-be12-e06a093e3c6e.png",
-            "image_by_url": "",
-            "image_link": "",
-            "max_width": "150px"
-          }
-        },
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/retravision-white.svg_55add582-867e-4124-a769-f9308a4e971d.png",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"
@@ -446,25 +192,94 @@
             "image_link": "",
             "max_width": "150px"
           }
+        },
+        "a6192101-14af-4926-b6d0-ea93e39c966d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HN-Logo_360x_ef102012-94fd-41a4-8f5b-db1597656dac.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "6e09616c-921b-4717-b777-f369eff2577c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jm_logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "549a687e-da87-4ba0-a0e5-e76df5cf3925": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm_logo_282x31_a6d7ea35-1e3a-4932-9d19-2eb9b55162fd.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "430d761c-ab90-4ba0-b9e2-680af18b61ed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hnc_logo.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "7e60d68b-79a1-4c9e-b64e-1e19b178f3c2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bing_Lee_360x_6fe7dc69-6634-4b75-be12-e06a093e3c6e.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "c34599f5-f0a2-4dd2-a4e4-8cfba6a99237": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/98122501226526.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "feb4bb38-63cb-4f1e-9c8f-ab7b7319ab32": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/winning-logo-637138690335837076.svg_e122f80f-e7f8-4c81-a49d-738c1b21fc0b.png",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
         }
       },
       "block_order": [
         "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0",
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-1",
         "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2",
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3"
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3",
+        "a6192101-14af-4926-b6d0-ea93e39c966d",
+        "6e09616c-921b-4717-b777-f369eff2577c",
+        "549a687e-da87-4ba0-a0e5-e76df5cf3925",
+        "430d761c-ab90-4ba0-b9e2-680af18b61ed",
+        "7e60d68b-79a1-4c9e-b64e-1e19b178f3c2",
+        "c34599f5-f0a2-4dd2-a4e4-8cfba6a99237",
+        "feb4bb38-63cb-4f1e-9c8f-ab7b7319ab32"
       ],
       "settings": {
-        "heading": "Brand list",
+        "heading": "OUR TRUSTED PARTNERS",
         "subheading": "",
         "header_alignment": "center",
         "container": "container-fluid",
         "background_color": "rgba(0,0,0,0)",
-        "item_per_row": 8,
+        "item_per_row": 5,
         "enable_slider": true,
         "autorotate": true,
         "autorotate_speed": 3,
-        "padding_top": 0,
+        "padding_top": 70,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -472,9 +287,6 @@
   },
   "order": [
     "1621243260e1af0c20",
-    "16225316461d1cff80",
-    "162251092958fcda7c",
-    "16225125199f82d8fe",
     "fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a",
     "eb492102-d0c7-4732-a222-48828d2a2978",
     "b0579a63-3764-44b8-8c2f-4dec1bbc0a93",

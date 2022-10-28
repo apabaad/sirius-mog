@@ -488,9 +488,12 @@
             {% endif %}
           </div>
         
+          {% if show_price%}
           <div class="sf__pcard-price leading-normal">
             {% render 'product-prices', product: product, is_product_card: true %}
           </div>
+        {% endif %}
+        
           {% render 'product-card-option', product: product %}
         </div>
     

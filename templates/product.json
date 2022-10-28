@@ -3,6 +3,10 @@
     "breadcrumb": {
       "type": "breadcrumb",
       "settings": {
+        "container": "container",
+        "text_alignment": "center",
+        "hide_current": false,
+        "hide_on_mb": false
       }
     },
     "main": {
@@ -16,21 +20,30 @@
         "price": {
           "type": "price",
           "settings": {
+            "show_saving": false
           }
         },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
+            "size_title": "Size"
           }
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
+            "show_quantity_selector": true,
+            "show_atc_button": true,
+            "show_dynamic_checkout": true
           }
         },
         "addons": {
           "type": "addons",
           "settings": {
+            "show_atcp": true,
+            "show_ask_a_question": true,
+            "show_social": true
           }
         }
       },
@@ -42,6 +55,21 @@
         "addons"
       ],
       "settings": {
+        "container": "container",
+        "layout": "layout-6",
+        "show_atwl": true,
+        "enable_history_state": true,
+        "enable_variant_group_images": false,
+        "show_featured_media": true,
+        "show_zoom_button": true,
+        "enable_video_autoplay": false,
+        "show_nav_media_mobile": false,
+        "show_pagination_mobile": true,
+        "use_sticky_atc": true,
+        "use_sticky_atc_on_mobile": true,
+        "enable_dynamic_checkout": false,
+        "sticky_atc_wishtlist": false,
+        "sticky_atc_compare": false
       }
     },
     "product-details-tabs": {
@@ -57,7 +85,8 @@
           "type": "tab",
           "settings": {
             "header": "Shipping & Return",
-            "content": "<p>Shipping cost is based on weight. Just add products to your cart and use the Shipping Calculator to see the shipping price.<\/p><p>We want you to be 100% satisfied with your purchase. Items can be returned or exchanged within 30 days of delivery.<\/p>"
+            "content": "<p>Shipping cost is based on weight. Just add products to your cart and use the Shipping Calculator to see the shipping price.<\/p><p>We want you to be 100% satisfied with your purchase. Items can be returned or exchanged within 30 days of delivery.<\/p>",
+            "content_page": ""
           }
         }
       },
@@ -67,17 +96,31 @@
       ],
       "settings": {
         "container": "container",
-        "bg_color": ""
+        "bg_color": "",
+        "default_open": true
       }
     },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
+        "container": "container",
+        "heading": "You Might Also Like",
+        "text_align": "left",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
       }
     },
     "recent-viewed-products": {
       "type": "recent-viewed-products",
       "settings": {
+        "container": "container",
+        "heading": "Recently Viewed Products",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
       }
     }
   },

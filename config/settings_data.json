@@ -1,6 +1,7 @@
 {
   "current": {
-    "favicon": "shopify:\/\/shop_images\/fav_icon_dark_1.png",
+    "favicon": "shopify:\/\/shop_images\/sirius_red.png",
+    "use_ajax_atc": false,
     "container_width": 1200,
     "container_fluid_width": 1620,
     "container_fluid_offset": 65,
@@ -40,11 +41,11 @@
     "use_custom_font_heading": true,
     "custom_heading_font": "https:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Regular.ttf?v=1618297125@400\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-Medium.ttf?v=1618297125@500\nhttps:\/\/cdn.shopify.com\/s\/files\/1\/0561\/2742\/2636\/files\/Jost-SemiBold.ttf?v=1618297125@600",
     "custom_heading_weight": "400",
-    "type_header_base_size": 40,
+    "type_header_base_size": 26,
     "btn_weight": "500",
     "pcard_layout": "1",
     "pcard_alignment": "left",
-    "pcard_image_ratio": "3\/4",
+    "pcard_image_ratio": "1\/1",
     "show_vendor": false,
     "variant_option_design1": "button",
     "variant_option_design2": "color",
