@@ -77,7 +77,6 @@
     "show_cookie_consent": true,
     "cookie_consent_placement": "bottom-left",
     "cookie_consent_theme": "white",
-    "custom_css": ".sf-topbar {\n  border-color: #eee;\n}\n[id$=\"16225125199f82d8fe\"] .section-my {\n  padding-top: 45px;\n  padding-bottom: 45px;\n  margin-bottom: 0;\n  margin-top: 0;\n}\n[id$=\"16225125199f82d8fe\"] {\n  border-top: 1px solid #eee;\n}\n.sf__font-normal {\n  font-weight: 400;\n}\n[id$=\"16225316461d1cff80\"]\n  .collection-card__info\n  h3\n  a {\n  font-weight: 400;\n  font-size: 24px;\n  line-height: 34px;\n  margin-bottom: 4px;\n}\n[id$=\"16225316461d1cff80\"]\n  .collection-card__info\n  p {\n  color: #666;\n}\n[id$=\"16225125199f82d8fe\"] .sf-icon-box__text h3 {\n  line-height: 26px;\n  font-size: 20px;\n  font-weight: 500;\n}\n@media (min-width: 1536px) {\n  [id$=\"1621243260e1af0c20\"] .slide__block-title {\n    font-size: 100px;\n    line-height: 95px;\n  }\n}\n@media (max-width: 576px) {\n  [id$=\"1621243260e1af0c20\"] a.sf__mobile-button,\n  [id$=\"162251092958fcda7c\"] .sf__btn-primary,\n  [id$=\"162251092958fcda7c\"] .sf__btn-secondary {\n    width: 100%;\n  }\n  [id$=\"16225316461d1cff80\"] .section__heading {\n    text-align: center;\n  }\n  [id$=\"16225316461d1cff80\"]\n    .collection-card__info\n    h3\n    a {\n    font-weight: 500;\n  }\n  [id$=\"16225316461d1cff80\"]\n    .collection-card__info\n    p {\n    font-size: 14px;\n    line-height: 20px;\n  }\n  [id$=\"16225125199f82d8fe\"] .sf-icon-box__text h3 {\n    font-size: 18px;\n    margin-bottom: 2px;\n  }\n}",
     "show_variant_swatch_image": true,
     "bg_cart_count": "#da3f3f",
     "sections": {
@@ -156,7 +155,7 @@
           "header_sticky": true,
           "transparent_on_top": false,
           "logo_text": "MINIMOG",
-          "logo": "shopify:\/\/shop_images\/Sirius_black_logo-01.jpg",
+          "logo": "shopify:\/\/shop_images\/sirius_rangehood_logo.png",
           "logo_svg": "",
           "logo_mobile_svg": "",
           "logo_transparent_svg": "",
@@ -248,7 +247,7 @@
           "show_country_selector": false,
           "show_currency_selector": false,
           "show_language_selector": false,
-          "show_social_links": true,
+          "show_social_links": false,
           "show_payment_icons": false,
           "payment_icons_width": 300
         }

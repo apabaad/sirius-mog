@@ -48,8 +48,29 @@
             "show_social": true
           }
         },
+        "5b02cb08-e8df-40ca-96a5-8fe106f90a00": {
+          "type": "meta",
+          "settings": {
+            "show_collections": false,
+            "show_category": true,
+            "show_vendor": false,
+            "show_type": false,
+            "show_availability": false,
+            "show_sku": true
+          }
+        },
         "b8d3b263-7f85-434e-b09b-7ac70aede5a7": {
           "type": "description",
+          "settings": {
+          }
+        },
+        "4b1b74b7-0b31-4a67-8958-cf500df66472": {
+          "type": "features-benefits",
+          "settings": {
+          }
+        },
+        "901e7401-4b5a-473b-9045-9d404476c10b": {
+          "type": "specs-manuals",
           "settings": {
           }
         }
@@ -60,7 +81,10 @@
         "variant_picker",
         "buy_buttons",
         "addons",
-        "b8d3b263-7f85-434e-b09b-7ac70aede5a7"
+        "5b02cb08-e8df-40ca-96a5-8fe106f90a00",
+        "b8d3b263-7f85-434e-b09b-7ac70aede5a7",
+        "4b1b74b7-0b31-4a67-8958-cf500df66472",
+        "901e7401-4b5a-473b-9045-9d404476c10b"
       ],
       "settings": {
         "container": "container",
