@@ -2,11 +2,10 @@
   "sections": {
     "breadcrumb": {
       "type": "breadcrumb",
-      "disabled": true,
       "settings": {
-        "container": "container",
-        "text_alignment": "center",
-        "hide_current": false,
+        "container": "w-full",
+        "text_alignment": "left",
+        "hide_current": true,
         "hide_on_mb": false
       }
     },

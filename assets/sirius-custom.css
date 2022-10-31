@@ -20,3 +20,43 @@
   width: 7rem;
   border: 0;
 }
+
+.main-product__block {
+  margin-top: 0px !important;
+}
+
+.prod__additional_infos li {
+  margin-top: 0px !important;
+}
+
+.prod__category {
+  color: #ec1b24;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.prod__sku {
+  font-weight: bold;
+}
+
+.main-product__block-description {
+  margin-top: 16px !important;
+}
+
+.product-features,
+.specs-manuals {
+  margin-top: 16px;
+}
+
+.features-title {
+  font-weight: bold;
+}
+
+.product-features-list {
+  margin-left: 2rem;
+  list-style: disc;
+}
+
+.specs-manual-row button {
+  background-color: red;
+}
