@@ -157,6 +157,28 @@
         "column_gap": 30,
         "enable_slider": true
       }
+    },
+    "53a16c4b-a242-4a5d-b5bc-480d713a8a72": {
+      "type": "sirius-product-specification",
+      "settings": {
+      }
+    },
+    "3efea152-8ea2-4d3d-b687-d05ed0e7c7cf": {
+      "type": "sirius-product-features",
+      "settings": {
+      }
+    },
+    "789069f8-2f98-4239-b87a-7f2869058b09": {
+      "type": "product-recommendations",
+      "settings": {
+        "container": "container",
+        "heading": "You May Also Like...",
+        "text_align": "left",
+        "limit": 5,
+        "columns": 5,
+        "column_gap": 30,
+        "enable_slider": true
+      }
     }
   },
   "order": [
@@ -164,6 +186,9 @@
     "main",
     "product-details-tabs",
     "product-recommendations",
-    "recent-viewed-products"
+    "recent-viewed-products",
+    "53a16c4b-a242-4a5d-b5bc-480d713a8a72",
+    "3efea152-8ea2-4d3d-b687-d05ed0e7c7cf",
+    "789069f8-2f98-4239-b87a-7f2869058b09"
   ]
 }

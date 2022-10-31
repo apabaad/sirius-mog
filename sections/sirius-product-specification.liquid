@@ -1,0 +1,88 @@
+
+<div class ="product-specification-section">
+    <div class="container">
+        <div class = "product-specification-container flex">
+           
+            <div class = "product-specification-left-section">
+                <div class ="product-specification-title"> Product Specifications </div>
+                    <div class="specs-text-container">
+                        {% assign specifications = product.metafields.specs-value.specs-value.size | minus: 1 %}
+                        {% for i in (0..specifications) %}
+                        <div class = "specs-text flex">
+                            <span class ="specs-title"> {{product.metafields.Specs-title.Specs-title[i]}}: </span>
+                            <span class ="specs-value"> {{product.metafields.specs-value.specs-value[i]}} </span>
+                        </div>
+                        {% endfor %}
+                </div>
+            </div>
+                
+                <div class = "product-specification-right-section">
+                    <div class ="specs-image-container">
+                        <img class = "specs-image" src ="https://cdn.shopify.com/s/files/1/0555/4231/7366/files/Screenshot_12.png?v=1667181505">
+                    </div>
+                </div>
+            
+        </div>
+</div>
+</div>
+
+{% style %}
+.product-specification-section{
+    margin-top:4rem;
+    background-color: #e6e6e6;
+}
+
+.product-specification-container{
+    padding: 4rem 0;
+    width:100%;
+    justify-content:space-between;
+}
+
+.product-specification-left-section{
+    width:60%;
+}
+.product-specification-title{
+    font-weight: 600;
+    font-size:1.8rem;
+    position: relative;
+}
+
+.product-specification-title::after {
+    content: "";
+    background: red;
+    position:absolute;
+    bottom: -10px;
+    left:0;
+    height:3px;
+    width:80px;
+}
+
+.specs-text-container{
+    width:80%;
+    margin-top:3rem;
+}
+.specs-text{
+    padding: 0 0 10px 0
+
+}
+.specs-title{
+    width:50%;
+    font-weight: 600;
+}
+
+.specs-image{
+    height:300px;
+}
+
+{% endstyle %}
+
+{% schema %}
+{
+"presets": [ {
+    "name":"Product Specifications",
+    "category":"Advanced Layout"
+}
+]
+
+}
+{% endschema %}

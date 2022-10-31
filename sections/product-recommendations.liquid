@@ -10,8 +10,8 @@
 >
   <div class="{{ section.settings.container }} section-my">
     {% assign default_heading = 'products.product.product_recommendation_heading' | t %}
-    <div class="section__header text-{{ section.settings.text_align | default: 'left' }}">
-      <h2 class="section__heading">{{ st.heading | default: default_heading }}</h2>
+    <div class="section__header text-{{ section.settings.text_align | default: 'left' }} relative">
+      <h2 class="section__heading sirius-title">{{ st.heading | default: default_heading }}</h2>
     </div>
     <div class="relative">
       {%- capture grid_class -%}

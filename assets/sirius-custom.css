@@ -60,3 +60,21 @@
 .specs-manual-row button {
   background-color: red;
 }
+
+.product-recommendations {
+  margin-top: 4rem;
+}
+
+.product-recommendations .section__heading {
+  font-weight: bold;
+}
+
+.sirius-title:after {
+  content: '';
+  background: red;
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  height: 3px;
+  width: 80px;
+}

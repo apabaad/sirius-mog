@@ -79,6 +79,7 @@
             
               {%- when 'features-benefits' -%}
 
+                {% if product.metafields.features-title.features-title != blank %}
                 <div class = "product-features">
                   <span class = "features-title">FEATURES & BENEFITS</span>
                   
@@ -91,6 +92,7 @@
                   {%- endfor -%}
                 </ul>
               </div>
+            {% endif %}
               
                 {%- when 'specs-manuals' -%}
                   <div class ="specs-manuals">

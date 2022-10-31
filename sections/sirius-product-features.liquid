@@ -1,0 +1,96 @@
+
+    {% if product.metafields.features-title.features-title != blank %}
+      <section id="keyfeatures" class="py-[40px] md:py-[60px] lg:py-[80px] bg-[#ffffff]">
+        <div class="container mx-auto">
+            <div class ="product-features-title"> Features & Benefits </div>
+                
+                    {% assign features = product.metafields.features-title.features-title.size | minus: 1 %}
+                    <div class="features-container flex">
+                    {% for i in (0..features) %}
+                    <div class="keyfeatures">
+                    <img class="feature-icon" loading="lazy" src="{{product.metafields.features-icon.features-icon[i]}}"> 
+                    <div class="keyfeatures-text">
+                            <div class="features-title">{{product.metafields.features-title.features-title[i] }}</div>
+                            <p>{{product.metafields.features-description.features-description[i]}}</p>
+                    </div>
+                    </div>
+                        
+                    {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+
+      {% style %}
+
+
+      #keyfeatures{
+        margin-top:4rem;
+      }
+
+      
+      .product-features-title{
+        font-weight: 600;
+        font-size:1.8rem;
+        position: relative;
+      }
+
+      .product-features-title::after {
+        content: "";
+        background: red;
+        position:absolute;
+        bottom: -10px;
+        left:0;
+        height:3px;
+        width:80px;
+    }
+
+    .features-container{
+        margin-top:1rem;
+    } 
+        
+        .features-container{
+        flex-wrap:wrap;
+        
+        }
+
+        .keyfeatures{
+        margin: 1rem;
+        display:flex;
+        width:47%;
+
+        }
+
+        .keyfeatures-text{
+        margin-left:30px;
+        text-align:justify;
+        }
+
+        .feature-icon{
+        width:60px;
+        max-height:60px;
+        }
+
+        @media screen and (max-width:1279px){
+        .keyfeatures{
+            width:40%;
+            }
+        }
+        @media screen and (max-width:805px){
+        .keyfeatures{
+            width:100%;
+            }
+        }
+      
+      {% endstyle %}
+
+{% schema %}
+{
+"presets": [ {
+    "name":"Product Features",
+    "category":"Advanced Layout"
+}
+]
+
+}
+{% endschema %}
