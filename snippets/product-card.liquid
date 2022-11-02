@@ -97,7 +97,8 @@
           <div class="flex justify-center items-center">
             <a href="{{ product.url }}" class="block w-full">
                 {% if preview_image != blank %}
-                  <div class="spc__main-img{% if product.images.size < 2 %} spc__img-only{% endif %}">
+                  <div class ="sirius-product-card">
+                  <div class="spc__main-img{% if product.images.size < 2 %} spc__img-only{% endif %} sirius-spc__main-img-size">
                     {%- capture style -%}
                       {% assign asp_rat = image_ratio | default: preview_image.aspect_ratio %}
                       {% if asp_rat == 'original' %}
@@ -128,7 +129,10 @@
                           {{ image_attributes }}
                       >
                     </responsive-image>
+                    
                   </div>
+                  </div>
+
           
                   {%- if second_image != blank -%}
                     <div class="spc__hover-img">
@@ -472,8 +476,8 @@
             {% endif %}   
         </div>
       </div>
-      <div class="sf__pcard-content text-{{ settings.pcard_alignment }}">
-        <div class="mt-3 lg:mt-5">
+      <div class="sf__pcard-content text-{{ settings.pcard_alignment }} sirius-text-bg">
+        <div class="mt-3 lg:mt-5 sirius-table-cell">
           <div class="max-w-full w-full">
             {%- if show_vendor -%}
               <span class="sf__pcard-vendor block uppercase text-xs mb-2">{{ product.vendor }}</span>

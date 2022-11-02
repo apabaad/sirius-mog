@@ -313,6 +313,7 @@
                 {% render 'product-option', product: product, section: section, size_title: size_title, product_form_id: product_form_id, update_browser_history: update_browser_history %}
               </div>
             {%- when 'buy_buttons' -%}
+            
               {% liquid
                 assign show_dynamic_checkout = block.settings.show_dynamic_checkout
                 if image_field.size > 0
@@ -398,8 +399,8 @@
                       {% endif %}
                     </div>
                   </div>
-                  <div class="prod__form-error pt-4"></div>
-                  <div class="quantity-discount-hook mt-4"></div>
+                  {% comment %} <div class="prod__form-error pt-4"></div>
+                  <div class="quantity-discount-hook mt-4"></div> {% endcomment %}
                 {%- endform -%}
               </product-form>
 
@@ -426,7 +427,10 @@
                       </pickup-availability-preview>
                   </template>
               </pickup-availability>
+           
               <script src="{{ 'pickup-availability.min.js' | asset_url }}" defer="defer"></script>
+
+            
 
             {%- when 'collapsible_tab' -%}
               {% if block.settings.heading != blank %}

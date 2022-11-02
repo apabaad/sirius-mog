@@ -40,7 +40,7 @@
 }
 
 .main-product__block-description {
-  margin-top: 16px !important;
+  margin-top: 8px !important;
 }
 
 .product-features,
@@ -77,4 +77,28 @@
   left: 0;
   height: 3px;
   width: 80px;
+}
+
+.sirius-product-card {
+  background-color: #e6e6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sirius-spc__main-img-size {
+  width: 80%;
+  padding: 10% 0;
+}
+
+.sirius-text-bg {
+  background-color: #e6e6e6;
+  padding: 1px 10px;
+  /* text-align: center; */
+  display: table-row;
+  width: 100%;
+}
+
+.sirius-table-cell {
+  display: table-cell;
 }

@@ -32,11 +32,10 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
-            "show_quantity_selector": true,
-            "show_atc_button": true,
-            "show_dynamic_checkout": true
+            "show_quantity_selector": false,
+            "show_atc_button": false,
+            "show_dynamic_checkout": false
           }
         },
         "addons": {
@@ -48,7 +47,7 @@
             "show_social": true
           }
         },
-        "26c22cb5-bbad-47bb-9d09-79c0b05dc053": {
+        "e5f1bc50-1e00-407c-b058-f3f142c1edb6": {
           "type": "meta",
           "settings": {
             "show_collections": false,
@@ -59,17 +58,17 @@
             "show_sku": true
           }
         },
-        "9d98a24f-5f35-40d1-aea1-51b6d1e8f4fa": {
+        "1478118b-f4cc-4676-b8a9-63bfcfe96098": {
           "type": "description",
           "settings": {
           }
         },
-        "998bdbd4-14c9-4d01-bfe5-ba5b243100e3": {
+        "2d2652a3-4085-4a8f-bf9a-804ef0320aab": {
           "type": "features-benefits",
           "settings": {
           }
         },
-        "bdea5985-ea6b-4ad6-97f6-b28246b359f1": {
+        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6": {
           "type": "specs-manuals",
           "settings": {
           }
@@ -81,10 +80,10 @@
         "variant_picker",
         "buy_buttons",
         "addons",
-        "26c22cb5-bbad-47bb-9d09-79c0b05dc053",
-        "9d98a24f-5f35-40d1-aea1-51b6d1e8f4fa",
-        "998bdbd4-14c9-4d01-bfe5-ba5b243100e3",
-        "bdea5985-ea6b-4ad6-97f6-b28246b359f1"
+        "e5f1bc50-1e00-407c-b058-f3f142c1edb6",
+        "1478118b-f4cc-4676-b8a9-63bfcfe96098",
+        "2d2652a3-4085-4a8f-bf9a-804ef0320aab",
+        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6"
       ],
       "settings": {
         "container": "container",
@@ -145,12 +144,12 @@
         "enable_slider": true
       }
     },
-    "6177527c-6612-4094-b584-28933fb95991": {
+    "76ebe260-dc48-4219-aa30-4dc9563004e8": {
       "type": "sirius-product-specification",
       "settings": {
       }
     },
-    "b1c05721-b3ba-4157-8696-72e5a9de5f20": {
+    "b402f929-d4f3-470f-b419-08289f5ce26b": {
       "type": "sirius-product-features",
       "settings": {
       }
@@ -159,7 +158,7 @@
       "type": "product-recommendations",
       "settings": {
         "container": "container",
-        "heading": "You May Also Like...",
+        "heading": "You Might Also Like",
         "text_align": "left",
         "limit": 5,
         "columns": 5,
@@ -173,8 +172,8 @@
     "main",
     "product-details-tabs",
     "recent-viewed-products",
-    "6177527c-6612-4094-b584-28933fb95991",
-    "b1c05721-b3ba-4157-8696-72e5a9de5f20",
+    "76ebe260-dc48-4219-aa30-4dc9563004e8",
+    "b402f929-d4f3-470f-b419-08289f5ce26b",
     "product-recommendations"
   ]
 }
