@@ -1451,7 +1451,8 @@ const getOptionValueFromOptionNode = optNode => {
   const image = LazyImage_createElement("img", {
     style: style,
     className: `transition-opacity opacity-0 ${className}`,
-    src: src,
+    src: `${src}&width=300`,
+    loading: "lazy",
     alt: alt
   });
   image.addEventListener('load', imgLoaded);

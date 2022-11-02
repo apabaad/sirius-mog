@@ -827,7 +827,6 @@ if (!customElements.get("pcard-swatch")) {
     }
 
     updatePrice(variant) {
-      console.log('update price');
       if (MinimogSettings.pcard_show_lowest_prices) return;
       const classes = {
         onSale: 'f-price--on-sale',

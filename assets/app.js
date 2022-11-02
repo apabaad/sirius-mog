@@ -4254,7 +4254,8 @@ register('testimonials', {
   const image = LazyImage_createElement("img", {
     style: style,
     className: `transition-opacity opacity-0 ${className}`,
-    src: src,
+    src: `${src}&width=300`,
+    loading: "lazy",
     alt: alt
   });
   image.addEventListener('load', imgLoaded);
@@ -5064,21 +5065,6 @@ register('google-maps', {
     });
   }
 }); // load('google-maps')
-;// CONCATENATED MODULE: ./src/js/sections/video.js
-
-
-register('video-section', {
-  onLoad: function () {
-    const initVideo = () => {
-      window.pauseAllMedia();
-      const deferredMedia = this.container.querySelector(".deferred-media");
-      const autoplay = deferredMedia?.dataset.autoPlay === "true";
-      if (deferredMedia && autoplay) deferredMedia.loadContent(false);
-    };
-
-    if (window.__sfWindowLoaded) initVideo();else window.addEventListener("load", initVideo);
-  }
-});
 ;// CONCATENATED MODULE: ./src/js/components/Spinner.jsx
 /* provided dependency */ var Spinner_createElement = __webpack_require__(6295)["default"];
 /* harmony default export */ function Spinner(_ref) {
@@ -5129,7 +5115,6 @@ register('custom-content', {
     });
     this.initCountDown();
     this.initProductBundles();
-    if (window.__sfWindowLoaded) this._initVideo(this.id);else window.addEventListener("load", () => this._initVideo(this.id));
   },
   initCountDown: function () {
     const countdowns = this.domNodes.cdtContainer;
@@ -5257,18 +5242,6 @@ register('custom-content', {
     } else {
       this?.spinner?.remove();
       button.classList.remove('sf-spinner-loading');
-    }
-  },
-  _initVideo: function (id) {
-    const videoBlocks = this.container.querySelectorAll('[data-video-block]');
-
-    if (videoBlocks.length) {
-      videoBlocks.forEach(vidBlock => {
-        window.pauseAllMedia();
-        const deferredMedia = vidBlock.querySelector(".deferred-media");
-        const autoplay = deferredMedia?.dataset.autoPlay === "true";
-        if (deferredMedia && autoplay) deferredMedia.loadContent(false);
-      });
     }
   }
 });
@@ -5495,8 +5468,7 @@ register('featured-collection', {
       availableNumber: ['[data-available-number]'],
       countDown: '[data-flashsale-countdown]'
     };
-    this.domNodes = queryDomNodes(this.selectors, this.container); // MinimogTheme.Products.initProductForms().catch(console.error)
-
+    this.domNodes = queryDomNodes(this.selectors, this.container);
     const {
       container
     } = this;
@@ -5544,8 +5516,7 @@ register('featured-collection', {
     });
   },
   initInfiniteLoad: function () {
-    const maxPages = this.container.dataset.maxPages; // const handleIfLoad = debounce(this.handleLoadMore, 100)
-
+    const maxPages = this.container.dataset.maxPages;
     window.addEventListener('scroll', e => {
       this.canLoad = this.currentPage < parseInt(maxPages);
       if (!this.canLoad) return;
@@ -5563,12 +5534,13 @@ register('featured-collection', {
     const url = this.container.dataset.url;
     const dataUrl = `${url}?page=${this.currentPage}&section_id=${this.id}`;
     fetchCache(dataUrl).then(html => {
-      this.toggleLoading(false); // const dom = generateDomFromString(html)
-      // const products = dom.querySelector(this.selectors.productsContainer)
-      // if (products) {
-      //   Array.from(products.childNodes).forEach(product => this.domNodes.productsContainer.appendChild(product))
-      //   MinimogTheme.Products.initProductForms()
-      // }
+      this.toggleLoading(false);
+      const dom = generateDomFromString(html);
+      const products = dom.querySelector(this.selectors.productsContainer);
+
+      if (products) {
+        Array.from(products.childNodes).forEach(product => this.domNodes.productsContainer.appendChild(product));
+      }
 
       this.triggerLoad = false;
 
@@ -6294,6 +6266,15 @@ register('product-tabs', {
     this.tabs.setActiveTab(index);
   }
 });
+;// CONCATENATED MODULE: ./src/js/sections/foxkit-related-products.js
+
+register('foxkit-related-products', {
+  onLoad: function () {
+    if (window?.FoxKit?.foxKitSettings?.productRecommendations) {
+      window?.FoxKit?.initProductRecommendations?.();
+    }
+  }
+});
 ;// CONCATENATED MODULE: ./src/js/pages/product/product-list.js
 /* provided dependency */ var product_list_createElement = __webpack_require__(6295)["default"];
 /* provided dependency */ var product_list_MinimogTheme = __webpack_require__(4558)["MinimogTheme"];
@@ -6343,11 +6324,7 @@ class ProductList {
         }
       });
       product_list_MinimogTheme.CompareProduct?.setCompareButtonsState();
-      product_list_MinimogTheme.Wishlist?.setWishlistButtonsState(); // MinimogTheme.Products.initProductForms({ context: this.container })
-      // .then(() => {
-      // })
-      // .catch(console.error)
-
+      product_list_MinimogTheme.Wishlist?.setWishlistButtonsState();
       this.initByScreenSize();
       this.container.classList.remove('hidden');
       window.addEventListener('resize', debounce_debounce(this.initByScreenSize, 300));
@@ -6401,44 +6378,6 @@ class ProductList {
 
 }
 product_list_MinimogTheme.ProductList = ProductList;
-;// CONCATENATED MODULE: ./src/js/sections/product-recommendations.js
-/* provided dependency */ var product_recommendations_MinimogSettings = __webpack_require__(4558)["MinimogSettings"];
-/* provided dependency */ var product_recommendations_MinimogTheme = __webpack_require__(4558)["MinimogTheme"];
-
-
-register('product-recommendations', {
-  onLoad: async function () {
-    try {
-      const recommendationURL = product_recommendations_MinimogSettings.routes.product_recommendations_url;
-      const productId = product_recommendations_MinimogSettings.productId || product_recommendations_MinimogTheme.Cart.cart.items[0]?.product_id;
-
-      if (productId) {
-        const res = await fetchJSON(`${recommendationURL}.json?product_id=${productId}&limit=${this.container.dataset.productsToShow}`);
-        const {
-          products
-        } = res || {};
-        this.productHandles = products.map(_ref => {
-          let {
-            handle
-          } = _ref;
-          return handle;
-        });
-        this.productList = new ProductList(this.container, this.productHandles);
-      }
-    } catch (error) {
-      console.error("Failed to init product-recommendations section!", error);
-    }
-  }
-});
-;// CONCATENATED MODULE: ./src/js/sections/foxkit-related-products.js
-
-register('foxkit-related-products', {
-  onLoad: function () {
-    if (window?.FoxKit?.foxKitSettings?.productRecommendations) {
-      window?.FoxKit?.initProductRecommendations?.();
-    }
-  }
-});
 ;// CONCATENATED MODULE: ./src/js/sections/recently-viewed-products.js
 
 
@@ -6517,14 +6456,12 @@ register('article-template', {
 
 
 
-
  // Collection page sections
 
 
 
  // import './foxkit-flashsale'
 // Product page sections
-
 
 
 
@@ -7266,7 +7203,10 @@ class Cart {
     });
 
     _defineProperty(this, "calculateShipping", e => {
-      e.preventDefault();
+      e.preventDefault(); // this.domNodes.cartDrawer.classList.add('shipping-calculating')
+
+      const actionsWrapper = e.target.closest('.scd__addon-actions');
+      actionsWrapper.classList.add('shipping-calculating');
       const zipCode = this.domNodes.zipCode.value?.trim();
       const country = this.domNodes.country.value;
       const province = this.domNodes.province.value;
@@ -7283,6 +7223,7 @@ class Cart {
           } = cart_MinimogStrings;
 
           if (shipping_rates.length > 0) {
+            actionsWrapper.classList.remove('shipping-calculating');
             this.domNodes.shippingContent.appendChild(cart_createElement("p", {
               className: "mb-3 text-base"
             }, shippingRatesResult.replace('{{count}}', shipping_rates.length), ":"));
@@ -7292,9 +7233,11 @@ class Cart {
               this.domNodes.shippingContent.appendChild(cart_createElement("p", null, rate.name, ": ", rateNode));
             });
           } else {
+            actionsWrapper.classList.remove('shipping-calculating');
             this.domNodes.shippingContent.innerHTML = `<p>${noShippingRate}</p>`;
           }
         } else {
+          actionsWrapper.classList.remove('shipping-calculating');
           Object.entries(res).map(error => {
             this.domNodes.shippingContent.classList.add(error[0]?.toLowerCase());
             console.log(error, 'error');

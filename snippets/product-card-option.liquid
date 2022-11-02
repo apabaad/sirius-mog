@@ -13,7 +13,7 @@
   data-limit="{{ values_limit }}"
   data-pcard-variant-picker
   data-product-url="/products/{{ product.handle }}"
-  {% unless settings.show_swatch_option %}style="display: none;"{% endunless %}
+  {% unless show_variant_options %}style="display: none;"{% endunless %}
 >
   <pcard-swatch class="pcard-variant-option -mx-[5px] mt-3 flex flex-wrap items-center justify-{{ alignment }}">
     {%- for option in product.options_with_values -%}

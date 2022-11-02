@@ -576,7 +576,8 @@ var defineProperty = __webpack_require__(4942);
   const image = createElement("img", {
     style: style,
     className: `transition-opacity opacity-0 ${className}`,
-    src: src,
+    src: `${src}&width=300`,
+    loading: "lazy",
     alt: alt
   });
   image.addEventListener('load', imgLoaded);

@@ -877,6 +877,109 @@
       "type": "breadcrumb",
       "name": "Breadcrumb",
       "limit": 1
+    },
+    {
+      "type": "complementary",
+      "name": "Complementary products",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "paragraph",
+          "content": "To select complementary products, add the Search & Discovery app. [Learn more](https:\/\/shopify.dev\/themes\/product-merchandising\/recommendations)"
+        },
+        {
+          "type": "text",
+          "id": "block_heading",
+          "default": "Pairs well with",
+          "label": "Heading"
+        },
+        {
+          "type": "checkbox",
+          "id": "make_collapsible_row",
+          "default": false,
+          "label": "Show as collapsible tab"
+        },
+        {
+          "type": "range",
+          "id": "product_list_limit",
+          "min": 1,
+          "max": 10,
+          "step": 1,
+          "default": 10,
+          "label": "Maximum products to show"
+        },
+        {
+          "type": "range",
+          "id": "products_per_page",
+          "min": 1,
+          "max": 3,
+          "step": 1,
+          "default": 2,
+          "label": "Number of products per page"
+        },
+        {
+          "type": "header",
+          "content": "Product card"
+        },
+        {
+          "type": "select",
+          "id": "pcard_image_ratio",
+          "label": "Aspect ratio",
+          "default": "original",
+          "options": [
+            {
+              "value": "original",
+              "label": "Adapt to image"
+            },
+            {
+              "value": "1/1",
+              "label": "1:1"
+            },
+            {
+              "value": "3/4",
+              "label": "3:4"
+            },
+            {
+              "value": "4/3",
+              "label": "4:3"
+            },
+            {
+              "value": "16/9",
+              "label": "16:9"
+            }
+          ]
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_variant_options",
+          "label": "Enable variant options",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_quick_view",
+          "label": "Enable quick view button",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_quick_add",
+          "label": "Enable add to cart button",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_compare",
+          "label": "Enable compare button",
+          "default": false
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_wishlist",
+          "label": "Enable wishlist button",
+          "default": false
+        }
+      ]
     }
   ]
 }

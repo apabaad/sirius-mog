@@ -454,7 +454,6 @@ if (!customElements.get("variant-picker")) {
 
     updateMedia() {
       if (!this.currentVariant) return;
-      if (!this.currentVariant.featured_media) return;
       let mainItems = [],
           navItems = [];
       let index = 0,
@@ -509,7 +508,7 @@ if (!customElements.get("variant-picker")) {
           this.media.firstElementChild.style.opacity = 1;
         } else {
           let index = 0;
-          const mediaWraper = this.media?.querySelector('.sf-prod-media__wrapper > div');
+          const mediaWraper = this.media?.querySelector('.sf-prod-media__wrapper .sf__product-media-lists');
           this.mediaItems?.forEach(item => {
             const dataIdMedia = item.querySelector('[data-media-id]')?.dataset.mediaId;
 

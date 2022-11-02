@@ -145,7 +145,6 @@
         "pcard_image_ratio": "1\/1",
         "show_vendor": false,
         "hide_title": false,
-        "show_price": false,
         "enable_slider": false,
         "show_pagination": false,
         "show_navigation": false,

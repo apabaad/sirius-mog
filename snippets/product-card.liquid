@@ -5,6 +5,10 @@
     assign card_style = settings.pcard_layout
   endif
 
+  if show_variant_options == nil 
+    assign show_variant_options = settings.show_swatch_option
+  endif
+
   assign show_title = true
   if hide_title == true
     assign show_title = false
@@ -487,14 +491,13 @@
               </div>
             {% endif %}
           </div>
-        
-          {% if show_price%}
+        {% if show_price %}
           <div class="sf__pcard-price leading-normal">
             {% render 'product-prices', product: product, is_product_card: true %}
           </div>
         {% endif %}
         
-          {% render 'product-card-option', product: product %}
+          {% render 'product-card-option', product: product, show_variant_options: show_variant_options %}
         </div>
     
         {%- if sold_out == false and settings.show_cart_button and card_style == '4' -%}

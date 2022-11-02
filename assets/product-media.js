@@ -673,7 +673,7 @@ if (!customElements.get("media-gallery")) {
         }
       } else {
         // handle change image in gallery mode
-        const selectedMedia = this.domNodes.mediaWrapper?.querySelector(`[data-media-id="${variant.featured_media.id}"]`);
+        const selectedMedia = this?.querySelector(`[data-media-id="${variant.featured_media.id}"]`);
 
         if (selectedMedia) {
           this.scrollIntoView(selectedMedia);

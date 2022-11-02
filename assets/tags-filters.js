@@ -2258,7 +2258,7 @@ class TagsFilter extends HTMLElement {
     _defineProperty(this, "renderCollectionHeader", html => {
       const dom = new DOMParser().parseFromString(html, 'text/html');
       const newCollectionHeader = dom.querySelector(this.selectors.collectionHeader);
-      this.domNodes.collectionHeader.replaceWith(newCollectionHeader);
+      this.domNodes?.collectionHeader?.replaceWith(newCollectionHeader);
     });
 
     _defineProperty(this, "renderProductGrid", html => {

@@ -76,7 +76,7 @@
               {% endif %}
             {%- when 'breadcrumb' -%}
               {% render 'breadcrumb', container: 'container', justify: alignBreadcrumb, hide_current: true %}
-            
+
               {%- when 'features-benefits' -%}
 
                 {% if product.metafields.features-title.features-title != blank %}
@@ -594,6 +594,84 @@
                   </li>
                 {% endif %}
               </ul>
+            {%- when 'complementary' -%}
+              {%- liquid 
+                assign hiddenClass = ''
+                unless block.settings.enable_quick_add
+                  assign hiddenClass = hiddenClass | append: 'hide-quick-add '
+                endunless
+                unless block.settings.enable_quick_view
+                  assign hiddenClass = hiddenClass | append: 'hide-quick-view '
+                endunless
+                unless block.settings.enable_compare
+                  assign hiddenClass = hiddenClass | append: 'hide-compare '
+                endunless
+                unless block.settings.enable_wishlist
+                  assign hiddenClass = hiddenClass | append: 'hide-wishlist '
+                endunless
+              -%}
+              <product-recommendations 
+                class="sf-complementary-products {{ hiddenClass }} {% if block.settings.make_collapsible_row %}show_as_collapsible{% endif %}" 
+                data-items-per-page="{{ block.settings.products_per_page }}" data-url="{{ routes.product_recommendations_url }}?section_id={{ section.id }}&product_id={{ product.id }}&limit={{ block.settings.product_list_limit }}&intent=complementary" style="--column-gap: 15px;
+                --column-gap-mobile: 15px;">
+                {%- if recommendations.performed and recommendations.products_count > 0 -%}
+                  {%- liquid 
+                    assign number_of_slides = recommendations.products_count | plus: 0.0 | divided_by: block.settings.products_per_page | ceil
+                    assign enable_slider = false
+                    if number_of_slides > 1
+                      assign enable_slider = true
+                    endif
+                  -%}
+                  {% capture block_content %}
+                    <div class="sf-grid grid grid-cols-2 sf__col-{{ block.settings.products_per_page }} md:grid-cols-{{ block.settings.products_per_page | divided_by: 2.0 | ceil }} xl:grid-cols-{{ block.settings.products_per_page }} {% if enable_slider %}swiper-container{% endif %}">
+                      {%- if enable_slider -%}<div class="swiper-wrapper">{%- endif -%}
+                      {%- for product in recommendations.products -%}
+                        {%- if enable_slider -%}
+                          <div class="swiper-slide sf-column">
+                            {% render 'product-card', product: product, image_ratio: block.settings.pcard_image_ratio, show_vendor: false, show_variant_options: block.settings.enable_variant_options %}
+                          </div>
+                        {%- else -%}
+                          {% render 'product-card', product: product, image_ratio: block.settings.pcard_image_ratio, show_vendor: false, show_variant_options: block.settings.enable_variant_options %}
+                        {%- endif -%}
+                      {%- endfor -%}
+                      {%- if enable_slider -%}</div>{%- endif -%}
+                    </div>
+                    {% if enable_slider %}
+                      {%- liquid 
+                        assign controls_absolute = true  
+                        if block.settings.make_collapsible_row
+                          assign controls_absolute = false  
+                        endif
+                      -%}
+                      {% render 'slider-controls', absolute: controls_absolute, container: section.settings.container, show_pagination: false, show_nav: true %}
+                    {% endif %}
+                  {% endcapture %}
+                  {% if block.settings.make_collapsible_row %}
+                    <collapsible-tab
+                      class="collapsible__item no-js-hidden"
+                      data-block-id="collapsible-tab-{{ block.id }}"
+                      open="true"
+                    >
+                      <button class="collapsible__button lg:text-[18px] pb-2.5 pr-4 border-b border-color-border" data-trigger>
+                          {% if block.settings.icon != blank and block.settings.icon != 'none' %}
+                              {% render 'icon', name: block.settings.icon %}
+                          {% endif %}
+                          <span>{{ block.settings.block_heading }}</span>
+                      </button>
+                      <div class="collapsible__content" data-content hidden>
+                          <div class="collapsible__content-inner">
+                              {{ block_content }}
+                          </div>
+                      </div>
+                    </collapsible-tab>
+                  {% else %}
+                    {% unless block.settings.block_heading == blank %}
+                      <h3 class="complementary-product-heading h4">{{ block.settings.block_heading }}</h3>
+                    {% endunless %}
+                    {{ block_content }}
+                  {% endif %}
+                {%- endif -%}
+              </product-recommendations>
           {%- endcase -%}
         </div>
       {%- endfor -%}

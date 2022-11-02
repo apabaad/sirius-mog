@@ -2,7 +2,7 @@
     {% if product.metafields.features-title.features-title != blank %}
       <section id="keyfeatures" class="py-[40px] md:py-[60px] lg:py-[80px] bg-[#ffffff]">
         <div class="container mx-auto">
-            <div class ="product-features-title"> Features & Benefits </div>
+            <div class ="product-features-title sirius-title"> Features & Benefits </div>
                 
                     {% assign features = product.metafields.features-title.features-title.size | minus: 1 %}
                     <div class="features-container flex">
@@ -35,15 +35,6 @@
         position: relative;
       }
 
-      .product-features-title::after {
-        content: "";
-        background: red;
-        position:absolute;
-        bottom: -10px;
-        left:0;
-        height:3px;
-        width:80px;
-    }
 
     .features-container{
         margin-top:1rem;

@@ -592,7 +592,8 @@ const NotifyButton = _ref => {
   const image = LazyImage_createElement("img", {
     style: style,
     className: `transition-opacity opacity-0 ${className}`,
-    src: src,
+    src: `${src}&width=300`,
+    loading: "lazy",
     alt: alt
   });
   image.addEventListener('load', imgLoaded);
@@ -927,7 +928,7 @@ class BIS {
     (0,defineProperty/* default */.Z)(this, "bisStickyButton", void 0);
 
     (0,defineProperty/* default */.Z)(this, "init", () => {
-      this.atcButton.after(this.bisButton);
+      this.atcButton?.after(this.bisButton);
       this.bisButton.addEventListener("click", e => {
         e.preventDefault();
         this.modal.appendChild(bis_createElement(BIS_Popup, {
@@ -984,21 +985,29 @@ class BIS {
 
     (0,defineProperty/* default */.Z)(this, "toggleShowBISButton", variant => {
       if (variant?.available === false) {
-        this.atcButton.style.display = 'none';
-        this.bisButton.style.display = 'inline-block';
+        if (this.atcButton) {
+          this.atcButton.style.display = 'none';
+          this.bisButton.style.display = 'inline-block';
+        }
       } else {
-        this.bisButton.style.display = 'none';
-        this.atcButton.style.removeProperty('display');
+        if (this.atcButton) {
+          this.bisButton.style.display = 'none';
+          this.atcButton.style.removeProperty('display');
+        }
       }
     });
 
     (0,defineProperty/* default */.Z)(this, "toggleShowBISButtonSticky", variant => {
       if (variant?.available === false) {
-        this.atcStickyButton.style.display = 'none';
-        this.bisStickyButton.style.display = 'inline-block';
+        if (this.atcStickyButton) {
+          this.atcStickyButton.style.display = 'none';
+          this.bisStickyButton.style.display = 'inline-block';
+        }
       } else {
-        this.bisStickyButton.style.display = 'none';
-        this.atcStickyButton.style.removeProperty('display');
+        if (this.atcStickyButton) {
+          this.bisStickyButton.style.display = 'none';
+          this.atcStickyButton.style.removeProperty('display');
+        }
       }
     });
 

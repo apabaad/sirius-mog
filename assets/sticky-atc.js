@@ -1208,14 +1208,14 @@ if (!customElements.get('sticky-atc')) {
     }
 
     connectedCallback() {
-      this.productFormActions = document.querySelector('.add-to-cart');
+      this.productFormActions = document.querySelector('.f-product-form');
       this.container = this.closest('.prod__sticky-atc');
       this.init();
     }
 
     init() {
       this.mainProduct = document.querySelector('.main-product.product-form');
-      this.mainATCButton = this.mainProduct?.querySelector('.add-to-cart');
+      this.mainATCButton = this.mainProduct?.querySelector('.f-product-form');
       this.mainProductDynamic = this.mainProduct?.querySelector(this.selectors.buyNowBtn);
       const stickyATCBar = document.querySelector('.prod__sticky-atc');
       this.stickyATCBar = stickyATCBar;
