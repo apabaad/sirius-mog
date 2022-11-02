@@ -80,7 +80,7 @@
 }
 
 .sirius-product-card {
-  background-color: #e6e6e6;
+  background-color: #f2f2f2;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -92,13 +92,9 @@
 }
 
 .sirius-text-bg {
-  background-color: #e6e6e6;
+  background-color: #f2f2f2;
   padding: 1px 10px;
-  /* text-align: center; */
-  display: table-row;
-  width: 100%;
-}
-
-.sirius-table-cell {
-  display: table-cell;
+  overflow: hidden;
+  min-height: 106px;
+  margin-top: -10px;
 }

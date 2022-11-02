@@ -581,3 +581,19 @@
     <input hidden name="id" required value="{{ variant_id }}" data-selected-variant="{{ selected_variant_id }}">
   </div> <!-- .sf__pcard -->
 {%- if column_wrapper -%}</div><!-- .sf-column -->{%- endif -%}
+
+
+{% comment %} <script>
+  function makeProviderRowEqual(){
+    $(".xl:grid-cols-5").each(function(){
+        $(this).find(".sirius-text-bg").height('auto');
+        var c = [];
+        for(var i=0; i < $(this).find(".sirius-text-bg").length; i++){
+            var height = $(this).find(".sirius-text-bg").eq(i).outerHeight();
+            c.push(height)
+        }
+        $(this).find(".sirius-text-bg").outerHeight( Math.max.apply(Math,c));
+    });
+}
+
+<endscript> {% endcomment %}

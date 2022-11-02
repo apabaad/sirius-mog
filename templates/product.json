@@ -4,9 +4,9 @@
       "type": "breadcrumb",
       "settings": {
         "container": "container",
-        "text_alignment": "center",
-        "hide_current": false,
-        "hide_on_mb": false
+        "text_alignment": "left",
+        "hide_current": true,
+        "hide_on_mb": true
       }
     },
     "main": {
@@ -158,11 +158,11 @@
       "type": "product-recommendations",
       "settings": {
         "container": "container",
-        "heading": "You Might Also Like",
+        "heading": "You May Also Like...",
         "text_align": "left",
         "limit": 5,
         "columns": 5,
-        "column_gap": 30,
+        "column_gap": 18,
         "enable_slider": false
       }
     }
