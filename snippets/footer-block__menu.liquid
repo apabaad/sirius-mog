@@ -1,10 +1,10 @@
 {% assign menu = linklists[block.settings.menu] %}
 {% if menu.links != blank %}
     <ul class="{% if block.settings.title != blank or block_title != blank %}sf__accordion-content{% endif %} sf__footer-block-content">
-        <div class="pb-5 md:pb-0">
+        <div class="pb-5 md:pb-0 {% if block.settings.decorate-list %}relative{% endif %}">
             {% for link in menu.links %}
-                <li class="link-lv2 leading-8 hover-underline">
-                    <a href="{{ link.url }}">
+                <li class="link-lv2 leading-8 {% if block.settings.decorate-list %}sirius-footer-list-decorate {% endif %}">
+                    <a href="{{ link.url }}" class="{% if block.settings.decorate-list %}sirius-footer-list-decorate-border {% endif %}">
                         {{ link.title }}
                     </a>
                 </li>

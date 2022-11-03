@@ -157,7 +157,7 @@
         "max_page_load": 3,
         "use_scroll_mobile": false,
         "item_gap_mobile": 16,
-        "padding_top": 70,
+        "padding_top": 58,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -279,7 +279,7 @@
         "enable_slider": true,
         "autorotate": true,
         "autorotate_speed": 3,
-        "padding_top": 70,
+        "padding_top": 58,
         "padding_bottom": 0,
         "custom_class": ""
       }

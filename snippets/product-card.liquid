@@ -482,13 +482,26 @@
             {%- if show_vendor -%}
               <span class="sf__pcard-vendor block uppercase text-xs mb-2">{{ product.vendor }}</span>
             {%- endif -%}
+
+            
+
+            {% if section.settings.show_product_code %}
+              <div class=" text-left">{{ product.selected_or_first_available_variant.sku }}</div>
+            {% endif %}
+
             {% if show_title == true %}
               <h3 class="block text-base">
-                <a href="{{ product.url }}" class="block mb-[5px] leading-normal sf__pcard-name font-medium truncate-lines hover:text-color-secondary{% if settings.uppercase_prd_name %} uppercase{% endif %}">
+                <a href="{{ product.url }}" class="block mb-[5px]  sf__pcard-name font-medium truncate-lines hover:text-color-secondary{% if settings.uppercase_prd_name %} uppercase{% endif %}">
                   {{ product.title }}
                 </a>
               </h3>
             {% endif %}
+
+            {% if section.settings.show_category %}
+             <div class = "uppercase text-left sirius-red-color">{{ product.metafields.custom.product_category }} </div>
+            {% endif %}
+          
+
             {% if settings.show_review_badge %}
               <div class="sf-pcard__reviews">
                 {% render 'product-reviews-app__badge', product: product %}
@@ -583,17 +596,3 @@
 {%- if column_wrapper -%}</div><!-- .sf-column -->{%- endif -%}
 
 
-{% comment %} <script>
-  function makeProviderRowEqual(){
-    $(".xl:grid-cols-5").each(function(){
-        $(this).find(".sirius-text-bg").height('auto');
-        var c = [];
-        for(var i=0; i < $(this).find(".sirius-text-bg").length; i++){
-            var height = $(this).find(".sirius-text-bg").eq(i).outerHeight();
-            c.push(height)
-        }
-        $(this).find(".sirius-text-bg").outerHeight( Math.max.apply(Math,c));
-    });
-}
-
-<endscript> {% endcomment %}

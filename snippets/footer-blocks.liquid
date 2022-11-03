@@ -34,7 +34,7 @@
                     <div class="sf-footer__block {% if block_title != blank %} sf__accordion-item {% if block.settings.open_default %} open{% endif %} {% endif %} sf__footer-block-{{ block.type }} w-full {{ block_width }}{% if bordered and forloop.last != true %} lg:border-r lg:border-color-border{% endif %} {% if block.settings.order_first %} order-first md:order-none{% endif %}">
                         <div class="sf-footer__block-inner {% if bordered %}lg:px-8{% else %}px-5{% endif %}">
                             {% if block_title != blank %}
-                                <h3 class="font-medium mb-4 text-base sf__accordion-button sf__footer-block-title">{{ block_title }}</h3>
+                                <h3 class="font-medium mb-4 text-base sf__accordion-button sf__footer-block-title {% if block.settings.decorate-list %}hidden {% endif %}">{{ block_title }}</h3>
                             {% endif %}
                             {% case block.type %}
                                 {% when 'menu' %}

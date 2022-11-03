@@ -88,7 +88,7 @@
 
 .sirius-spc__main-img-size {
   width: 80%;
-  padding: 10% 0;
+  padding: 30px 0px 15px 0px;
 }
 
 .sirius-text-bg {
@@ -97,4 +97,54 @@
   overflow: hidden;
   min-height: 106px;
   margin-top: -10px;
+}
+
+#CollectionProductGrid h3 {
+  text-align: left;
+}
+
+.sirius-red-color {
+  color: #ec1b24;
+}
+
+.search-container {
+  background-color: black;
+}
+
+.sirius-black-color {
+  color: white;
+}
+
+.sirius-footer-list-decorate {
+  background-color: #282727;
+  padding: 6px;
+  padding-left: 10px;
+  margin: 4px 0;
+  transition: 0.5s all ease-in-out;
+}
+
+.sirius-footer-list-decorate::before {
+  content: '';
+  background: #ec1b24;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  height: 100%;
+  width: 4px;
+}
+
+.sirius-footer-list-decorate:hover {
+  background-color: #ec1b24;
+  text-decoration: none;
+}
+
+.sirius-footer-list-decorate:hover a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.hover-underline a:after {
+  content: '';
+  background-color: #ec1b24;
+  /* transition: none !important; */
 }
