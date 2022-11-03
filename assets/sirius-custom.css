@@ -121,20 +121,11 @@
   padding-left: 10px;
   margin: 4px 0;
   transition: 0.5s all ease-in-out;
-}
-
-.sirius-footer-list-decorate::before {
-  content: '';
-  background: #ec1b24;
-  position: absolute;
-  bottom: 0px;
-  left: 0;
-  height: 100%;
-  width: 4px;
+  border-left: 4px solid #ee2b31;
 }
 
 .sirius-footer-list-decorate:hover {
-  background-color: #ec1b24;
+  background-color: #b80f15;
   text-decoration: none;
 }
 
