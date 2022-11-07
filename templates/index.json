@@ -5,6 +5,7 @@
       "blocks": {
         "1621243260e1af0c20-0": {
           "type": "slider_item",
+          "disabled": true,
           "settings": {
             "background": "shopify:\/\/shop_images\/Screenshot_7.png",
             "content_in_container": false,
@@ -26,14 +27,39 @@
             "footer_button": "",
             "footer_link": ""
           }
+        },
+        "1d646b4c-be8b-4465-89cf-37a6ae09b121": {
+          "type": "video_slide",
+          "settings": {
+            "video": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/6594396b64914f91adf8717d7dd9932b.mp4",
+            "content_in_container": false,
+            "content_position": "center middle",
+            "text_alignment": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "subheading": "",
+            "title": "",
+            "description": "",
+            "image_link": "",
+            "button_text": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "show_footer": false,
+            "footer_alignment": "end",
+            "footer_text": "New Collection",
+            "footer_button": "Shop Now",
+            "footer_link": ""
+          }
         }
       },
       "block_order": [
-        "1621243260e1af0c20-0"
+        "1621243260e1af0c20-0",
+        "1d646b4c-be8b-4465-89cf-37a6ae09b121"
       ],
       "settings": {
         "container": "w-full",
-        "slideshow_height": "large",
+        "slideshow_height": "fullscreen",
         "show_overlay": false,
         "dots_position": "right",
         "dots_color": "dark",
@@ -57,7 +83,7 @@
             "text_size": "medium",
             "text_color": "white",
             "image": "shopify:\/\/shop_images\/slt973em-web.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/valentina-collection",
             "title": "VALENTINA COLLECTION",
             "subtitle": "",
             "button_label": "",
@@ -76,7 +102,7 @@
             "text_size": "medium",
             "text_color": "white",
             "image": "shopify:\/\/shop_images\/Sirius-sltc97-canopy-web-image.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/sirius-range",
             "title": "SIRIUS RANGE",
             "subtitle": "",
             "button_label": "",
@@ -97,7 +123,7 @@
         "description": "",
         "header_alignment": "center",
         "container": "w-full",
-        "background_color": "",
+        "background_color": "#000000",
         "gap": 20,
         "use_scroll_mobile": false,
         "gap_mobile": 16,
