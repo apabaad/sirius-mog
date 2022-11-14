@@ -51,6 +51,8 @@ template-{{ template.name | handle }} {{ template.name }}-{{ template.suffix }} 
   <script src="{{ 'lazy-image.min.js' | asset_url }}" defer="defer"></script>
 
   {{ content_for_header }}
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" defer>
 </head>
 
 <body
@@ -84,4 +86,25 @@ template-{{ template.name | handle }} {{ template.name }}-{{ template.suffix }} 
   <script src="{{ 'quick-view.min.js' | asset_url }}" defer="defer"></script>
   <script src="{{ 'product-card-swatch.min.js' | asset_url }}" defer="defer"></script>
 </body>
+
+ <style>
+    {% if collection %}
+    	{% if collection.handle == 'pendant-collection' 
+        or collection.handle == 'valentina-collection' 
+        or collection.handle == 'downdraft' 
+        or collection.handle == 'undermount' 
+        or collection.handle == 'ceiling-cassette' 
+        or collection.handle == 'induction-downdraft' 
+        or collection.handle == 'integrated-downdraft'
+        or collection.handle == 'valentina-archive' %}
+
+    		body{
+          background: black; 
+          color:white;
+        }
+
+      {% endif %}
+    {% endif %}
+</style>
+  
 </html>

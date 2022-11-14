@@ -284,6 +284,17 @@
           "show_account_icon": false,
           "show_wishlist_icon": false
         }
+      },
+      "contact-form": {
+        "type": "contact-form",
+        "settings": {
+          "container": "w-full",
+          "title": "Leave us your message",
+          "description": "",
+          "show_name": true,
+          "show_phone": true,
+          "show_signup_email": true
+        }
       }
     },
     "content_for_index": [
