@@ -1,0 +1,639 @@
+{
+  "sections": {
+    "collection-header": {
+      "type": "collection-page-header",
+      "blocks": {
+        "e0b08035-8059-4fd9-b936-c075af0d9900": {
+          "type": "banner",
+          "settings": {
+            "collection": "valentina-collection",
+            "image": "shopify:\/\/shop_images\/SIrius-Rangehood-SDDH3-Slider.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "e0b08035-8059-4fd9-b936-c075af0d9900"
+      ],
+      "settings": {
+        "container": "container",
+        "layout": "inside",
+        "header_height": "adapt",
+        "text_alignment": "left",
+        "vertical_alignment": "center",
+        "text_color": "dark",
+        "bg_color": "#000000",
+        "enable_parallax": false,
+        "upper_title": true,
+        "show_desc": false,
+        "collection_all_desc": "<p><\/p>"
+      }
+    },
+    "a400cabd-92ff-4da4-bf10-84a6982ef8a6": {
+      "type": "custom-content",
+      "blocks": {
+        "template--17181245145398__a400cabd-92ff-4da4-bf10-84a6982ef8a6-167045354818db84c7-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "text": "<p>Luxury has never felt so functional. Finding the perfect balance of design and form, the Valentina Collection boasts a style and sophistication not often associated with rangehood design.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "DOWNLOAD BROCHURE",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17181245145398__a400cabd-92ff-4da4-bf10-84a6982ef8a6-167045354818db84c7-0"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "b60adaaf-7a97-481e-a72d-57e1d0c2904b": {
+      "type": "banner-with-slider",
+      "disabled": true,
+      "blocks": {
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-0": {
+          "type": "item_slide",
+          "settings": {
+            "item_image": "shopify:\/\/shop_images\/luxury-pendant-hood.jpg",
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "<p><\/p>",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-1": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "<p><\/p>",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-2": {
+          "type": "item_slide",
+          "settings": {
+            "content_text_color": "black",
+            "content_position": "left middle",
+            "text_alignment": "left",
+            "subheading": "Hot this week",
+            "heading": "Chenille sweater with<br> raglan sleeves",
+            "description": "<p><\/p>",
+            "button_text": "Shop Now",
+            "button_link": "",
+            "button_style": "sf__btn-link",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-0",
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-1",
+        "template--17181245145398__b60adaaf-7a97-481e-a72d-57e1d0c2904b-16704535483e182070-2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "rgba(0,0,0,0)",
+        "slide_autoplay": false,
+        "autorotate_speed": 5,
+        "button_text_1": "Shop Now",
+        "button_link_1": "",
+        "button_style_1": "sf__btn-white",
+        "button_size_1": "",
+        "button_text_2": "Shop Now",
+        "button_link_2": "",
+        "button_style_2": "sf__btn-white",
+        "button_size_2": "",
+        "button_text_3": "Shop Now",
+        "button_link_3": "",
+        "button_style_3": "sf__btn-white",
+        "button_size_3": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "870238fc-7dc9-49a2-b45c-8eb96ae86fe7": {
+      "type": "image-with-text-1",
+      "disabled": true,
+      "blocks": {
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-0": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/luxury-pendant-hood.jpg",
+            "link": "shopify:\/\/collections\/pendant-collection",
+            "title": "PENDANT COLLECTION",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-1": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Ceiling-Cassette-Hood-Valentina-Luxury-Rangehood.jpg",
+            "link": "",
+            "title": "CEILING CASSETTE",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-2": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-3": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        },
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-4": {
+          "type": "item",
+          "settings": {
+            "content_position": "bottom_center",
+            "content_alignment": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "link": "",
+            "title": "",
+            "subtitle": "",
+            "button_label": "Shop now",
+            "button_style": "sf__btn-primary",
+            "button_size": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-0",
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-1",
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-2",
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-3",
+        "template--17181245145398__870238fc-7dc9-49a2-b45c-8eb96ae86fe7-1670453549bd120ba3-4"
+      ],
+      "settings": {
+        "heading": "Featured collection",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "layout": "layout_1",
+        "gap": 30,
+        "use_scroll_mobile": true,
+        "mobile_gap": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "main": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "blocks": {
+        "26ef6509-772d-4c44-bd90-efc089bd9355": {
+          "type": "filter",
+          "disabled": true,
+          "settings": {
+            "design_filtergroup": "button",
+            "title": "Size",
+            "filtergroup": "XS,S,M,L,XL",
+            "show_label": false,
+            "use_accordion": false,
+            "open_filtergroup": true
+          }
+        },
+        "e12de6da-eab8-4abe-967c-06d0d959a18a": {
+          "type": "filter",
+          "disabled": true,
+          "settings": {
+            "design_filtergroup": "color",
+            "title": "Colors",
+            "filtergroup": "Blue, Red, White ,Black ,Pink ,Silver,Purple,Brown,Yellow,Grey,Green,Tan,Violet,Dark Grey,Beige,Light Blue, Dark Blue, Light Grey, Light Pink, Mint, Rose Gold, Night Blue, Copper, Coral, Rosy Brown",
+            "show_label": false,
+            "use_accordion": false,
+            "open_filtergroup": true
+          }
+        },
+        "fa31a837-9c99-4c92-8cfe-0527ffbe7b15": {
+          "type": "filter",
+          "disabled": true,
+          "settings": {
+            "design_filtergroup": "default",
+            "title": "Prices",
+            "filtergroup": "$0-$50,$50-$100,$100-$150,$150-$200,$200-$300,$300-$400",
+            "show_label": false,
+            "use_accordion": false,
+            "open_filtergroup": true
+          }
+        },
+        "4903963a-90f0-4fe1-be23-ee4f8749e483": {
+          "type": "filter",
+          "disabled": true,
+          "settings": {
+            "design_filtergroup": "inrow",
+            "title": "Brands",
+            "filtergroup": "Minimog,Retrolie,Abby,Brook,Learts,Vagabond",
+            "show_label": false,
+            "use_accordion": false,
+            "open_filtergroup": true
+          }
+        },
+        "00b3badd-1613-4230-85d8-f87f04306aaa": {
+          "type": "filter",
+          "disabled": true,
+          "settings": {
+            "design_filtergroup": "inrow",
+            "title": "Tags",
+            "filtergroup": "Dress,Tops,Shirts,Fashion,Hats,Sandal,Belt,Bags,Snacker,Denim,Minimog,Vagabond,Sunglasses, Beachwear,Vintage",
+            "show_label": false,
+            "use_accordion": true,
+            "open_filtergroup": true
+          }
+        }
+      },
+      "block_order": [
+        "26ef6509-772d-4c44-bd90-efc089bd9355",
+        "e12de6da-eab8-4abe-967c-06d0d959a18a",
+        "fa31a837-9c99-4c92-8cfe-0527ffbe7b15",
+        "4903963a-90f0-4fe1-be23-ee4f8749e483",
+        "00b3badd-1613-4230-85d8-f87f04306aaa"
+      ],
+      "settings": {
+        "container": "container-fluid",
+        "grid_layout": "grid",
+        "grid_columns": "3",
+        "show_columns_switcher": false,
+        "show_category": true,
+        "show_product_code": true,
+        "pagination_limit": 50,
+        "paginate_type": "infinite",
+        "show_sorting": false,
+        "show_filter": true,
+        "filters_type": "storefront_filters",
+        "sidebar": "leftColumn",
+        "sidebar_title": "",
+        "limit_height_widget": false,
+        "limit_height": 300,
+        "change_product_variant_on_fitlering": true,
+        "show_product_count": true,
+        "collapsed_groups": "Brand, Vendor, Size",
+        "color_swatches": "color,colour,couleur,farbe"
+      }
+    },
+    "recent-viewed": {
+      "type": "recent-viewed-products",
+      "disabled": true,
+      "settings": {
+        "container": "container",
+        "heading": "Recently Viewed Products",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
+      }
+    },
+    "4c55f128-d3ab-4d84-945e-45ce0d2e55f3": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-0": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "pendant-collection",
+            "title": "PENDANT COLLECTION",
+            "item_image": "shopify:\/\/shop_images\/luxury-pendant-hood.jpg"
+          }
+        },
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-1": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-2": {
+          "type": "collection_block",
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-3": {
+          "type": "banner",
+          "settings": {
+            "collection": "",
+            "title": "New season in town",
+            "description": "Claritas est etiam processus dynamicus qui sequitur.",
+            "item_bg": "#000000",
+            "item_text_color": "#ffffff"
+          }
+        },
+        "5a9958b6-41c2-4841-a431-8d9b317e09b2": {
+          "type": "banner",
+          "settings": {
+            "collection": "",
+            "title": "New season in town",
+            "description": "Claritas est etiam processus dynamicus qui sequitur.",
+            "item_bg": "#000000",
+            "item_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-0",
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-1",
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-2",
+        "template--17181245145398__4c55f128-d3ab-4d84-945e-45ce0d2e55f3-1670453549d615da20-3",
+        "5a9958b6-41c2-4841-a431-8d9b317e09b2"
+      ],
+      "settings": {
+        "heading": "Shop by collections",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "layout": "grid",
+        "card_style": "standard",
+        "text_alignment": "left",
+        "hover_effect": "scaling-down",
+        "show_product_count": true,
+        "count_inline_title": true,
+        "image_rounded": false,
+        "items_per_row": 4,
+        "item_gap": 30,
+        "enable_slider": false,
+        "show_pagination": false,
+        "show_navigation": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "use_scroll_mobile": true,
+        "mobile_gap": 10,
+        "hidden_slide_control_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "53df076a-4cee-4d81-acb2-0497c4c3d54f": {
+      "type": "custom-content",
+      "blocks": {
+        "f571897d-d05e-4547-a912-1a4d53ec7b72": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Pendant-Collection.jpg",
+            "link": "shopify:\/\/collections\/pendant-collection",
+            "title": "PENDANT COLLECTION",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
+        },
+        "d8d78ea0-34dd-4eda-a19f-7ab6c70f7cff": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Ceiling-Cassette-Collection.jpg",
+            "link": "shopify:\/\/collections\/ceiling-cassette",
+            "title": "CEILING CASSETTE",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
+        },
+        "f75bdf8b-186c-44df-a2fb-2b79815a4356": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Induction-Downdraft-Collection.jpg",
+            "link": "",
+            "title": "INDUCTION DOWNDRAFT",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
+        },
+        "bb1875d4-6def-4d6f-895d-e49f074e6767": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Downdraft-Collection.jpg",
+            "link": "",
+            "title": "DOWNDRAFT COLLECTION",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
+        },
+        "063e4aa7-688e-4e6e-adb8-dad06eb71b04": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "image": "shopify:\/\/shop_images\/Undermount-Collection.jpg",
+            "link": "",
+            "title": "UNDERMOUNT COLLECTION",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
+        },
+        "9828ad46-5951-4522-9907-26eecac387b4": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "ABOUT US",
+            "subheading": "",
+            "text": "<p>The Valentina Collection by Sirius is the epitome of style, luxury and functionality in kitchen design. Italian craftsmanship since 1996 has made Sirius a world leader in the market of Rangehoods. Sirius specialise only in Rangehoods of extraordinary performance partnered with superior quality. View the range at one of our Valentina Collection retail partners.<\/p>",
+            "width": "33%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "f571897d-d05e-4547-a912-1a4d53ec7b72",
+        "d8d78ea0-34dd-4eda-a19f-7ab6c70f7cff",
+        "f75bdf8b-186c-44df-a2fb-2b79815a4356",
+        "bb1875d4-6def-4d6f-895d-e49f074e6767",
+        "063e4aa7-688e-4e6e-adb8-dad06eb71b04",
+        "9828ad46-5951-4522-9907-26eecac387b4"
+      ],
+      "settings": {
+        "heading": "Custom content",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 20,
+        "use_scroll_mobile": false,
+        "gap_mobile": 8,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "1feb82f6-6bd8-474c-928c-1bdd78589f59": {
+      "type": "custom-content",
+      "blocks": {
+        "0dd05a84-5fe4-4ea0-bd2b-c49e30443ec3": {
+          "type": "text",
+          "settings": {
+            "title": "ABOUT US",
+            "subheading": "",
+            "text": "<p>The Valentina Collection by Sirius is the epitome of style, luxury and functionality in kitchen design. Italian craftsmanship since 1996 has made Sirius a world leader in the market of Rangehoods. Sirius specialise only in Rangehoods of extraordinary performance partnered with superior quality. View the range at one of our Valentina Collection retail partners.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "small",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "0dd05a84-5fe4-4ea0-bd2b-c49e30443ec3"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 36,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "collection-header",
+    "a400cabd-92ff-4da4-bf10-84a6982ef8a6",
+    "b60adaaf-7a97-481e-a72d-57e1d0c2904b",
+    "870238fc-7dc9-49a2-b45c-8eb96ae86fe7",
+    "main",
+    "recent-viewed",
+    "4c55f128-d3ab-4d84-945e-45ce0d2e55f3",
+    "53df076a-4cee-4d81-acb2-0497c4c3d54f",
+    "1feb82f6-6bd8-474c-928c-1bdd78589f59"
+  ]
+}

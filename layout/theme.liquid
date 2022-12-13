@@ -89,7 +89,8 @@ template-{{ template.name | handle }} {{ template.name }}-{{ template.suffix }} 
 
  <style>
     {% if collection %}
-    	{% if collection.handle == 'pendant-collection' 
+    	{% if collection.handle == 'pendant-collection'
+        or collection.handle == 'valentina-landing' 
         or collection.handle == 'valentina-collection' 
         or collection.handle == 'downdraft' 
         or collection.handle == 'undermount' 

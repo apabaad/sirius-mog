@@ -1,0 +1,55 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "7d0e64e1-b64a-43c6-b1d4-23f67d5df093": {
+      "type": "custom-content",
+      "blocks": {
+        "template--17192720073014__7d0e64e1-b64a-43c6-b1d4-23f67d5df093-16704787783cedf6d9-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sirius-Ducting-Diagram-1024x618.jpg",
+            "link": "",
+            "width": "100%",
+            "alignment": "center",
+            "block_custom_class": ""
+          }
+        },
+        "21822b40-a536-427a-84e8-477a324c38fa": {
+          "type": "html",
+          "settings": {
+            "code": "<img width=\"1024\" height=\"618\" src=\"https:\/\/siriusbrand.com\/media\/Sirius-Ducting-Diagram.jpg\">",
+            "width": "100%",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17192720073014__7d0e64e1-b64a-43c6-b1d4-23f67d5df093-16704787783cedf6d9-1",
+        "21822b40-a536-427a-84e8-477a324c38fa"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7d0e64e1-b64a-43c6-b1d4-23f67d5df093"
+  ]
+}

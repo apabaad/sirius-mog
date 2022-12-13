@@ -34,7 +34,7 @@
             {%- else -%}
               {% for product in recommendations.products %}
                 <div class="sf-column">
-                  {% render 'product-card', product: product %}
+                  {% render 'product-card', product: product, show_price: section.settings.show_price %}
                 </div>
               {% endfor %}
             {%- endif -%}
@@ -125,6 +125,12 @@
       "id": "enable_slider",
       "label": "Enable slider",
       "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_price",
+      "label": "Show price",
+      "default": false
     }
   ],
   "templates": [

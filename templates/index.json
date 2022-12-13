@@ -15,7 +15,7 @@
             "text_color": "black",
             "subheading": "<span class=\"font-semibold\"><\/span>",
             "title": "<span class=\"sf__font-normal\"><\/span>",
-            "description": "",
+            "description": "<p><\/p>",
             "image_link": "",
             "button_text": "",
             "button_link": "",
@@ -39,7 +39,7 @@
             "text_color": "black",
             "subheading": "",
             "title": "",
-            "description": "",
+            "description": "<p><\/p>",
             "image_link": "",
             "button_text": "",
             "button_link": "",
@@ -191,11 +191,46 @@
     "b1a7d2a3-663f-45e5-a3f3-d7fa33096557": {
       "type": "brands-list",
       "blocks": {
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0": {
+        "e83b6f7a-d373-4bfe-8198-3cf836f7f1e1": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bing_Lee_360x_6fe7dc69-6634-4b75-be12-e06a093e3c6e.png",
+            "image": "shopify:\/\/shop_images\/8appliances-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "1a5c8721-ff92-4ec1-9310-eded535e27de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/betta-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "7e60d68b-79a1-4c9e-b64e-1e19b178f3c2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/binglee-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "5c1cda27-d890-41db-ac61-b70bf3e99a06": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/berloni-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "7be95f9e-f3fc-49bb-b2e6-4851d90e86de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bas-logo.jpg",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"
@@ -210,28 +245,10 @@
             "max_width": "150px"
           }
         },
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3": {
+        "c7ad4b28-fbfc-43e8-83bb-dd20f4ab3674": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/winning-logo-637138690335837076.svg_e122f80f-e7f8-4c81-a49d-738c1b21fc0b.png",
-            "image_by_url": "",
-            "image_link": "",
-            "max_width": "150px"
-          }
-        },
-        "a6192101-14af-4926-b6d0-ea93e39c966d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HN-Logo_360x_ef102012-94fd-41a4-8f5b-db1597656dac.png",
-            "image_by_url": "",
-            "image_link": "",
-            "max_width": "150px"
-          }
-        },
-        "6e09616c-921b-4717-b777-f369eff2577c": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/jm_logo.jpg",
+            "image": "shopify:\/\/shop_images\/designer-appliances-logo.jpg",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"
@@ -246,6 +263,42 @@
             "max_width": "150px"
           }
         },
+        "9d200632-3ad1-40bb-8d0d-13872e73aa68": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elite-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "0618e0db-8c8c-49e9-b1e4-8d85c53a5127": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eands-logo2.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "53d7d722-b455-45d8-95b9-0d642d2abe9c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hart-and-co-web.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "a6192101-14af-4926-b6d0-ea93e39c966d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/harveynorman-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
         "430d761c-ab90-4ba0-b9e2-680af18b61ed": {
           "type": "image",
           "settings": {
@@ -255,19 +308,37 @@
             "max_width": "150px"
           }
         },
-        "7e60d68b-79a1-4c9e-b64e-1e19b178f3c2": {
+        "6e09616c-921b-4717-b777-f369eff2577c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bing_Lee_360x_6fe7dc69-6634-4b75-be12-e06a093e3c6e.png",
+            "image": "shopify:\/\/shop_images\/jm_logo.jpg",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"
           }
         },
-        "c34599f5-f0a2-4dd2-a4e4-8cfba6a99237": {
+        "51e00457-1887-4a89-8f47-c36195a339b8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/98122501226526.png",
+            "image": "shopify:\/\/shop_images\/newtons-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "b3a84001-ac46-4a75-851d-6c3c0a2529f8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spartans-logo.jpg",
+            "image_by_url": "",
+            "image_link": "",
+            "max_width": "150px"
+          }
+        },
+        "1e647384-d316-4ca7-a9b4-68e226a66d51": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/status-plus-logo.jpg",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"
@@ -284,15 +355,23 @@
         }
       },
       "block_order": [
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-0",
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2",
-        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-3",
-        "a6192101-14af-4926-b6d0-ea93e39c966d",
-        "6e09616c-921b-4717-b777-f369eff2577c",
-        "549a687e-da87-4ba0-a0e5-e76df5cf3925",
-        "430d761c-ab90-4ba0-b9e2-680af18b61ed",
+        "e83b6f7a-d373-4bfe-8198-3cf836f7f1e1",
+        "1a5c8721-ff92-4ec1-9310-eded535e27de",
         "7e60d68b-79a1-4c9e-b64e-1e19b178f3c2",
-        "c34599f5-f0a2-4dd2-a4e4-8cfba6a99237",
+        "5c1cda27-d890-41db-ac61-b70bf3e99a06",
+        "7be95f9e-f3fc-49bb-b2e6-4851d90e86de",
+        "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2",
+        "c7ad4b28-fbfc-43e8-83bb-dd20f4ab3674",
+        "549a687e-da87-4ba0-a0e5-e76df5cf3925",
+        "9d200632-3ad1-40bb-8d0d-13872e73aa68",
+        "0618e0db-8c8c-49e9-b1e4-8d85c53a5127",
+        "53d7d722-b455-45d8-95b9-0d642d2abe9c",
+        "a6192101-14af-4926-b6d0-ea93e39c966d",
+        "430d761c-ab90-4ba0-b9e2-680af18b61ed",
+        "6e09616c-921b-4717-b777-f369eff2577c",
+        "51e00457-1887-4a89-8f47-c36195a339b8",
+        "b3a84001-ac46-4a75-851d-6c3c0a2529f8",
+        "1e647384-d316-4ca7-a9b4-68e226a66d51",
         "feb4bb38-63cb-4f1e-9c8f-ab7b7319ab32"
       ],
       "settings": {

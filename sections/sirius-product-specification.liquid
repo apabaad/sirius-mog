@@ -1,34 +1,38 @@
 
 <div class ="product-specification-section">
     <div class="container">
-        <div class = "product-specification-container flex">
+        <div class = "product-specification-container">
            
-            <div class = "product-specification-left-section">
+            
                 <div class ="product-specification-title sirius-title"> Product Specifications </div>
-                    <div class="specs-text-container">
-                        {% assign specifications = product.metafields.specs-value.specs-value.size | minus: 1 %}
+                <div class = "product-specification-section flex">
+                    <div class="specs-text-container" id="specs-text-container">
+                        {% assign specifications = product.metafields.Specs-title.Specs-title.size | minus: 1 %}
                         {% for i in (0..specifications) %}
                         <div class = "specs-text flex">
-                            <span class ="specs-title"> {{product.metafields.Specs-title.Specs-title[i]}}: </span>
-                            <span class ="specs-value"> {{product.metafields.specs-value.specs-value[i]}} </span>
+                            <span class ="specs-title"> {{product.metafields.Specs-title.Specs-title[i]}} </span>
+                            <div class ="specs-value"> {{product.metafields.spec-value.spec-value[i]}} </div>
                         </div>
                         {% endfor %}
-                </div>
-            </div>
-                
-                <div class = "product-specification-right-section">
-                    <div class ="specs-image-container">
-                        <img class = "specs-image" src ="https://cdn.shopify.com/s/files/1/0555/4231/7366/files/Screenshot_12.png?v=1667181505">
                     </div>
+           
+                    {% if product.metafields.custom.spec_image != blank %}
+                        <div class="product-specification-right-section flex justify-center items-center" id="product-specification-right-section">
+                    
+                            <div class="specs-image-container">
+                                <img class = "specs-image" src ="{{product.metafields.custom.spec_image | img_url : 'master'}}">
+                            </div>
+                        </div>
+                    {% endif %}
                 </div>
-            
-        </div>
+                </div>
+</div>
 </div>
 </div>
 
 {% style %}
 .product-specification-section{
-    margin-top:4rem;
+   
     background-color: #e6e6e6;
 }
 
@@ -49,7 +53,7 @@
 
 
 .specs-text-container{
-    width:80%;
+    width:60%;
     margin-top:3rem;
 }
 .specs-text{
@@ -57,12 +61,45 @@
 
 }
 .specs-title{
-    width:50%;
+    width:43%;
     font-weight: 600;
 }
 
+.product-specification-right-section{
+   
+}
 .specs-image{
-    height:300px;
+    height:100%;
+    width:100%;
+}
+
+
+@media screen and (max-width:768px){
+    .product-specification-section{
+        flex-direction:column;
+        
+    }
+
+    .specs-text-container{
+    width:100%;
+}
+    .specs-title{
+        width:30%;
+    }
+    .specs-value{
+        padding-left:20px;
+    }
+    .product-specification-right-section{
+        margin-top:20px;
+    }
+
+    #product-specification-right-section{
+        order:1;
+    }
+
+    #specs-text-container{
+        order: 2;
+    }
 }
 
 {% endstyle %}

@@ -75,7 +75,7 @@
                     <p class="image__card-subheading {% if stack_on_mobile == true or use_content_above == false %}md:text-{{ text_color }}{% else %} text-{{ text_color }} {% endif %} text-sm md:text-base mb-2">{{ block.settings.subtitle }}</p>
                     {% endif %}
                     {% if block.settings.title != blank %}
-                        <h3 class="image__card-heading {% if stack_on_mobile == true or use_content_above == false %}md:text-{{ text_color }}{% else %} text-{{ text_color }} {% endif %} {% if text_size == 'medium' %}text-2xl sm:text-3xl md:text-4xl {% else %}text-2xl sm:text-5xl {% endif %} mb-4">{{ block.settings.title }}</h3>
+                        <h3 class="image__card-heading {% if stack_on_mobile == true or use_content_above == false %}md:text-{{ text_color }}{% else %} text-{{ text_color }} {% endif %} {% if text_size == 'medium' %}text-2xl sm:text-3xl md:text-4xl {% else if text_size == 'small' %} text-2xl {% else %}text-2xl sm:text-5xl {% endif %} mb-4">{{ block.settings.title }}</h3>
                     {% endif %}
                 </div>
                 {% if block.settings.button_label != blank %}

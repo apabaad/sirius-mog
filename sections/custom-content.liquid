@@ -84,7 +84,7 @@
                                         <p class="mb-5 content__subheading text-{{ block.settings.text_color }}">{{ block.settings.subheading }}</p>
                                     {% endif %}
                                     {% if block.settings.title != blank %}
-                                        <h3 class="content__heading text-2xl text-{{ block.settings.text_color }} {% if block.settings.text_size == 'medium' %}lg:text-5xl sm:text-4xl{% else %}lg:text-7xl sm:text-6xl {% endif %}">{{ block.settings.title }}</h3>
+                                        <h3 class="content__heading text-2xl text-{{ block.settings.text_color }} {% if block.settings.text_size == 'medium' %}lg:text-5xl sm:text-4xl {% else if block.settings.text_size == 'small'%} lg:text-2xl sm:text-2xl {% else %} lg:text-7xl sm:text-6xl  {% endif %}">{{ block.settings.title }}</h3>
                                     {% endif %}
                                     {% if block.settings.text != blank %}
                                         <div class="prose rte mt-4 text-color-subtext">{{ block.settings.text }}</div>
@@ -713,6 +713,10 @@
           "id": "text_size",
           "label": "Text size",
           "options": [
+            {
+              "value": "small",
+              "label": "Small"
+            },
             {
               "value": "medium",
               "label": "Medium"
@@ -1456,6 +1460,10 @@
           "id": "text_size",
           "label": "Text size",
           "options": [
+            {
+              "value":"small",
+              "label":"Small"
+            },
             {
               "value": "medium",
               "label": "Medium"

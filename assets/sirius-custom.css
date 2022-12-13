@@ -139,3 +139,7 @@
   background-color: #ec1b24;
   /* transition: none !important; */
 }
+
+.sirius-product-price {
+  text-align: left !important;
+}
