@@ -34,7 +34,6 @@
         },
         "e5f1bc50-1e00-407c-b058-f3f142c1edb6": {
           "type": "meta",
-          "disabled": true,
           "settings": {
             "show_collections": false,
             "show_category": true,

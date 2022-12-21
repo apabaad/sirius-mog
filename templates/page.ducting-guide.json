@@ -22,7 +22,229 @@
         "21822b40-a536-427a-84e8-477a324c38fa": {
           "type": "html",
           "settings": {
-            "code": "<img width=\"1024\" height=\"618\" src=\"https:\/\/siriusbrand.com\/media\/Sirius-Ducting-Diagram.jpg\">",
+            "code": "<div align=\"center\">\n<img width=\"1024\" height=\"618\" src=\"https:\/\/siriusbrand.com\/media\/Sirius-Ducting-Diagram.jpg\">\n<\/div>",
+            "width": "100%",
+            "block_custom_class": ""
+          }
+        },
+        "8a0693b1-6c85-4886-941f-9c7a83fdcb56": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "text": "<p>Use of any ducting material not suited for rangehood application may void your customer warranty. This is due to the fact that poor quality flexible ducting can create additional noise and dramatically reduce the extraction rate of your high powered kitchen rangehood. Sirius provides a full range of high quality, cost effective ducting kits and individual parts which will provide you with the best result for your rangehood and add an additional 3 years warranty when used with a Sirius rangehood. If you or your installers are not sure on any part of the installation or parts required, Sirius ducting consultants are just a phone call away<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "left",
+            "text_size": "medium",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "4e22ed50-5bf0-45d1-9b9c-adc8bc20bd75": {
+          "type": "text",
+          "settings": {
+            "title": "<strong>DUCTING KITS<\/strong>",
+            "subheading": "",
+            "text": "",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "small",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "90fbce03-9c1f-4542-9579-4bf73ef42f22": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/WzC5aUzg4aQ",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "0b2beb89-146e-4dac-9836-12f66ae8ada4": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/HXJk6XWRRME",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "4ce90570-9fad-43c9-a623-9c7a7c94db40": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/o1qRyvaGGFk",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "b0d288aa-5097-44a1-b6ed-cb4d05d07d1c": {
+          "type": "html",
+          "settings": {
+            "code": "<div align=\"center\" class=\"specs-manual-row\">\n<button class=\"h-full  px-6 py-2 text-white\">\n                          <a href=\"https:\/\/siriusbrand-au.myshopify.com\/collections\/ducting\" target=\"_blank\"> BUY DUCTING KITS <\/a>\n                        <\/button>              \n <\/div>",
+            "width": "100%",
+            "block_custom_class": ""
+          }
+        },
+        "aa98408c-e431-4fd8-b5ad-611596e795d0": {
+          "type": "text",
+          "settings": {
+            "title": "<div style=\"margin-top:2rem;\"><strong>SEM MOTORS<\/strong><\/div>",
+            "subheading": "",
+            "text": "<p>Use of any ducting material not suited for rangehood application may void your customer warranty. This is due to the fact that poor quality flexible ducting can create additional noise and dramatically reduce the extraction rate of your high powered kitchen rangehood. Sirius provides a full range of high quality, cost effective ducting kits and individual parts which will provide you with the best result for your rangehood and add an additional 3 years warranty when used with a Sirius rangehood. If you or your installers are not sure on any part of the installation or parts required, Sirius ducting consultants are just a phone call away<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "small",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "d704d1f3-37f0-4602-b70b-9333ceae1ac1": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/EjyNUbWjdWs",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "a3041d8b-7cf3-4386-a4ba-22099d205623": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/8a_ObY-j_DI",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "2ee817d3-9fc8-4c63-b84e-305b3ce6230e": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/NacUMySkyJs",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "8c8e4f44-6d00-4409-9298-c3a442975da5": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/-w7Sp4uZNXw",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "4e969664-ead3-4b30-99e4-6ab365bf77c5": {
+          "type": "html",
+          "settings": {
+            "code": "<div align=\"center\" class=\"specs-manual-row\">\n<button class=\"h-full  px-6 py-2 text-white\">\n                          <a href=\"https:\/\/siriusbrand-au.myshopify.com\/pages\/sem-motors\" target=\"_blank\"> EXPLORE MORE ON SEM MOTORS <\/a>\n                        <\/button>              \n <\/div>",
+            "width": "100%",
+            "block_custom_class": ""
+          }
+        },
+        "1287ffc4-4f54-485a-9451-389566a9bbea": {
+          "type": "text",
+          "settings": {
+            "title": "<div style=\"margin-top:2rem;\">\n<strong>DUCTING COMPONENTS<\/strong>\n<\/div>",
+            "subheading": "",
+            "text": "<p>Sirius provides a full range of high quality, cost effective ducting kits and individual parts which will provide you with the best result for your rangehood and add an additional 3 years warranty when used with a Sirius rangehood. If you or your installers are not sure on any part of the installation or parts required, Sirius ducting consultants are just a phone call away. You can always assemble custom components from the Ducting section. Pick the right component and shop ducting now.<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "small",
+            "text_color": "black",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        },
+        "be38136a-501e-442f-acb0-85446225899e": {
+          "type": "html",
+          "settings": {
+            "code": "<div align=\"center\" class=\"specs-manual-row\">\n<button class=\"h-full  px-6 py-2 text-white\">\n                          <a href=\"https:\/\/siriusbrand-au.myshopify.com\/collections\/ducting-component\" target=\"_blank\"> BUY DUCTING COMPONENTS <\/a>\n                        <\/button>              \n <\/div>",
             "width": "100%",
             "block_custom_class": ""
           }
@@ -30,7 +252,21 @@
       },
       "block_order": [
         "template--17192720073014__7d0e64e1-b64a-43c6-b1d4-23f67d5df093-16704787783cedf6d9-1",
-        "21822b40-a536-427a-84e8-477a324c38fa"
+        "21822b40-a536-427a-84e8-477a324c38fa",
+        "8a0693b1-6c85-4886-941f-9c7a83fdcb56",
+        "4e22ed50-5bf0-45d1-9b9c-adc8bc20bd75",
+        "90fbce03-9c1f-4542-9579-4bf73ef42f22",
+        "0b2beb89-146e-4dac-9836-12f66ae8ada4",
+        "4ce90570-9fad-43c9-a623-9c7a7c94db40",
+        "b0d288aa-5097-44a1-b6ed-cb4d05d07d1c",
+        "aa98408c-e431-4fd8-b5ad-611596e795d0",
+        "d704d1f3-37f0-4602-b70b-9333ceae1ac1",
+        "a3041d8b-7cf3-4386-a4ba-22099d205623",
+        "2ee817d3-9fc8-4c63-b84e-305b3ce6230e",
+        "8c8e4f44-6d00-4409-9298-c3a442975da5",
+        "4e969664-ead3-4b30-99e4-6ab365bf77c5",
+        "1287ffc4-4f54-485a-9451-389566a9bbea",
+        "be38136a-501e-442f-acb0-85446225899e"
       ],
       "settings": {
         "heading": "",

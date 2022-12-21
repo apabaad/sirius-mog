@@ -19,7 +19,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
             "show_saving": false
           }

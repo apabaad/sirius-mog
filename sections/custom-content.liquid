@@ -87,7 +87,7 @@
                                         <h3 class="content__heading text-2xl text-{{ block.settings.text_color }} {% if block.settings.text_size == 'medium' %}lg:text-5xl sm:text-4xl {% else if block.settings.text_size == 'small'%} lg:text-2xl sm:text-2xl {% else %} lg:text-7xl sm:text-6xl  {% endif %}">{{ block.settings.title }}</h3>
                                     {% endif %}
                                     {% if block.settings.text != blank %}
-                                        <div class="prose rte mt-4 text-color-subtext">{{ block.settings.text }}</div>
+                                        <div class="prose rte mt-4 text-{{ block.settings.text_color }}">{{ block.settings.text }}</div>
                                     {% endif %}
                                     {% if block.settings.button_label != blank %}
                                         <div class="sf-custom__text-cta mt-5 md:mt-8">
@@ -199,7 +199,7 @@
                                         </div>
                                         <div class="block mb-2 sf__pcard-name mt-4 font-medium hover:text-color-secondary">{{ 'homepage.onboarding.product_title' | t }}</div>
                                         <div class="mb-2.5 sf__pcard-price">
-                                            <p class="prod__price">$19.99</p>
+                                            <p class="prod__price"></p>
                                         </div>
                                     </div>
                                 {% endif %}

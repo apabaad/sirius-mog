@@ -20,12 +20,12 @@
         "header_height": "adapt",
         "text_alignment": "left",
         "vertical_alignment": "center",
-        "text_color": "dark",
+        "text_color": "black",
         "bg_color": "#000000",
         "enable_parallax": false,
         "upper_title": true,
         "show_desc": false,
-        "collection_all_desc": "<p><\/p>"
+        "collection_all_desc": ""
       }
     },
     "a400cabd-92ff-4da4-bf10-84a6982ef8a6": {
@@ -333,6 +333,8 @@
         "show_columns_switcher": false,
         "show_category": true,
         "show_product_code": true,
+        "sku_black": false,
+        "show_product_price": false,
         "pagination_limit": 50,
         "paginate_type": "infinite",
         "show_sorting": false,

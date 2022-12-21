@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+      }
+    },
+    "7f69fd5d-0c17-4fa2-8f1d-755410a69e81": {
+      "type": "image-with-text-sem",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "item_gap": 48,
+        "item_gap_mobile": 24,
+        "image": "shopify:\/\/shop_images\/100-Cashback_34ee9a06-ac83-4d0f-b494-39a518d76da3.jpg",
+        "link": "",
+        "layout": "left",
+        "image_column_size": "6",
+        "hover_effect": false,
+        "content-bg-color": "#f3f3f3",
+        "title": "$100 CASH BACK ON SELECTED SIRIUS RANGEHOODS*",
+        "sub_title": "Valid Date: 15\/11\/2022 to 31\/12\/2022",
+        "text": "Buy a Sirius SL906EMEL undermount hood, get $100 cashback when you purchase a sirius ducting kit &amp; get a bonus 6-year warranty on the hood *Applicable to SL906EMEL off board unit all sizes Promotional offer via selected retailers only Not in conjunction with any other offer. See website for terms and conditions.",
+        "text_size": "large",
+        "content_alignment": "left",
+        "button_label": "TERMS & CONDITIONS",
+        "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Terms_and_Conditions.pdf?v=1671418416",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "button2_label": "REDEMPTION FORM",
+        "button2_link": "",
+        "button2_style": "sf__btn-primary",
+        "button2_size": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    },
+    "058fdc44-60bb-4d38-8238-c00c20e9376f": {
+      "type": "image-with-text-sem",
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "container": "container",
+        "background_color": "rgba(0,0,0,0)",
+        "item_gap": 48,
+        "item_gap_mobile": 24,
+        "image": "shopify:\/\/shop_images\/100-Cashback_02_abaf9109-a84e-490f-bfb1-092ff0d14785.jpg",
+        "link": "",
+        "layout": "right",
+        "image_column_size": "6",
+        "hover_effect": false,
+        "content-bg-color": "#f3f3f3",
+        "title": "$100 CASH BACK ON SELECTED SIRIUS RANGEHOODS*",
+        "sub_title": "Valid Date: 01\/01\/2022 to 28\/02\/2023",
+        "text": "Buy a Sirius SL906EMEL undermount hood, get $100 cashback when you purchase a sirius ducting kit &amp; get a bonus 6-year warranty on the hood *Applicable to SL906EMEL off board unit all sizes Promotional offer via selected retailers only Not in conjunction with any other offer. See website for terms and conditions.",
+        "text_size": "medium",
+        "content_alignment": "left",
+        "button_label": "TERMS & CONDITIONS",
+        "button_link": "",
+        "button_style": "sf__btn-primary",
+        "button_size": "",
+        "button2_label": "REDEMPTION FORM",
+        "button2_link": "",
+        "button2_style": "sf__btn-primary",
+        "button2_size": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7f69fd5d-0c17-4fa2-8f1d-755410a69e81",
+    "058fdc44-60bb-4d38-8238-c00c20e9376f"
+  ]
+}
