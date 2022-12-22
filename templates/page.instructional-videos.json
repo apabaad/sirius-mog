@@ -1,0 +1,62 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "c56a7262-7806-44af-9b3c-efaea9437cd9": {
+      "type": "download",
+      "settings": {
+        "title": "Instructional Videos",
+        "subtitle": ""
+      }
+    },
+    "5e1ee4aa-071f-4975-8261-395986287774": {
+      "type": "custom-content",
+      "blocks": {
+        "a95dd9b9-6cba-44b1-83dd-c851be85d05a": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/iol92ow-w7s",
+            "ratio": "16:9",
+            "video_title": "",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "50%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "a95dd9b9-6cba-44b1-83dd-c851be85d05a"
+      ],
+      "settings": {
+        "heading": "Cleaning the Sirius Rangehood baffle filter",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "left",
+        "container": "container",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c56a7262-7806-44af-9b3c-efaea9437cd9",
+    "5e1ee4aa-071f-4975-8261-395986287774"
+  ]
+}

@@ -45,11 +45,12 @@
               </{% if section.settings.link %}a{% else %}div{% endif %}>
             </div>
             <div class="sf-custom__block content__box-{{ section.id }} flex items-center w-full lg:w-{{ 12 | minus: section.settings.image_column_size }}/12 {% if settings.container == 'w-full' %}px-4{% else %}px-0{% endif %}" style="background-color:{{ section.settings.content-bg-color }};">
-              <div class="content__box w-full text-{{ settings.content_alignment }}{% if section.settings.container == 'w-full' %} px-4 md:px-0{% endif %} relative">
-               
+              <div class="content__box w-full text-{{ settings.content_alignment }}{% if section.settings.container == 'w-full' %} px-4 md:px-0{% endif %} ">
+               <div class="relative">
                 {% if section.settings.title != blank %}
                   <h3 class="sirius-product-specification-title  content__heading rte text-2xl md:text-5xl {% if section.settings.text_size == 'medium' %}lg:text-5xl {% else %}2xl:text-7xl lg:text-6xl {% endif %} mb-4 lg:mb-6 sirius-sem-title">{{ section.settings.title }}</h3>
                 {% endif %}
+              </div>
                 
                 {% if section.settings.sub_title != blank %}
                     <p class="content__subheading mb-5"><strong>{{ section.settings.sub_title }}</strong></p>
@@ -442,15 +443,13 @@
   
 
   {% style %}
- .sirius-sem-title:after {
-    font-family: "Roboto Slab", Helvetica, Arial, Verdana, sans-serif !important;
- }
+
 
   .sirius-sem-title:after {
     content: '';
     background: red;
     position: absolute;
-    top: 3.5rem;
+    bottom: -.5rem;
     left: 0;
     height: 3px;
     width: 100px;

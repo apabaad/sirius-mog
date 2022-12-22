@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "c3ae7834-ce60-4f4e-ba26-f35fbb7956b0": {
+      "type": "download",
+      "settings": {
+        "title": "FAQ \/ HOW TO VIDEOS",
+        "subtitle": "Find your general queries answer"
+      }
+    },
+    "af7cf4be-1a37-4770-8a82-c8d732b0babb": {
+      "type": "page-faqs",
+      "blocks": {
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-0": {
+          "type": "accordion",
+          "settings": {
+            "title": "What does SEM mean?",
+            "content": "<p>SEM stands for Sirius- External -Motor. To achieve optimum ventilation, a strong motor is essential but this can often result in unwanted excessive noise in the kitchen. Sirius has devised a simple yet effective way of providing a well-ventilated kitchen without the unpleasant noise: A German-made motor installed away from the rangehood that maintains a high extraction rate.<\/p>",
+            "open": true
+          }
+        },
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-1": {
+          "type": "accordion",
+          "settings": {
+            "title": "What type of power outlet is required for my range hood?",
+            "content": "<p>Sirius Rangehoods require a standard 10AMP power point at the point of installation. A separate powerpoint is not required for off board motors, as a 7 metre cord is supplied attached to the motor.<\/p>",
+            "open": false
+          }
+        },
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-2": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is an off-board motor?",
+            "content": "<p>This is where is motor is not inside the Rangehood but away from the hood, for example in the roof.<\/p>",
+            "open": false
+          }
+        },
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-3": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is an on-board motor?",
+            "content": "<p>Is when the motor is inside the hood itself.<\/p>",
+            "open": false
+          }
+        },
+        "b405a421-c2c4-4d1f-97be-d219c17aa011": {
+          "type": "accordion",
+          "settings": {
+            "title": "Can I have a SEM2 or SEM7 motor if I don’t have an eave to protect it?",
+            "content": "<p>Marine grade options are available if you are installing your unit exposed to the elements.<\/p>",
+            "open": false
+          }
+        },
+        "f3cd38c9-f40a-40c4-aeb5-3b0ffe39bc93": {
+          "type": "accordion",
+          "settings": {
+            "title": "How many power points do I need for my downdraft Rangehood?",
+            "content": "<p>Answer ContentaDowndraft units come with a power box that is fitted close to the unit. It requires a power point. The off board motor comes with a 7 metre cable that is plugged into this power box. Induction downdrafts require separate power for the Induction cooking hob (SDDH1.1).<\/p>",
+            "open": false
+          }
+        },
+        "c44da754-a612-44d7-a717-21da5ea052a5": {
+          "type": "accordion",
+          "settings": {
+            "title": "I don’t have space to use 200mm ducting on my 200mm recommended unit, can I use 150mm?",
+            "content": "<p>No, definitely not, this will void any warranties and cause major problems to the extraction rate of your unit. Do not do it.<\/p>",
+            "open": false
+          }
+        },
+        "27b532b2-9dd8-418b-bd80-c3f5a6331096": {
+          "type": "accordion",
+          "settings": {
+            "title": "What is the maximum recommend length of ducting from the rangehood to the motor to outlet?",
+            "content": "<p>The off board motors have a 7 metre power cable attached. This cable plugs directly into the hood. This is the maximum distance from the hood to the motor. It cannot be extended. From the motor, you can duct up to an additional 5 metre to the atmosphere (SEM 1 & 8 only as other motors are already outside). NB: For every elbow or turn in your ducting you lose 1 meter of total length. Ducting which is any longer may reduce performance of your range hood, depending on location and installation.<\/p>",
+            "open": false
+          }
+        },
+        "b2f49e75-b16f-4558-8c9e-a82001c8aae3": {
+          "type": "accordion",
+          "settings": {
+            "title": "What type of flues do you have for higher ceilings?",
+            "content": "<p>Sirius have designed their flues to be higher than standard to suit Australian design. When an unusual height is required, we recommend using a custom steel fabricator.<\/p>",
+            "open": false
+          }
+        },
+        "fca8d879-dc55-4a5c-a3ac-93820244cc32": {
+          "type": "accordion",
+          "settings": {
+            "title": "What type of ducting do you recommend?",
+            "content": "<p>Sirius Ducting. We recommend the use of rigid or semi rigid ducting only. Flexible ducting is not suitable for an array of reasons such as noise, decreased efficiency, rippling and tearing etc. Use of flexible ducting may void your warranty, and we suggest you use our ducting for an extended warranty on your unit. Select units can use semi-rigid ducting only; ie the ducting can be placed directly on the motor. See our Sirius Ducting page for more information.<\/p>",
+            "open": false
+          }
+        },
+        "a1a8c2e9-4b6b-4a95-9eb0-e143f295ad7d": {
+          "type": "accordion",
+          "settings": {
+            "title": "How far do I put my motor away from the hood?",
+            "content": "<p>Off board motors find it easier to pull air than to push it. So for optimum extraction and low noise, positioning the motor 4 or 5 metres from the hood is best. You can place the motor as little as 2 metres away from the hood if required with a maximum of 7 metres. A minimum of 2 metres is necessary so the motor can create a powerful airflow through the duct, and so the sound of the motor is out of earshot in your cooking area. When you are using the SEM 10 or 12, the motor is designed to be attached directly to the hood so this does not apply.<\/p>",
+            "open": false
+          }
+        },
+        "ba423daa-4f0d-42c4-90e4-ffc2508c546d": {
+          "type": "accordion",
+          "settings": {
+            "title": "Can my current ducting from my existing range hood remain in my roof space?",
+            "content": "<p>We don’t recommend it. Firstly the ducting could be the wrong size (older style ducting in smaller and made from inferior product). We recommend using Sirius ducting at all times.<\/p>",
+            "open": false
+          }
+        },
+        "6246a214-d9a4-4df7-8530-53022251a2d3": {
+          "type": "accordion",
+          "settings": {
+            "title": "What distance should the downdraft series be from the cook-top?",
+            "content": "<p>50mm is required between the edge of the cooktop and the edge of the rangehood. Additionally be aware that you may use large cooking pots that may exceed the edge of the cooktop so keep this in mind before you install it. Furthermore this series shouldn’t have any obstructions above the hood or this will affect accessibility for any service.<\/p>",
+            "open": false
+          }
+        },
+        "cc0103b6-1c89-4e3e-ac9e-3ea3b3640079": {
+          "type": "accordion",
+          "settings": {
+            "title": "What height do you recommend my Rangehood to be above my gas ,electric or BBQ cooktops?",
+            "content": "<p>The current building code is 600 mm minimum and 650 mm maximum for induction cooktops, and 650 mm minimum and 750 mm maximum from the top of the trivets on gas cooktops. Our recommended distance is 700mm. Open grill BBQs have the higher height restriction to prevent flames caused by fat fires being sucked up into the hood. You must leave at least 900 mm (full hotplate – NOT open grill) or 1200 mm (open grill) clearance.<\/p>",
+            "open": false
+          }
+        },
+        "dedda9fb-4121-41ea-84a7-0b673fccaf7f": {
+          "type": "accordion",
+          "settings": {
+            "title": "Where should the range hood be above the cooktop?",
+            "content": "<p>We recommend the range hood is installed centrally over your cooktop and as far forward as possible so that the extraction area is above the whole cooktop.<\/p>",
+            "open": false
+          }
+        },
+        "f09cdc06-202d-4a5a-aa2c-85246573ce62": {
+          "type": "accordion",
+          "settings": {
+            "title": "When choosing your ducting solution there a few choices to make.",
+            "content": "<p>Rigid or semi rigid ducting? Rigid will provide the ultimate results from your hood with the least amount of noise. Sometimes in difficult installations caused by structural obstacles Semi Rigid is required. By Semi rigid, we do not mean fully flexible ducting which is available in the market. This can result in a noisy, vibrating hood that has limited extraction capabilities. Thickness of the ducting, we refer to as ‘gauge’. A thick gauge is required for Sirius hoods as the hoods have a very high airflow which can increase vibration. The thicker ducting counteracts this effect, minimizing noise. The diameter of your ducting is determined by the outlet on your hood. Sirius hoods have a diameter of either 150mm or 200mm ducting. Other brands sometimes use a 125mm. We cater for this size also. Where possible, we recommend NOT reducing the ducting diameter during the installation as it reduces the airflow of your hood and can make your hood noisier.<\/p>",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-0",
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-1",
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-2",
+        "template--17318315032886__af7cf4be-1a37-4770-8a82-c8d732b0babb-1671672803da66e799-3",
+        "b405a421-c2c4-4d1f-97be-d219c17aa011",
+        "f3cd38c9-f40a-40c4-aeb5-3b0ffe39bc93",
+        "c44da754-a612-44d7-a717-21da5ea052a5",
+        "27b532b2-9dd8-418b-bd80-c3f5a6331096",
+        "b2f49e75-b16f-4558-8c9e-a82001c8aae3",
+        "fca8d879-dc55-4a5c-a3ac-93820244cc32",
+        "a1a8c2e9-4b6b-4a95-9eb0-e143f295ad7d",
+        "ba423daa-4f0d-42c4-90e4-ffc2508c546d",
+        "6246a214-d9a4-4df7-8530-53022251a2d3",
+        "cc0103b6-1c89-4e3e-ac9e-3ea3b3640079",
+        "dedda9fb-4121-41ea-84a7-0b673fccaf7f",
+        "f09cdc06-202d-4a5a-aa2c-85246573ce62"
+      ],
+      "settings": {
+        "container": "container",
+        "menu": "ducting"
+      }
+    },
+    "06805392-dc19-4db4-ad09-6a0d281c715d": {
+      "type": "custom-content",
+      "blocks": {
+        "e1dd3401-4077-42ac-a86b-b1bae9473cb0": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/pw0nfu32JSk",
+            "ratio": "16:9",
+            "video_title": "A GUIDE TO SIRIUS EASY DUCTING KITS",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "ba34a19b-4f49-4d38-a909-f460cc844d48": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/gtr-rXYyuLA",
+            "ratio": "16:9",
+            "video_title": "A SIMPLE GUIDE TO SIRIUS FILTERS",
+            "text_size": "medium",
+            "text_color": "white",
+            "play_style": "solid",
+            "play_size": "medium",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        },
+        "38eb6bef-da24-4f8a-b673-5d636f316cc8": {
+          "type": "video",
+          "settings": {
+            "video_link": "https:\/\/youtu.be\/55ydzH_RmXA",
+            "ratio": "16:9",
+            "video_title": "DUMMY PLUG FOR SPEED CONTROL",
+            "text_size": "medium",
+            "text_color": "black",
+            "play_style": "solid",
+            "play_size": "large",
+            "autoplay": false,
+            "loop": false,
+            "muted": false,
+            "width": "33%",
+            "alignment": "start",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "e1dd3401-4077-42ac-a86b-b1bae9473cb0",
+        "ba34a19b-4f49-4d38-a909-f460cc844d48",
+        "38eb6bef-da24-4f8a-b673-5d636f316cc8"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c3ae7834-ce60-4f4e-ba26-f35fbb7956b0",
+    "af7cf4be-1a37-4770-8a82-c8d732b0babb",
+    "06805392-dc19-4db4-ad09-6a0d281c715d"
+  ]
+}

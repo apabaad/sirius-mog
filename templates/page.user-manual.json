@@ -1,0 +1,841 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "e2dbb50d-590c-41df-94df-f0d45d322155": {
+      "type": "download",
+      "blocks": {
+        "13d133cf-e26c-49bb-975f-e3eb36738904": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ALFRESCO RANGE",
+            "align_text": "left"
+          }
+        },
+        "53a80617-0213-4147-8c05-e8d654d14dfb": {
+          "type": "download",
+          "settings": {
+            "title": "SL83 FRESCO 1500 - 1500mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SL83FRESCO-ONBOARD-user-install-manual_74a417b0-8c77-4c27-b567-b9a40eae4f6e.pdf?v=1671671852"
+          }
+        },
+        "afaac681-f815-419e-9876-61f961dc31b0": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM83 BBQ 1200 - 1200mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SLEM83-BBQ-1200-OFFBOARD-install-user-manual_ddbd465b-2c1e-4452-a9a9-40685d58a843.pdf?v=1671671951"
+          }
+        },
+        "c67d7771-0ec8-44f0-b0b8-f7c1d4e8564a": {
+          "type": "download",
+          "settings": {
+            "title": "SL83 BBQ 1200M - 1200mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SL83FRESCO-ONBOARD-user-install-manual_1_45ed8e50-637c-4da8-b91e-a9fba6615a6d.pdf?v=1671672112"
+          }
+        },
+        "2f5e69ef-c3d5-4607-b5ec-1182c1ccd72f": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ALFRESCO RANGE | CANOPY RANGE",
+            "align_text": "left"
+          }
+        },
+        "2e88cf59-823c-4790-a9eb-033cedcb36f6": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 FRESCO 900 - 900mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SL80FRESCO-ONBOARD-user-installation-manual_c57d0151-2633-49b4-9576-87226178a04e.pdf?v=1671672287"
+          }
+        },
+        "55fe3fd1-73bb-4af7-bb0f-62d588e928f1": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 BBQ 1200B - 1200mm Canopy Rangehood – Black finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SL80FRESCO-ONBOARD-user-installation-manual_1_e85e79f6-3e28-4e36-b1e4-2539617ddcee.pdf?v=1671672428"
+          }
+        },
+        "6f33e910-16c8-483e-af42-5ff337207eaa": {
+          "type": "download",
+          "settings": {
+            "title": "SL80BBQ1200M - 1200mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SL80FRESCO-ONBOARD-user-installation-manual_2.pdf?v=1671672503"
+          }
+        },
+        "67ec6680-c1e7-411a-bc1d-b25805433beb": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM80BBQ1200 - 1200mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SLEM80BBQ-OFFBOARD-user-install-manual.pdf?v=1671672630"
+          }
+        },
+        "feadec65-b331-4d99-8305-ff23c470de6f": {
+          "type": "download",
+          "settings": {
+            "title": "SIL25 FRESCO 1200 - 1200mm Island Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SLEM80BBQ-OFFBOARD-user-install-manual_b0058008-bfa4-42d2-b407-e8dde594a852.pdf?v=1671672704"
+          }
+        },
+        "43995787-0b85-4f5b-8abc-f6e7db1a86de": {
+          "type": "rich-text",
+          "settings": {
+            "title": "BATHROOM EXTRACTOR",
+            "align_text": "left"
+          }
+        },
+        "c58c9fe7-6aaf-4bac-873e-dfda3602825b": {
+          "type": "download",
+          "settings": {
+            "title": "SBE-1 WH - Universal Extractor Fan",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-SLEM80BBQ-OFFBOARD-user-install-manual_672576e7-eea8-4c09-849c-98d00ce67350.pdf?v=1671672833"
+          }
+        },
+        "87e50c2b-81aa-4ed7-b459-a8757c0c2a62": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CANOPY RANGE",
+            "align_text": "left"
+          }
+        },
+        "ebd42323-c3f3-4bb7-9484-5f501fb4c0a6": {
+          "type": "download",
+          "settings": {
+            "title": "SL22 900 - 900mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-ONBOARD_User-and-Install-Manual_7403361f-96d2-4484-aee8-a015a6575958.pdf?v=1671673077"
+          }
+        },
+        "65c48ed8-44fa-4426-8cde-0e3d51bafe6f": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC 97 900 - 900mm Onboard Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-ONBOARD_User-and-Install-Manual_251c8798-c645-4d44-965a-0f664d02f1cf.pdf?v=1671673157"
+          }
+        },
+        "a99d715b-3557-41e9-b1bb-fa8db87608d2": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM97900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_2bcf1bfb-98ca-4b7e-ba47-bb060d78336c.pdf?v=1671673321"
+          }
+        },
+        "2db89ba9-b10d-4aeb-b64d-853882fe2a7f": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM 2 900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_7bb88b70-02b6-462b-8b85-9def5652df25.pdf?v=1671673742"
+          }
+        },
+        "1bc5f7d1-5362-4463-97c5-05eb79b9a368": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM107G900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_138b5ff5-a541-422d-91b8-ec29a78043b8.pdf?v=1671673844"
+          }
+        },
+        "7d5f30d5-9e15-421c-9d9f-d830fbf02a15": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM107S900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_ebe5e290-355b-48d8-92dc-69930418846c.pdf?v=1671673920"
+          }
+        },
+        "e519597b-aa12-40ae-a255-e24df952bc62": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC107 G 900 - 900mm Glass Fascia Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_1cc960b4-4697-4bf5-9d17-b9d03ed72b85.pdf?v=1671674031"
+          }
+        },
+        "e7b16f27-9b4f-4094-ace4-b413f9cc8b82": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM92G900 - 900mm Black Glass Fascia Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_aa142aff-5be9-45c1-9f69-e242f959528c.pdf?v=1671674114"
+          }
+        },
+        "409de979-3735-45ce-b3fe-33921b178c9d": {
+          "type": "download",
+          "settings": {
+            "title": "SL22 900B - 900mm Black Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_e689cbbc-7f8d-415e-a690-d2073ba1f5ad.pdf?v=1671674205"
+          }
+        },
+        "e753b646-ee4c-4b1f-a202-72076196c1ce": {
+          "type": "download",
+          "settings": {
+            "title": "SL107 S1200 - 1200mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_a1e580d0-1489-491e-b913-76fe78e651fc.pdf?v=1671674286"
+          }
+        },
+        "8d35705f-da54-45d3-88e9-5ea290e0ed5a": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM107S1200 - 1200mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_1014118c-eefb-4f98-a8fc-947f1aaa00c4.pdf?v=1671674361"
+          }
+        },
+        "6fb54f2a-e57f-4bde-9d28-24063e5deb4c": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CEILING CASSETTE COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "13f37601-097a-47b0-98b9-0d81eac3033b": {
+          "type": "download",
+          "settings": {
+            "title": "SLT977EMEL - 930mm ‘The Line’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_a3fbb8be-3634-4a9f-8573-8bb55ec4b147.pdf?v=1671677128"
+          }
+        },
+        "8c42c868-c562-40ac-8f7d-91a7e626a8b8": {
+          "type": "download",
+          "settings": {
+            "title": "SLT978EMEL - 930mm ‘The Kite’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_413600f6-95a7-46b9-a156-7c61dabc2d8f.pdf?v=1671677202"
+          }
+        },
+        "88f12b9d-7db7-45c4-afe9-028ab5128258": {
+          "type": "download",
+          "settings": {
+            "title": "SLT972EMEL - 900mm ‘The Origami’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_ee688743-876c-48e6-98f3-fabd218ee7f5.pdf?v=1671677356"
+          }
+        },
+        "a816b281-b600-4b77-b3c2-47cd74c4b1c3": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 958 EM WH - 900mm Flush Mount Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_48c1011c-ca04-4ac5-82d0-7d825bd0df5f.pdf?v=1671677457"
+          }
+        },
+        "6db73280-9fef-4609-bcea-56d2cb6d787f": {
+          "type": "download",
+          "settings": {
+            "title": "SLT974EMEL - 850mm ‘The Screen’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_0d2e21b4-fbb0-49f2-a9cd-cc2216ccb83d.pdf?v=1671677567"
+          }
+        },
+        "303d134b-6070-4060-aebb-6301c17dcb40": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 968 EM WH - 1100mm White Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_b73ca563-5916-40fc-94d5-e6103ea710a0.pdf?v=1671677691"
+          }
+        },
+        "2e97ed6f-cf28-44e6-a269-848d7b7bacf7": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 969 WH - 1100mm Onboard Ceiling Cassette – White Glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_7b2f2160-61a1-4f1f-811e-759186150aef.pdf?v=1671677779"
+          }
+        },
+        "e367c46b-8d5f-4ba8-a04c-2d02f1bf938e": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 969 X - 1100mm Onboard Ceiling Cassette – Stainless steel finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_0ec549e2-cbf4-4e8c-be66-ba4dd12afc58.pdf?v=1671677852"
+          }
+        },
+        "708cbdf6-0773-4a6a-9aed-81d80ebffce7": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 960 EM - 1100mm Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_3eca00a1-f10c-4c5c-9672-3d038d18e13a.pdf?v=1671677914"
+          }
+        },
+        "302baee8-07a7-4cf4-b1ed-8fe2de09b07c": {
+          "type": "download",
+          "settings": {
+            "title": "SLT979EMEL - 1080mm ‘The Solara’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_031420ad-b626-4f23-ae41-1502ccd23c11.pdf?v=1671677984"
+          }
+        },
+        "aca90a43-7b1a-46ed-a516-e667b9fbe36c": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CEILING CASSETTE COLLECTION | PENDANT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "4e561d16-a894-4220-8879-c3e235c33a24": {
+          "type": "download",
+          "settings": {
+            "title": "SLT-973 - HALO RANGEHOOD – ONBOARD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_cafa9706-015d-492c-8b40-53abad99f57e.pdf?v=1671678117"
+          }
+        },
+        "621936fd-ff96-413c-a7a6-7ad6c40e0d7b": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 973 EM - HALO RANGEHOOD – OFFBOARD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_1e78eb1b-97a9-4f1c-b856-56286613b3bc.pdf?v=1671678179"
+          }
+        },
+        "3d6c167d-51fb-40b6-91cc-689b3657ccda": {
+          "type": "rich-text",
+          "settings": {
+            "title": "DOWNDRAFT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "71080fd3-2a3a-4b31-9be5-59be2ffcd9be": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 880 - 880MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_2aaf4894-7662-4f04-af8b-1b3c20d66e61.pdf?v=1671678284"
+          }
+        },
+        "18c1345e-c85f-4736-bd01-7cd2f713e376": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 580 - 580MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_b2779869-303b-49aa-9df2-7090b8833202.pdf?v=1671678369"
+          }
+        },
+        "c6199e7b-c04e-4992-8fdd-08adf37ed6ef": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 1180 - 1180MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_475d69ae-0db9-443e-a601-2e5192ca0c75.pdf?v=1671678436"
+          }
+        },
+        "16fec009-42ed-4785-9a38-3e8bf216eee1": {
+          "type": "rich-text",
+          "settings": {
+            "title": "INDUCTION DOWNDRAFT",
+            "align_text": "left"
+          }
+        },
+        "e34b6e6b-11c1-4bc6-aa08-cb4904bfe14e": {
+          "type": "download",
+          "settings": {
+            "title": "SDDH-3 - Integrated Induction Downdraft",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_44aa1e96-aa89-4cd2-aade-00e76caa4760.pdf?v=1671678512"
+          }
+        },
+        "7aa221d5-ab53-49b5-8d54-f0f19590a9ad": {
+          "type": "download",
+          "settings": {
+            "title": "S-DDH1.1 - Induction Cooktop with Downdraft Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f7153c9a-98bf-4d4b-ae83-b3f88e1f56b7.pdf?v=1671678585"
+          }
+        },
+        "0f32e2a4-a40b-452a-a168-94cb74fa975a": {
+          "type": "rich-text",
+          "settings": {
+            "title": "INTEGRATED DOWNDRAFT",
+            "align_text": "left"
+          }
+        },
+        "13820a58-8e88-440b-81d0-e3bdf7ab7b98": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2LEMIC880 - 880MM INTEGRATED DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_3d8e5285-a472-45a5-b1c3-f6bb99c4769e.pdf?v=1671678679"
+          }
+        },
+        "0708d539-7103-40fe-87fd-48f00e1c29b6": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2LEMIC1180 - 1180MM INTEGRATED DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_9a307bec-c752-47ab-b413-d15f8c02a6ed.pdf?v=1671678745"
+          }
+        }
+      },
+      "block_order": [
+        "13d133cf-e26c-49bb-975f-e3eb36738904",
+        "53a80617-0213-4147-8c05-e8d654d14dfb",
+        "afaac681-f815-419e-9876-61f961dc31b0",
+        "c67d7771-0ec8-44f0-b0b8-f7c1d4e8564a",
+        "2f5e69ef-c3d5-4607-b5ec-1182c1ccd72f",
+        "2e88cf59-823c-4790-a9eb-033cedcb36f6",
+        "55fe3fd1-73bb-4af7-bb0f-62d588e928f1",
+        "6f33e910-16c8-483e-af42-5ff337207eaa",
+        "67ec6680-c1e7-411a-bc1d-b25805433beb",
+        "feadec65-b331-4d99-8305-ff23c470de6f",
+        "43995787-0b85-4f5b-8abc-f6e7db1a86de",
+        "c58c9fe7-6aaf-4bac-873e-dfda3602825b",
+        "87e50c2b-81aa-4ed7-b459-a8757c0c2a62",
+        "ebd42323-c3f3-4bb7-9484-5f501fb4c0a6",
+        "65c48ed8-44fa-4426-8cde-0e3d51bafe6f",
+        "a99d715b-3557-41e9-b1bb-fa8db87608d2",
+        "2db89ba9-b10d-4aeb-b64d-853882fe2a7f",
+        "1bc5f7d1-5362-4463-97c5-05eb79b9a368",
+        "7d5f30d5-9e15-421c-9d9f-d830fbf02a15",
+        "e519597b-aa12-40ae-a255-e24df952bc62",
+        "e7b16f27-9b4f-4094-ace4-b413f9cc8b82",
+        "409de979-3735-45ce-b3fe-33921b178c9d",
+        "e753b646-ee4c-4b1f-a202-72076196c1ce",
+        "8d35705f-da54-45d3-88e9-5ea290e0ed5a",
+        "6fb54f2a-e57f-4bde-9d28-24063e5deb4c",
+        "13f37601-097a-47b0-98b9-0d81eac3033b",
+        "8c42c868-c562-40ac-8f7d-91a7e626a8b8",
+        "88f12b9d-7db7-45c4-afe9-028ab5128258",
+        "a816b281-b600-4b77-b3c2-47cd74c4b1c3",
+        "6db73280-9fef-4609-bcea-56d2cb6d787f",
+        "303d134b-6070-4060-aebb-6301c17dcb40",
+        "2e97ed6f-cf28-44e6-a269-848d7b7bacf7",
+        "e367c46b-8d5f-4ba8-a04c-2d02f1bf938e",
+        "708cbdf6-0773-4a6a-9aed-81d80ebffce7",
+        "302baee8-07a7-4cf4-b1ed-8fe2de09b07c",
+        "aca90a43-7b1a-46ed-a516-e667b9fbe36c",
+        "4e561d16-a894-4220-8879-c3e235c33a24",
+        "621936fd-ff96-413c-a7a6-7ad6c40e0d7b",
+        "3d6c167d-51fb-40b6-91cc-689b3657ccda",
+        "71080fd3-2a3a-4b31-9be5-59be2ffcd9be",
+        "18c1345e-c85f-4736-bd01-7cd2f713e376",
+        "c6199e7b-c04e-4992-8fdd-08adf37ed6ef",
+        "16fec009-42ed-4785-9a38-3e8bf216eee1",
+        "e34b6e6b-11c1-4bc6-aa08-cb4904bfe14e",
+        "7aa221d5-ab53-49b5-8d54-f0f19590a9ad",
+        "0f32e2a4-a40b-452a-a168-94cb74fa975a",
+        "13820a58-8e88-440b-81d0-e3bdf7ab7b98",
+        "0708d539-7103-40fe-87fd-48f00e1c29b6"
+      ],
+      "settings": {
+        "title": "USER MANUALS",
+        "subtitle": "Download the manual for your Sirius Rangehood"
+      }
+    },
+    "5b7e7b43-3f9a-4a44-bc30-6e90fb7f0e10": {
+      "type": "download",
+      "blocks": {
+        "5d3a6d66-1fca-43c7-bc03-6644d54ae6af": {
+          "type": "rich-text",
+          "settings": {
+            "title": "PENDANT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "405da0c4-e737-446b-9819-b875346c9e16": {
+          "type": "download",
+          "settings": {
+            "title": "SILT 28 - ISLAND PENDANT RECIRCULATING HOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_c21cf069-1ad3-4e36-a783-ba7369cc7443.pdf?v=1671679808"
+          }
+        },
+        "8e3057de-9d9e-4007-8aa8-87d45ac9a57b": {
+          "type": "download",
+          "settings": {
+            "title": "SILT26 - CEILING MOUNT PENDANT RECIRCULATING RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f5f96740-36a4-48af-8196-7745b4fc5b38.pdf?v=1671679865"
+          }
+        },
+        "c04844eb-16f1-446d-879e-23b1f96abb73": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS ARCHIVE",
+            "align_text": "left"
+          }
+        },
+        "411673fa-d027-42cb-aaea-53bf67c6f232": {
+          "type": "download",
+          "settings": {
+            "title": "SL107 S 900 - 900mm Onboard Canopy Rangehood",
+            "download_url": ""
+          }
+        },
+        "5460d9c6-f75e-4773-acad-ab34685690fb": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 BBQ 1200M - 1200mm Alfresco BBQ Marine-Grade Rangehood",
+            "download_url": ""
+          }
+        },
+        "8fbf4c07-92b9-4fae-95ac-ad9e3bb44753": {
+          "type": "download",
+          "settings": {
+            "title": "SILEM25 BBQ 1200 - 1200mm Island Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_dc8b546a-d485-4f98-aff1-71ff398ea340.pdf?v=1671680117"
+          }
+        },
+        "d516bda1-63d9-412e-a4fb-ad38cd224a61": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS UNDERMOUNT RANGE",
+            "align_text": "left"
+          }
+        },
+        "595c0def-38b0-452c-ba06-439c4d0776cd": {
+          "type": "download",
+          "settings": {
+            "title": "SL926-DL 520 - Sirius 520mm Smart-Switch Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_45f5a74a-0c02-4d08-b45e-2e20a2e2cc0e.pdf?v=1671680197"
+          }
+        },
+        "ef4e69f8-ca49-4fda-b6dd-a2e45f3b8cea": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 850 - 850mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_1ff0249c-fa7e-430b-ad51-9b014e90bbae.pdf?v=1671680257"
+          }
+        },
+        "071c4331-ce1b-4f95-95d1-37940b15e33a": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 850 - 850mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_52ea52fd-441e-483d-aba4-ab49ebf0eb91.pdf?v=1671680324"
+          }
+        },
+        "b77e7c94-3e46-4d36-a96d-9f2175db335e": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DL 850 - 850mm Sirius Smart-Switch undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_4c787df4-84f5-4173-8d7d-92536b2bdf6b.pdf?v=1671680517"
+          }
+        },
+        "fbca89de-b279-4106-b62d-ac563f4827d6": {
+          "type": "download",
+          "settings": {
+            "title": "SM927EL850 - 850mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_67aca96f-1328-40e0-9baa-5470fb2b08e0.pdf?v=1671680590"
+          }
+        },
+        "f1100e03-03ff-4b0e-b664-91100ea96449": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 850 BK - 850mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_4d666000-8cca-4573-9534-7178784c5c87.pdf?v=1671680720"
+          }
+        },
+        "7d00ad90-0c1a-4c28-85d6-e91e75989c1c": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 850 - 850mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_35ab3718-2e0e-438f-bd1c-2eed19eaa471.pdf?v=1671680846"
+          }
+        },
+        "4ec29f1b-ebf2-4726-86c5-25aef1278a2c": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L850 - 850mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_5a66a6de-3ac6-40bd-915b-bd4470909a21.pdf?v=1671680909"
+          }
+        },
+        "fe54331d-7709-4834-8e45-69e08b5be66e": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L 850 - 850mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_15bf06c2-3163-421c-9d79-6692ed1bd438.pdf?v=1671680980"
+          }
+        },
+        "1bdd93ca-0acb-4295-816d-4cc5bb1c2507": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 850 - 850mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_76d0061f-ab19-4297-9394-c4bb3fab6c01.pdf?v=1671681049"
+          }
+        },
+        "cd83b911-edd0-436f-a27c-af0c6aa84926": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 780 - 780mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_c1cd3d74-3d7c-4aab-aace-2248226a18b4.pdf?v=1671681140"
+          }
+        },
+        "1bddd200-c374-4782-a310-e28a968a552c": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L700 - 700mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f19629ca-0ec2-4e9d-98a2-aa91502aa155.pdf?v=1671681217"
+          }
+        },
+        "3c746afc-46f6-44c6-aa24-342b70a5a0ad": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 520 BK - 520mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_578d4aed-4098-459b-83fe-92299aff8e2e.pdf?v=1671681293"
+          }
+        },
+        "924f71c3-a60b-4290-9a85-255af3fbf8b4": {
+          "type": "download",
+          "settings": {
+            "title": "SM927EL520 - 520mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_d69f0186-94d9-454f-af9c-3c23e528d01a.pdf?v=1671681368"
+          }
+        },
+        "8f0d573a-2c03-4179-a056-34beba25fca0": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 520 - 520mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_5f7e2938-d74f-4479-aaa4-9f684965bf3f.pdf?v=1671681455"
+          }
+        },
+        "16a6ce46-840c-498f-b5e3-77f240ea6738": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L520 - 520mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_de839c7f-85f3-40e5-a043-7ba26ca4c899.pdf?v=1671681520"
+          }
+        },
+        "e6e2db74-6258-4d30-8558-ff53a6b78c67": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L 520 - 520mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_c2550a6e-efb6-4db0-9121-6dd4185c6400.pdf?v=1671681581"
+          }
+        },
+        "dbd1dca2-0c4c-4d46-ba9d-ccfebe39cab0": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 520 - 520mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_0226f573-3550-4912-9d85-d64b1ea2a59c.pdf?v=1671681649"
+          }
+        },
+        "3c6ba04b-5a66-4c55-8bff-345e5186f8ae": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1500 - 1500mm triple-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f0aa555a-dfb0-4f93-a450-9d0e53cf5d70.pdf?v=1671681750"
+          }
+        },
+        "0fd69ce8-da4c-4ed3-99e4-e96bcdb4086a": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1200 - 1120mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_522ed4ab-7261-425b-bc40-ad72b53ffb6d.pdf?v=1671681815"
+          }
+        },
+        "f0406817-c987-477b-a36a-71984aed83b8": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 1200 - 1120mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_3e42136a-cef2-42b8-885d-8236e13fc9d0.pdf?v=1671681914"
+          }
+        },
+        "792977f4-4986-4400-aeee-e66dedf14708": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 1200 - 1120mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_a5fef844-2445-4995-acca-f4e2b699d6ec.pdf?v=1671681977"
+          }
+        },
+        "d06c85e0-08e6-40e5-828c-79085352600f": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1000 - 1000mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f47e7985-820d-4743-97d8-3c1307e0a049.pdf?v=1671682059"
+          }
+        },
+        "1f9b87b3-f48d-4d41-9885-3a0e96a2e2d9": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 1000 - 1000mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_934c2112-2751-419d-a11d-c023af807d70.pdf?v=1671682116"
+          }
+        },
+        "ad82e75c-0896-4de8-8f6b-c66fdc2dc164": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 1000 - 1000mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_b4a4da52-c38a-464f-bc0c-5c0d432f93a0.pdf?v=1671682180"
+          }
+        },
+        "583d7a8e-4b43-4f29-8d54-9150fdceec38": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS UNDERMOUNT RANGE | UNDERMOUNT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "17ddc60c-dea1-4e82-8424-f02c3903244b": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM850 - 850mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_755568ab-d3fb-4daf-aa2b-2b30b7435d0c.pdf?v=1671682331"
+          }
+        },
+        "ea159bcc-ef56-49ba-befd-50f2284a0aeb": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DL850 - 850mm ONBOARD UNDERMOUNT RANGEHOOD – SINGLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_4b0ea759-29c6-49cc-80ff-362b634da744.pdf?v=1671682425"
+          }
+        },
+        "e4abe3c9-81a5-4b85-b777-aa35dc1eb579": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL850 - 850mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_cf3a0908-615b-4d63-b244-e7e1284689fb.pdf?v=1671682481"
+          }
+        },
+        "241c252f-d301-47be-8d95-4d5922e432a9": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DL520 - 520mm ONBOARD UNDERMOUNT RANGEHOOD – SINGLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_73dfce56-420e-423e-950d-e532636e62cd.pdf?v=1671682534"
+          }
+        },
+        "9fe0b041-5144-4cf6-b146-fadeca470b97": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL520 - 520mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_8f3e3185-06aa-492d-b369-a7042f9e3006.pdf?v=1671682603"
+          }
+        },
+        "cd44aba3-c310-4801-a7df-dff83dedfe7c": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM150 - 1500mm ONBOARD UNDERMOUNT RANGEHOOD – TRIPLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_67821fcc-2001-4b24-b641-dafcf0959352.pdf?v=1671682689"
+          }
+        },
+        "54433f36-1131-4398-b6e8-cea9b98b29ed": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM120 - 1120mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_da2b474e-c51b-41b5-adc5-1b079de8b444.pdf?v=1671682767"
+          }
+        },
+        "5b38348c-d3f2-4add-a8c9-9fe311ea2e45": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL120 - 1120mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_c080c962-0110-42c5-a942-bce59b9650e9.pdf?v=1671682834"
+          }
+        },
+        "6b75902c-4ce1-4438-98df-41318501580a": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM100 - 1000mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_e1f28cf0-98e8-4efa-9541-c4ed8f40c624.pdf?v=1671682916"
+          }
+        },
+        "ef34861e-3a49-4aac-a091-9adb740b186d": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL100 - 1000mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_ec2fb358-8498-45eb-b7bd-8ba61d585730.pdf?v=1671682974"
+          }
+        },
+        "632c0193-2bf5-49ba-b78c-230b79c32d87": {
+          "type": "rich-text",
+          "settings": {
+            "title": "UNDERMOUNT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "7549a11e-9d5e-47cc-9836-40403161befa": {
+          "type": "download",
+          "settings": {
+            "title": "UPDRAFT - Updraft Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_0f9b7043-2059-4cbb-8e41-2e17540efa09.pdf?v=1671683100"
+          }
+        },
+        "bd863516-3f27-4eb3-933c-bc35304e5d0f": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC919 L 850 - 850mm Undermount with Glass Fascia",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_59f80921-19a6-4604-866d-efa677e9d0f0.pdf?v=1671683167"
+          }
+        },
+        "727f9b5b-24cc-4364-a65c-20bebd254862": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 850 - 850mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_3cd34988-445e-4d1a-bc60-2ff81c7b515d.pdf?v=1671683227"
+          }
+        },
+        "d7bb38d2-5f5d-419b-9d94-2c798a4c8102": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC919 L 520 - 520mm Undermount with Glass Fascia",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_586c762f-ce02-4bfc-b4d0-4830dc00b84d.pdf?v=1671683319"
+          }
+        },
+        "b9fffe66-b3b6-4c32-b2ca-23d110051440": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 1500 - 1500mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_75f47188-ecc2-4182-beb0-b50842db2934.pdf?v=1671683377"
+          }
+        }
+      },
+      "block_order": [
+        "5d3a6d66-1fca-43c7-bc03-6644d54ae6af",
+        "405da0c4-e737-446b-9819-b875346c9e16",
+        "8e3057de-9d9e-4007-8aa8-87d45ac9a57b",
+        "c04844eb-16f1-446d-879e-23b1f96abb73",
+        "411673fa-d027-42cb-aaea-53bf67c6f232",
+        "5460d9c6-f75e-4773-acad-ab34685690fb",
+        "8fbf4c07-92b9-4fae-95ac-ad9e3bb44753",
+        "d516bda1-63d9-412e-a4fb-ad38cd224a61",
+        "595c0def-38b0-452c-ba06-439c4d0776cd",
+        "ef4e69f8-ca49-4fda-b6dd-a2e45f3b8cea",
+        "071c4331-ce1b-4f95-95d1-37940b15e33a",
+        "b77e7c94-3e46-4d36-a96d-9f2175db335e",
+        "fbca89de-b279-4106-b62d-ac563f4827d6",
+        "f1100e03-03ff-4b0e-b664-91100ea96449",
+        "7d00ad90-0c1a-4c28-85d6-e91e75989c1c",
+        "4ec29f1b-ebf2-4726-86c5-25aef1278a2c",
+        "fe54331d-7709-4834-8e45-69e08b5be66e",
+        "1bdd93ca-0acb-4295-816d-4cc5bb1c2507",
+        "cd83b911-edd0-436f-a27c-af0c6aa84926",
+        "1bddd200-c374-4782-a310-e28a968a552c",
+        "3c746afc-46f6-44c6-aa24-342b70a5a0ad",
+        "924f71c3-a60b-4290-9a85-255af3fbf8b4",
+        "8f0d573a-2c03-4179-a056-34beba25fca0",
+        "16a6ce46-840c-498f-b5e3-77f240ea6738",
+        "e6e2db74-6258-4d30-8558-ff53a6b78c67",
+        "dbd1dca2-0c4c-4d46-ba9d-ccfebe39cab0",
+        "3c6ba04b-5a66-4c55-8bff-345e5186f8ae",
+        "0fd69ce8-da4c-4ed3-99e4-e96bcdb4086a",
+        "f0406817-c987-477b-a36a-71984aed83b8",
+        "792977f4-4986-4400-aeee-e66dedf14708",
+        "d06c85e0-08e6-40e5-828c-79085352600f",
+        "1f9b87b3-f48d-4d41-9885-3a0e96a2e2d9",
+        "ad82e75c-0896-4de8-8f6b-c66fdc2dc164",
+        "583d7a8e-4b43-4f29-8d54-9150fdceec38",
+        "17ddc60c-dea1-4e82-8424-f02c3903244b",
+        "ea159bcc-ef56-49ba-befd-50f2284a0aeb",
+        "e4abe3c9-81a5-4b85-b777-aa35dc1eb579",
+        "241c252f-d301-47be-8d95-4d5922e432a9",
+        "9fe0b041-5144-4cf6-b146-fadeca470b97",
+        "cd44aba3-c310-4801-a7df-dff83dedfe7c",
+        "54433f36-1131-4398-b6e8-cea9b98b29ed",
+        "5b38348c-d3f2-4add-a8c9-9fe311ea2e45",
+        "6b75902c-4ce1-4438-98df-41318501580a",
+        "ef34861e-3a49-4aac-a091-9adb740b186d",
+        "632c0193-2bf5-49ba-b78c-230b79c32d87",
+        "7549a11e-9d5e-47cc-9836-40403161befa",
+        "bd863516-3f27-4eb3-933c-bc35304e5d0f",
+        "727f9b5b-24cc-4364-a65c-20bebd254862",
+        "d7bb38d2-5f5d-419b-9d94-2c798a4c8102",
+        "b9fffe66-b3b6-4c32-b2ca-23d110051440"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "d17fa333-ec46-44d2-8fb9-954af2df9740": {
+      "type": "download",
+      "blocks": {
+        "2dab2f04-feaa-4754-ad54-7a8f10c695fd": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 1200 - 1200mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_f79316ce-df3e-497a-9827-c60e837cb521.pdf?v=1671683480"
+          }
+        }
+      },
+      "block_order": [
+        "2dab2f04-feaa-4754-ad54-7a8f10c695fd"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e2dbb50d-590c-41df-94df-f0d45d322155",
+    "5b7e7b43-3f9a-4a44-bc30-6e90fb7f0e10",
+    "d17fa333-ec46-44d2-8fb9-954af2df9740"
+  ]
+}

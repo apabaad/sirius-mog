@@ -495,7 +495,7 @@
             "text_size": "small",
             "text_color": "white",
             "image": "shopify:\/\/shop_images\/Induction-Downdraft-Collection.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/induction-downdraft",
             "title": "INDUCTION DOWNDRAFT",
             "subtitle": "",
             "button_label": "",
@@ -514,7 +514,7 @@
             "text_size": "small",
             "text_color": "white",
             "image": "shopify:\/\/shop_images\/Downdraft-Collection.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/downdraft",
             "title": "DOWNDRAFT COLLECTION",
             "subtitle": "",
             "button_label": "",
@@ -533,7 +533,7 @@
             "text_size": "small",
             "text_color": "white",
             "image": "shopify:\/\/shop_images\/Undermount-Collection.jpg",
-            "link": "",
+            "link": "shopify:\/\/collections\/undermount",
             "title": "UNDERMOUNT COLLECTION",
             "subtitle": "",
             "button_label": "",
@@ -561,6 +561,24 @@
             "button_size": "",
             "block_custom_class": ""
           }
+        },
+        "43b69ff6-2caf-4ac1-a3da-422ff6651716": {
+          "type": "image_card",
+          "settings": {
+            "width": "33%",
+            "content_position": "bottom_center",
+            "content_alignment": "center",
+            "text_size": "small",
+            "text_color": "white",
+            "link": "",
+            "title": "ALFRESCO COLLECTION",
+            "subtitle": "",
+            "button_label": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "use_content_above": false,
+            "block_custom_class": ""
+          }
         }
       },
       "block_order": [
@@ -569,7 +587,8 @@
         "f75bdf8b-186c-44df-a2fb-2b79815a4356",
         "bb1875d4-6def-4d6f-895d-e49f074e6767",
         "063e4aa7-688e-4e6e-adb8-dad06eb71b04",
-        "9828ad46-5951-4522-9907-26eecac387b4"
+        "9828ad46-5951-4522-9907-26eecac387b4",
+        "43b69ff6-2caf-4ac1-a3da-422ff6651716"
       ],
       "settings": {
         "heading": "Custom content",
