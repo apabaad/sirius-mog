@@ -11,7 +11,11 @@
                     <img class="feature-icon" loading="lazy" src="{{product.metafields.features-icon.features-icon[i]}}"> 
                     <div class="keyfeatures-text">
                             <div class="features-title">{{product.metafields.features-title.features-title[i] }}</div>
-                            <p>{{product.metafields.features-description.features-description[i]}}</p>
+                            {% if product.metafields.features-title.features-title[i] == "Light Strip" %}
+                              <p>The light strip is conveniently located around the top of the  downdraft, providing brighter illumination and a unique style feature. This improved visibility ensures that users can properly see what they are doing when chopping vegetables or stirring sauces.</p>
+                              {% else %}
+                             <p> {{product.metafields.features-description.features-description[i]}}</p>
+                            {% endif %}
                     </div>
                     </div>
                         
