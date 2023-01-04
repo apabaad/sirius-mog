@@ -8,6 +8,18 @@
     },
     "c3ae7834-ce60-4f4e-ba26-f35fbb7956b0": {
       "type": "download",
+      "blocks": {
+        "660465f9-b026-46d0-976a-77f9184c7092": {
+          "type": "blank",
+          "settings": {
+            "title": "",
+            "download_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "660465f9-b026-46d0-976a-77f9184c7092"
+      ],
       "settings": {
         "title": "FAQ \/ HOW TO VIDEOS",
         "subtitle": "Find your general queries answer"

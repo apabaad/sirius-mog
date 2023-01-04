@@ -52,28 +52,46 @@
                 {% endif %}
               </div>
                 
+              <div id="{{ section.id }}-1">
+                <ul>
                 {% if section.settings.sub_title != blank %}
-                    <p class="content__subheading mb-5"><strong>{{ section.settings.sub_title }}</strong></p>
-                  {% endif %}
+                    <li class="content__subheading mb-5"><a href="#tabs-2">{{ section.settings.sub_title }}</a></li>
+                {% endif %}
+                {% if section.settings.sub_title2 != blank %}
+                    <li class="content__subheading mb-5"><a href="#tabs-3">{{ section.settings.sub_title2 }}</a></li>
+                {% endif %}
+
+                </ul>
                 
                 {% if section.settings.text != blank %}
-                  <div class="md:mb-6 mb-3 lg:mb-8 text-black rte prose">{{ section.settings.text }}</div>
+                  <div id="tabs-2" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose">{{ section.settings.text }}</div>
+                {% endif %}
+
+                {% if section.settings.text2 != blank %}
+                  <div id="tabs-3" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose">{{ section.settings.text2 }}</div>
                 {% endif %}
 
                 <div class ="sem-pdf-container flex">
-                {% if section.settings.button_label != blank %}
-                  <a href="{{ section.settings.button_link | default: "#" }}" class="sf__btn {{ section.settings.button_style }} {{ section.settings.button_size }}">{{ section.settings.button_label }}</a>
-                {% endif %}
-                {% if section.settings.button2_label != blank %}
-                    <a href="{{ section.settings.button2_link | default: "#" }}" class="sf__btn {{ section.settings.button2_style }} {{ section.settings.button2_size }}">{{ section.settings.button2_label }}</a>
+                  {% if section.settings.button_label != blank %}
+                    <a href="{{ section.settings.button_link | default: "#" }}" class="sf__btn {{ section.settings.button_style }} {{ section.settings.button_size }}">{{ section.settings.button_label }}</a>
                   {% endif %}
+                  {% if section.settings.button2_label != blank %}
+                      <a href="{{ section.settings.button2_link | default: "#" }}" class="sf__btn {{ section.settings.button2_style }} {{ section.settings.button2_size }}">{{ section.settings.button2_label }}</a>
+                    {% endif %}
                 </div>
-
+              </div>
               </div>
             </div>
           </div>
       </div>
   </section>
+
+  <script>  
+         $(function() {  
+            $( "#{{ section.id }}-1" ).tabs();  
+         });  
+  </script> 
+
   {% schema %}
   {
     "name": "Image with text manuals ",
@@ -240,9 +258,19 @@
         "label": "Subheading"
       },
       {
+        "type": "textarea",
+        "id": "sub_title2",
+        "label": "Subheading 2"
+      },
+      {
         "type": "html",
         "id": "text",
         "label": "Description HTML"
+         },
+      {
+        "type": "html",
+        "id": "text2",
+        "label": "Description HTML 2"
          },
       {
         "type": "select",
@@ -444,6 +472,30 @@
 
   {% style %}
 
+  #{{section.id}}-1{
+    font-size: 16px;
+  }  
+  
+  .ui-widget-header {  
+     background:#f3f3f3;  
+     border: none;  
+     color: black;  
+    font-weight: bold;  
+      }  
+  
+  .ui-widget-content{
+    border:0;
+    background:none;
+  }
+
+  .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
+    color: black;
+  }
+
+  .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    border: 2px solid #E21219;
+    background:#f1f1f1;
+  }
 
   .sirius-sem-title:after {
     content: '';

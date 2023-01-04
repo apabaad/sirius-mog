@@ -2,7 +2,27 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "29ad0f67-b79f-4405-9d92-9fd2dfb2d83f": {
+      "type": "download",
+      "blocks": {
+        "dc034e5d-4a6d-4e57-af8c-929ae09302f4": {
+          "type": "blank",
+          "settings": {
+            "title": "",
+            "download_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "dc034e5d-4a6d-4e57-af8c-929ae09302f4"
+      ],
+      "settings": {
+        "title": "Sirius Ducting Guides",
+        "subtitle": ""
       }
     },
     "7d0e64e1-b64a-43c6-b1d4-23f67d5df093": {
@@ -278,7 +298,7 @@
         "gap": 30,
         "use_scroll_mobile": false,
         "gap_mobile": 16,
-        "padding_top": 0,
+        "padding_top": 46,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -286,6 +306,7 @@
   },
   "order": [
     "main",
+    "29ad0f67-b79f-4405-9d92-9fd2dfb2d83f",
     "7d0e64e1-b64a-43c6-b1d4-23f67d5df093"
   ]
 }

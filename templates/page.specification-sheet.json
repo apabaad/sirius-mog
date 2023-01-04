@@ -5,9 +5,1113 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "bc7aab4b-0202-494f-bdc9-12d96e5476eb": {
+      "type": "download",
+      "blocks": {
+        "28ee8713-9fdb-4d7c-958e-6e81576234ea": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ALFRESCO RANGE",
+            "align_text": "left"
+          }
+        },
+        "846763d3-15d2-4267-abef-cae6d3d29a67": {
+          "type": "download",
+          "settings": {
+            "title": "SL83 FRESCO 1500 - 1500mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_55fb2480-af0f-4bd3-8691-102b3b86c322.pdf?v=1671747034"
+          }
+        },
+        "716f3df1-dab6-40d5-af03-223b1d4fd677": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM83 BBQ 1200 - 1200mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_478fd583-a611-4dfe-85a9-5fc8b24c0814.pdf?v=1671747082"
+          }
+        },
+        "f924f9da-7c0e-4cce-84db-0f9600bbaee6": {
+          "type": "download",
+          "settings": {
+            "title": "SL83 BBQ 1200M - 1200mm Alfresco BBQ Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_592af565-76d8-4331-be94-5a3f8405ac89.pdf?v=1671747169"
+          }
+        }
+      },
+      "block_order": [
+        "28ee8713-9fdb-4d7c-958e-6e81576234ea",
+        "846763d3-15d2-4267-abef-cae6d3d29a67",
+        "716f3df1-dab6-40d5-af03-223b1d4fd677",
+        "f924f9da-7c0e-4cce-84db-0f9600bbaee6"
+      ],
+      "settings": {
+        "title": "SPECIFICATION SHEET",
+        "subtitle": "See the full technical specifications for your Sirius Rangehood"
+      }
+    },
+    "a9a5efc9-a831-4c6d-bdb4-a75ddd425735": {
+      "type": "download",
+      "blocks": {
+        "93b757be-9c66-4066-8f25-25153fe4f891": {
+          "type": "rich-text",
+          "settings": {
+            "title": "ALFRESCO RANGE | CANOPY RANGE",
+            "align_text": "left"
+          }
+        },
+        "a1a91408-c926-4376-9485-8c9961c5bd4f": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 FRESCO 900 - 900mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_afa269ab-586e-403f-996b-3ec1b2af4e2f.pdf?v=1671747272"
+          }
+        },
+        "904076ad-d2b4-4e36-80f4-54777af8c453": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 BBQ 1200B - 1200mm Canopy Rangehood – Black finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_8c484d0f-5771-4ecf-965d-5c0bc76175c6.pdf?v=1671747354"
+          }
+        },
+        "19b30ab8-eba3-490b-9067-23e07670b642": {
+          "type": "download",
+          "settings": {
+            "title": "SL80BBQ1200M - 1200mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_aedd1bb8-bfa3-4045-a976-772353ac25f1.pdf?v=1671747404"
+          }
+        },
+        "d4c781f0-3cd9-4c1f-9a8d-d70d6879a537": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM80BBQ1200 - 1200mm Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_f96bcf8f-c53e-41f8-9b3b-81d48f34269f.pdf?v=1671747449"
+          }
+        },
+        "33d232c7-0c4e-4c50-829f-46cbd08bd920": {
+          "type": "download",
+          "settings": {
+            "title": "SIL25 FRESCO 1200 - 1200mm Island Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_4b7a823a-9805-4f3f-a747-19feb8972339.pdf?v=1671747497"
+          }
+        }
+      },
+      "block_order": [
+        "93b757be-9c66-4066-8f25-25153fe4f891",
+        "a1a91408-c926-4376-9485-8c9961c5bd4f",
+        "904076ad-d2b4-4e36-80f4-54777af8c453",
+        "19b30ab8-eba3-490b-9067-23e07670b642",
+        "d4c781f0-3cd9-4c1f-9a8d-d70d6879a537",
+        "33d232c7-0c4e-4c50-829f-46cbd08bd920"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "faee5678-74ed-4647-9257-89a44d514a1d": {
+      "type": "download",
+      "blocks": {
+        "7139fd42-aca1-4c4b-a6a9-7874fb53936e": {
+          "type": "rich-text",
+          "settings": {
+            "title": "BATHROOM EXTRACTOR",
+            "align_text": "left"
+          }
+        },
+        "e186d912-b165-4912-a335-5f99a51fbf31": {
+          "type": "download",
+          "settings": {
+            "title": "SBE-1 WH - Universal Extractor Fan",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_606df28f-dbe9-4d67-806b-2ab18bb783bc.pdf?v=1671747569"
+          }
+        }
+      },
+      "block_order": [
+        "7139fd42-aca1-4c4b-a6a9-7874fb53936e",
+        "e186d912-b165-4912-a335-5f99a51fbf31"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "a682b2cd-2bc1-4675-b761-1dd0b7124e8b": {
+      "type": "download",
+      "blocks": {
+        "d348c0f9-bee3-4a61-b69f-75dfeb9484f9": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CANOPY RANGE",
+            "align_text": "left"
+          }
+        },
+        "4375987d-840e-4009-85b6-1f65bf2cd7ad": {
+          "type": "download",
+          "settings": {
+            "title": "SL22 900 - 900mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_293d08ca-7d5b-4ba7-84fb-ceaf3308a858.pdf?v=1671747684"
+          }
+        },
+        "d508358b-6523-45bc-810f-a4858731f050": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC 97 900 - 900mm Onboard Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_bd8cb9aa-103b-4304-9ecf-0f7a0df8c9b3.pdf?v=1671747737"
+          }
+        },
+        "6f62ec56-3396-4434-b6a8-acb70f278c75": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM97900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_9873ccc7-cbb2-4982-a8e1-d4fb5272f6a4.pdf?v=1671747777"
+          }
+        },
+        "85d00b39-64aa-4d2b-8551-8a71bcce41c0": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM 2 900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_38d49dd6-75c8-4b9a-aca5-af0baea2be8e.pdf?v=1671747826"
+          }
+        },
+        "261d65bb-5ed3-4bf9-9ecd-c9be0cce246d": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM107G900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a2b64046-d830-432a-bf96-ff4ae4e70471.pdf?v=1671747870"
+          }
+        },
+        "d1b92fb7-3187-49ae-b8be-92f85be0026f": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM107S900 - 900mm offboard canopy rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_ca8391b7-261c-4cd0-b710-0bf5c5dac908.pdf?v=1671747918"
+          }
+        },
+        "9895a4d6-fc24-4343-832b-2675de8764db": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC107 G 900 - 900mm Glass Fascia Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_8f12eafa-6ee8-42a4-b7a4-a57c8b7cd380.pdf?v=1671747974"
+          }
+        },
+        "eb79a5b2-97a2-425d-a694-43989176ea5a": {
+          "type": "download",
+          "settings": {
+            "title": "SLTCEM92G900 - 900mm Black Glass Fascia Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_08d9438a-3abc-4085-a439-131249a272a4.pdf?v=1671748017"
+          }
+        },
+        "03097099-7a43-4c2a-9236-be1b116f5ddc": {
+          "type": "download",
+          "settings": {
+            "title": "SL22 900B - 900mm Black Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_b91f73f2-7a57-4ef2-ab55-87fc47179fc2.pdf?v=1671748061"
+          }
+        },
+        "2bcb24e2-f0b3-4a37-ae71-d8c80a765f88": {
+          "type": "download",
+          "settings": {
+            "title": "SL107 S1200 - 1200mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_09a37de7-ef79-4529-8a57-b70100490ea8.pdf?v=1671748108"
+          }
+        },
+        "b8113435-3f2b-4030-a122-57cf36e5565e": {
+          "type": "download",
+          "settings": {
+            "title": "SLEM107S1200 - 1200mm Stainless Steel Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_be20a8d7-dfe2-4f64-96fd-73318008b3b5.pdf?v=1671748150"
+          }
+        }
+      },
+      "block_order": [
+        "d348c0f9-bee3-4a61-b69f-75dfeb9484f9",
+        "4375987d-840e-4009-85b6-1f65bf2cd7ad",
+        "d508358b-6523-45bc-810f-a4858731f050",
+        "6f62ec56-3396-4434-b6a8-acb70f278c75",
+        "85d00b39-64aa-4d2b-8551-8a71bcce41c0",
+        "261d65bb-5ed3-4bf9-9ecd-c9be0cce246d",
+        "d1b92fb7-3187-49ae-b8be-92f85be0026f",
+        "9895a4d6-fc24-4343-832b-2675de8764db",
+        "eb79a5b2-97a2-425d-a694-43989176ea5a",
+        "03097099-7a43-4c2a-9236-be1b116f5ddc",
+        "2bcb24e2-f0b3-4a37-ae71-d8c80a765f88",
+        "b8113435-3f2b-4030-a122-57cf36e5565e"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "711ae0ff-fec0-4c34-ad42-a9427a6e6467": {
+      "type": "download",
+      "blocks": {
+        "c05ae4bb-a3d5-4a92-8111-353929ad5ba1": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CEILING CASSETTE COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "1341da69-fedb-44e3-8617-89d29c0d32b3": {
+          "type": "download",
+          "settings": {
+            "title": "SLT977EMEL - 930mm ‘The Line’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_b5bd3969-78a0-466f-8ac6-6ed33a2f7794.pdf?v=1671748452"
+          }
+        },
+        "6d22f5e6-bc0b-4fae-a6af-cc0c27d063a3": {
+          "type": "download",
+          "settings": {
+            "title": "SLT978EMEL - 930mm ‘The Kite’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_28ce6e2e-674d-43e2-9581-9a63f3a7cefa.pdf?v=1671748496"
+          }
+        },
+        "fb421f1b-d771-447b-b165-3dfb1cce8a52": {
+          "type": "download",
+          "settings": {
+            "title": "SLT972EMEL - 900mm ‘The Origami’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_4aede244-273a-4ef0-bb70-edfe17846b1d.pdf?v=1671748537"
+          }
+        },
+        "68c0bef5-2da2-4ed9-aca0-7f5d12a9ba7b": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 958 EM WH - 900mm Flush Mount Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_fff39151-4be0-4f24-b49d-c122f6548075.pdf?v=1671748609"
+          }
+        },
+        "17e04c11-a581-41b2-9fe5-7a9115f617c6": {
+          "type": "download",
+          "settings": {
+            "title": "SLT974EMEL - 850mm ‘The Screen’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_f6d2a143-aeda-4424-b1d1-75880cf29fbe.pdf?v=1671748657"
+          }
+        },
+        "9ec49e4e-5284-4bf3-a717-3e680f2858ea": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 968 EM WH - 1100mm White Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_2a0044dd-2693-434e-9b38-34a06f0dafeb.pdf?v=1671748702"
+          }
+        },
+        "bcb8ec39-7ad2-4cc1-af31-d471488dc543": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 969 WH - 1100mm Onboard Ceiling Cassette – White Glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_bd547075-9b2c-4d80-96ea-3077032402fc.pdf?v=1671748790"
+          }
+        },
+        "70a4693e-86d1-4d56-9fe7-d43e51af0f87": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 969 X - 1100mm Onboard Ceiling Cassette – Stainless steel finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_5dac0245-d33b-4362-9327-18d8e9175c25.pdf?v=1671748854"
+          }
+        },
+        "280f1585-56e6-4765-9f08-f43327f3e594": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 960 EM - 1100mm Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_e57715f2-4978-419f-858a-4cd6a57c5cd0.pdf?v=1671748896"
+          }
+        },
+        "9530c62e-852e-4d24-a7b3-73e43b1b2ef7": {
+          "type": "download",
+          "settings": {
+            "title": "SLT979EMEL - 1080mm ‘The Solara’ Ceiling Cassette",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_8b61dc6a-7b39-4dcc-8edd-3508fb8843b1.pdf?v=1671748933"
+          }
+        }
+      },
+      "block_order": [
+        "c05ae4bb-a3d5-4a92-8111-353929ad5ba1",
+        "1341da69-fedb-44e3-8617-89d29c0d32b3",
+        "6d22f5e6-bc0b-4fae-a6af-cc0c27d063a3",
+        "fb421f1b-d771-447b-b165-3dfb1cce8a52",
+        "68c0bef5-2da2-4ed9-aca0-7f5d12a9ba7b",
+        "17e04c11-a581-41b2-9fe5-7a9115f617c6",
+        "9ec49e4e-5284-4bf3-a717-3e680f2858ea",
+        "bcb8ec39-7ad2-4cc1-af31-d471488dc543",
+        "70a4693e-86d1-4d56-9fe7-d43e51af0f87",
+        "280f1585-56e6-4765-9f08-f43327f3e594",
+        "9530c62e-852e-4d24-a7b3-73e43b1b2ef7"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "eaaed464-c276-4fc4-9e7e-f970fae47de7": {
+      "type": "download",
+      "blocks": {
+        "eb732fa2-00b4-4823-8e6d-1b0ba13557d7": {
+          "type": "rich-text",
+          "settings": {
+            "title": "CEILING CASSETTE COLLECTION | PENDANT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "e5a33ce8-ab70-4579-9bc2-1c0a4a097dbe": {
+          "type": "download",
+          "settings": {
+            "title": "SLT-973 - HALO RANGEHOOD – ONBOARD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_4a6b4584-3882-4550-831d-f25282dd21a8.pdf?v=1671749050"
+          }
+        },
+        "008a2967-2f92-4777-bf91-6fd0983deaa2": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 973 EM - HALO RANGEHOOD – OFFBOARD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a151714a-94de-4500-9f12-dfd616ed698a.pdf?v=1671749092"
+          }
+        }
+      },
+      "block_order": [
+        "eb732fa2-00b4-4823-8e6d-1b0ba13557d7",
+        "e5a33ce8-ab70-4579-9bc2-1c0a4a097dbe",
+        "008a2967-2f92-4777-bf91-6fd0983deaa2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "711c278d-9f8d-4ea6-8c78-9cf3a155c3ca": {
+      "type": "download",
+      "blocks": {
+        "95b31668-44c3-44a4-b5b1-45452a737283": {
+          "type": "rich-text",
+          "settings": {
+            "title": "DOWNDRAFT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "6f910889-fd3f-453d-8ddd-6ab845780885": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 880 - 880MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_6a668690-645e-4453-b181-415092f0e4b7.pdf?v=1671750756"
+          }
+        },
+        "796da039-aef6-455a-96cc-dcc2056205b4": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 580 - 580MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_c4a7cce9-f473-419b-a12b-4829a2d26aa9.pdf?v=1671750805"
+          }
+        },
+        "9c979ba3-293f-4575-b72d-39be09d228c2": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2 L EMTC 1180 - 1180MM DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_bf532bb2-8871-4b4f-bf1c-c081ce215929.pdf?v=1671750854"
+          }
+        }
+      },
+      "block_order": [
+        "95b31668-44c3-44a4-b5b1-45452a737283",
+        "6f910889-fd3f-453d-8ddd-6ab845780885",
+        "796da039-aef6-455a-96cc-dcc2056205b4",
+        "9c979ba3-293f-4575-b72d-39be09d228c2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "2f0a0f47-f731-491e-bb4a-43cb96338db3": {
+      "type": "download",
+      "blocks": {
+        "f46f29c9-6222-419a-9041-0077a29cbf2d": {
+          "type": "rich-text",
+          "settings": {
+            "title": "INDUCTION DOWNDRAFT",
+            "align_text": "left"
+          }
+        },
+        "381cb087-0706-484e-b494-ca84ff586cea": {
+          "type": "download",
+          "settings": {
+            "title": "SDDH-3 - Integrated Induction Downdraft",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d77d8cea-1298-4f36-b995-c54449748256.pdf?v=1671750920"
+          }
+        },
+        "866411a9-1f75-4158-9d5d-f03933a8a765": {
+          "type": "download",
+          "settings": {
+            "title": "S-DDH1.1 - Induction Cooktop with Downdraft Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_88ec77e3-557d-486c-8c1a-eaa137bb8ad6.pdf?v=1671750961"
+          }
+        }
+      },
+      "block_order": [
+        "f46f29c9-6222-419a-9041-0077a29cbf2d",
+        "381cb087-0706-484e-b494-ca84ff586cea",
+        "866411a9-1f75-4158-9d5d-f03933a8a765"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "66758c03-d8b4-469d-ae9b-3d5a88ece52d": {
+      "type": "download",
+      "blocks": {
+        "02ba8cce-2cf1-40d1-85db-463e4afb6324": {
+          "type": "rich-text",
+          "settings": {
+            "title": "INTEGRATED DOWNDRAFT",
+            "align_text": "left"
+          }
+        },
+        "3cfb721d-0be9-45d9-8295-b60e0b017516": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2LEMIC880 - 880MM INTEGRATED DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_3ee1db4a-327a-45a6-bc86-ed199b8ef42e.pdf?v=1671751073"
+          }
+        },
+        "76712ed0-4de1-43ab-985f-63e64889960c": {
+          "type": "download",
+          "settings": {
+            "title": "SDD2LEMIC1180 - 1180MM INTEGRATED DOWNDRAFT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_804b6312-0585-4551-ae2d-71c9f676393e.pdf?v=1671751111"
+          }
+        }
+      },
+      "block_order": [
+        "02ba8cce-2cf1-40d1-85db-463e4afb6324",
+        "3cfb721d-0be9-45d9-8295-b60e0b017516",
+        "76712ed0-4de1-43ab-985f-63e64889960c"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "914464d7-04d5-4152-8c8e-c1a4f4d911de": {
+      "type": "download",
+      "blocks": {
+        "1ca21d52-361d-4529-bf1a-3eeb4c392f99": {
+          "type": "rich-text",
+          "settings": {
+            "title": "PENDANT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "236084f6-4957-4746-aeec-ec3b71adb5f2": {
+          "type": "download",
+          "settings": {
+            "title": "SILT 28 - ISLAND PENDANT RECIRCULATING HOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_bd970984-2913-48a6-8ed9-d59adddfecc3.pdf?v=1671751189"
+          }
+        },
+        "bf88af48-e485-4364-89af-0e46667154ec": {
+          "type": "download",
+          "settings": {
+            "title": "SILT26 - CEILING MOUNT PENDANT RECIRCULATING RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_cec9d837-6ecb-4a32-b68e-c19ac1d83f83.pdf?v=1671751234"
+          }
+        }
+      },
+      "block_order": [
+        "1ca21d52-361d-4529-bf1a-3eeb4c392f99",
+        "236084f6-4957-4746-aeec-ec3b71adb5f2",
+        "bf88af48-e485-4364-89af-0e46667154ec"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "118dafff-5872-4800-901a-a24b04ae8be8": {
+      "type": "download",
+      "blocks": {
+        "834a8928-91b9-418b-b28f-9d012bf4ce18": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS ARCHIVE",
+            "align_text": "left"
+          }
+        },
+        "5b9a6992-5f78-4bd8-af39-72a99d5e30b0": {
+          "type": "download",
+          "settings": {
+            "title": "SL107 S 900 - 900mm Onboard Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_eed49b5a-a340-427a-b6c7-7e5c8ac3ff6f.pdf?v=1671751334"
+          }
+        },
+        "d3a50c0d-cc63-44f2-a93f-884c73443ec7": {
+          "type": "download",
+          "settings": {
+            "title": "SL80 BBQ 1200M - 1200mm Alfresco BBQ Marine-Grade Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_135beb8c-9d6c-44a1-8955-0a04a0618278.pdf?v=1671751378"
+          }
+        },
+        "8afaf1fa-eada-458a-ac1a-fbf9640f986f": {
+          "type": "download",
+          "settings": {
+            "title": "SILEM25 BBQ 1200 - 1200mm Island Canopy Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d5b7d5d4-2287-47a9-b61b-8821e58e6b6c.pdf?v=1671751419"
+          }
+        }
+      },
+      "block_order": [
+        "834a8928-91b9-418b-b28f-9d012bf4ce18",
+        "5b9a6992-5f78-4bd8-af39-72a99d5e30b0",
+        "d3a50c0d-cc63-44f2-a93f-884c73443ec7",
+        "8afaf1fa-eada-458a-ac1a-fbf9640f986f"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "b27438ea-1040-437f-9eb9-08e6eb6a66a5": {
+      "type": "download",
+      "blocks": {
+        "967e0d20-6b58-45dc-a137-dbc02db93913": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS UNDERMOUNT RANGE",
+            "align_text": "left"
+          }
+        },
+        "99910766-5d8e-4c44-88de-f08abb125dbe": {
+          "type": "download",
+          "settings": {
+            "title": "SL926-DL 520 - Sirius 520mm Smart-Switch Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_4d7d3d4d-3203-42c0-b03e-39c3f6a78f93.pdf?v=1671751491"
+          }
+        },
+        "b55490ee-acf9-41e0-be75-dc7fff61325e": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 850 - 850mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_c42606b5-f944-455d-b131-bd58c0402d42.pdf?v=1671751524"
+          }
+        },
+        "987fbcfd-f9ad-43e3-a17e-8fff67557ebb": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 850 - 850mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_52e6d23c-e0ad-46b3-81b4-dfd31feab943.pdf?v=1671751563"
+          }
+        },
+        "d0108829-ea43-4599-9d90-4fc934a12dc5": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DL 850 - 850mm Sirius Smart-Switch undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_666b79cb-f0f1-44a9-9a57-59d6b31b53b4.pdf?v=1671751603"
+          }
+        },
+        "6d4d406d-49f0-41d1-863d-09d15fa86e5c": {
+          "type": "download",
+          "settings": {
+            "title": "SM927EL850 - 850mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_11f92b17-0391-437f-bd9c-568a697bc772.pdf?v=1671751664"
+          }
+        },
+        "ccebca3d-69aa-4b22-a154-7795dd4c6130": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 850 BK - 850mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d8b3e45f-1c95-428f-a034-28942f0793ad.pdf?v=1671751705"
+          }
+        },
+        "58193610-b466-4cce-af58-6ec6e293d2ce": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 850 - 850mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_f06fbac3-ef92-47c4-9493-37c8b2ebb4fd.pdf?v=1671751753"
+          }
+        },
+        "810fd21b-376a-4223-9f74-31b873721927": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L850 - 850mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a39bf113-0c0f-4b63-8ac8-381cc04d0fb5.pdf?v=1671751800"
+          }
+        },
+        "89d776fd-38e6-4848-8afc-58885b5f0f78": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L 850 - 850mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_65200757-d285-47ba-96fc-5953687da94a.pdf?v=1671751846"
+          }
+        },
+        "858c3659-457d-4c9d-8377-9c6790749ca8": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 850 - 850mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_c76bb1cb-8d89-45fe-8088-5d8c497e18cd.pdf?v=1671751899"
+          }
+        },
+        "ce3ffee7-f3ba-4252-a3f7-546362c348c3": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 780 - 780mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_fb56cb2f-28b1-4fa4-9993-df01c9c99cf1.pdf?v=1671751942"
+          }
+        },
+        "7a08c3f7-74a8-479b-8794-0b9f8a4b3221": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L700 - 700mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_15f10900-7421-493d-b917-deb6a261e3b9.pdf?v=1671751981"
+          }
+        },
+        "43fb44fd-717c-4a1e-8989-06971c5319eb": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 520 BK - 520mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a5f97b73-94e4-463c-afaf-9de5174691d4.pdf?v=1671752018"
+          }
+        },
+        "de30baad-a4bc-4b1e-82a1-98cd36502fc8": {
+          "type": "download",
+          "settings": {
+            "title": "SM927EL520 - 520mm onboard undermount rangehood – black glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_45f0fa5b-db0f-4e7f-ada3-543469cfeea0.pdf?v=1671752060"
+          }
+        },
+        "f0745db7-96bf-424d-89e2-d6d078ed482d": {
+          "type": "download",
+          "settings": {
+            "title": "SM924 520 - 520mm onboard undermount rangehood – white glass finish",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_330da063-73b6-42bf-8d57-c5d33c0f6d69.pdf?v=1671752122"
+          }
+        },
+        "5477a2f7-a4a6-4ed0-96b7-f66efdbd0567": {
+          "type": "download",
+          "settings": {
+            "title": "SM923L520 - 520mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_fc84e95a-c81d-4e3d-8a57-14d148b138a9.pdf?v=1671752204"
+          }
+        },
+        "d764eb85-2d9b-4d33-99ac-bc31c20f462b": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L 520 - 520mm onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a27b9f45-7bdd-46ed-a8d8-174e5dfcd651.pdf?v=1671752256"
+          }
+        },
+        "7edd1e83-bfef-4eb7-8845-818d5566f57a": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 520 - 520mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_35b1bc47-bc6b-4716-b003-98a944697a01.pdf?v=1671752304"
+          }
+        },
+        "1c0dd540-ff74-47d4-b4b8-5b29ed7e001e": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1500 - 1500mm triple-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d6f2b0b7-f659-4161-8e7a-a213cddc0112.pdf?v=1671752346"
+          }
+        },
+        "ce5a5baf-94a2-4db5-9190-8b07e6c74ce0": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1200 - 1120mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_fa484b23-e771-431c-914d-241b7dba90c1.pdf?v=1671752384"
+          }
+        },
+        "6d34dac0-53e0-4f7a-93ae-d2ec115077e6": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 1200 - 1120mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_0d78f209-7272-4367-8de4-79e8ec6a6d4b.pdf?v=1671752423"
+          }
+        },
+        "3b9632fd-bab4-4bba-9ea4-288fb20c0dc6": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 1200 - 1120mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_82bef826-43d9-4858-8a18-b81dfbd42de8.pdf?v=1671752471"
+          }
+        },
+        "57cb25cd-a879-44eb-8112-f3a77cd5b577": {
+          "type": "download",
+          "settings": {
+            "title": "SL906-L EXCEL 1000 - 1000mm twin-motor onboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_ad3088f5-bbb9-4a98-a8ae-c91bc765c844.pdf?v=1671752511"
+          }
+        },
+        "f66e4eeb-d421-4161-81d3-c353ca8c6591": {
+          "type": "download",
+          "settings": {
+            "title": "SL926 DLTM 1000 - 1000mm Sirius Twin Motor ‘Smart-Switch’ undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d8e63fc2-fdb0-4844-873e-a07a1c284317.pdf?v=1671752558"
+          }
+        },
+        "baf2a77e-e11f-4602-9acb-5ff92ddc541e": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EM-L 1000 - 1000mm offboard undermount rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_2aa18ef0-540e-4304-85cf-28af915a6842.pdf?v=1671752596"
+          }
+        }
+      },
+      "block_order": [
+        "967e0d20-6b58-45dc-a137-dbc02db93913",
+        "99910766-5d8e-4c44-88de-f08abb125dbe",
+        "b55490ee-acf9-41e0-be75-dc7fff61325e",
+        "987fbcfd-f9ad-43e3-a17e-8fff67557ebb",
+        "d0108829-ea43-4599-9d90-4fc934a12dc5",
+        "6d4d406d-49f0-41d1-863d-09d15fa86e5c",
+        "ccebca3d-69aa-4b22-a154-7795dd4c6130",
+        "58193610-b466-4cce-af58-6ec6e293d2ce",
+        "810fd21b-376a-4223-9f74-31b873721927",
+        "89d776fd-38e6-4848-8afc-58885b5f0f78",
+        "858c3659-457d-4c9d-8377-9c6790749ca8",
+        "ce3ffee7-f3ba-4252-a3f7-546362c348c3",
+        "7a08c3f7-74a8-479b-8794-0b9f8a4b3221",
+        "43fb44fd-717c-4a1e-8989-06971c5319eb",
+        "de30baad-a4bc-4b1e-82a1-98cd36502fc8",
+        "f0745db7-96bf-424d-89e2-d6d078ed482d",
+        "5477a2f7-a4a6-4ed0-96b7-f66efdbd0567",
+        "d764eb85-2d9b-4d33-99ac-bc31c20f462b",
+        "7edd1e83-bfef-4eb7-8845-818d5566f57a",
+        "1c0dd540-ff74-47d4-b4b8-5b29ed7e001e",
+        "ce5a5baf-94a2-4db5-9190-8b07e6c74ce0",
+        "6d34dac0-53e0-4f7a-93ae-d2ec115077e6",
+        "3b9632fd-bab4-4bba-9ea4-288fb20c0dc6",
+        "57cb25cd-a879-44eb-8112-f3a77cd5b577",
+        "f66e4eeb-d421-4161-81d3-c353ca8c6591",
+        "baf2a77e-e11f-4602-9acb-5ff92ddc541e"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "e8a40502-7bac-40a5-af74-67443575bb89": {
+      "type": "download",
+      "blocks": {
+        "03b53445-1666-4dc5-b28e-1906cb361f91": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SIRIUS UNDERMOUNT RANGE | UNDERMOUNT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "1a891743-db14-40f2-82b5-f136c928e39a": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM850 - 850mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_eff1b193-5354-4a51-8ff0-4fc16a44d314.pdf?v=1671752680"
+          }
+        },
+        "0be8c92f-cb7e-4682-9b46-381a8752351c": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DL850 - 850mm ONBOARD UNDERMOUNT RANGEHOOD – SINGLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_83389479-89f0-4af9-8bef-8e9006c0be01.pdf?v=1671752715"
+          }
+        },
+        "45401315-0566-487b-907d-5e964ef3b672": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL850 - 850mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d4afc055-bfdc-4ead-b3d9-051c7a057ccf.pdf?v=1671752751"
+          }
+        },
+        "9bebc14b-f2a8-4b0f-acf5-2bfe764cfcc9": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DL520 - 520mm ONBOARD UNDERMOUNT RANGEHOOD – SINGLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_37363c4d-752e-46b2-9b18-e4866a8416e9.pdf?v=1671752790"
+          }
+        },
+        "59398389-dc31-4e5e-8f43-6a2a2e722185": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL520 - 520mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_ea6883fe-6ba0-457d-a028-5657ac24eb67.pdf?v=1671752827"
+          }
+        },
+        "aa72676d-e0d2-4f02-ab20-77d9bdeaefa0": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM150 - 1500mm ONBOARD UNDERMOUNT RANGEHOOD – TRIPLE MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_e0ad82db-6418-4959-b191-f831f4aa6f92.pdf?v=1671752872"
+          }
+        },
+        "079d59b4-3d27-4b9b-91de-94c84f732ca0": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM120 - 1120mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_2dbcd900-894d-46ed-94fc-441cb0de0395.pdf?v=1671752912"
+          }
+        },
+        "a66b17aa-0d55-48bf-9950-cf6dba36d442": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL120 - 1120mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_2ae1b78c-4455-4f17-89ab-b8102ccc5a52.pdf?v=1671752943"
+          }
+        },
+        "028c6fb5-ca60-4cee-b583-73316b90d184": {
+          "type": "download",
+          "settings": {
+            "title": "SL906DLTM100 - 1000mm ONBOARD UNDERMOUNT RANGEHOOD – TWIN MOTOR",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_50262bfb-af82-4c9b-a8c7-0d00f25593ba.pdf?v=1671752988"
+          }
+        },
+        "4373f088-acdf-4700-9b3a-f8f746200c75": {
+          "type": "download",
+          "settings": {
+            "title": "SL906EMEL100 - 1000mm OFFBOARD UNDERMOUNT RANGEHOOD",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a16f6a31-6b60-4c77-850c-3ad197da66f9.pdf?v=1671753074"
+          }
+        }
+      },
+      "block_order": [
+        "03b53445-1666-4dc5-b28e-1906cb361f91",
+        "1a891743-db14-40f2-82b5-f136c928e39a",
+        "0be8c92f-cb7e-4682-9b46-381a8752351c",
+        "45401315-0566-487b-907d-5e964ef3b672",
+        "9bebc14b-f2a8-4b0f-acf5-2bfe764cfcc9",
+        "59398389-dc31-4e5e-8f43-6a2a2e722185",
+        "aa72676d-e0d2-4f02-ab20-77d9bdeaefa0",
+        "079d59b4-3d27-4b9b-91de-94c84f732ca0",
+        "a66b17aa-0d55-48bf-9950-cf6dba36d442",
+        "028c6fb5-ca60-4cee-b583-73316b90d184",
+        "4373f088-acdf-4700-9b3a-f8f746200c75"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "9860b2dc-0fa5-437b-b799-b96af5e2cb47": {
+      "type": "download",
+      "blocks": {
+        "9186c52c-5646-4268-9757-d1b58516ec85": {
+          "type": "rich-text",
+          "settings": {
+            "title": "UNDERMOUNT COLLECTION",
+            "align_text": "left"
+          }
+        },
+        "ae72108c-4456-4763-88c3-133953b04bd6": {
+          "type": "download",
+          "settings": {
+            "title": "UPDRAFT - Updraft Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_fb58bf2e-4f4d-49c9-8d97-7999f9af23ac.pdf?v=1671753212"
+          }
+        },
+        "8ee973f7-b0ca-488a-acb2-76561ff981a8": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC919 L 850 - 850mm Undermount with Glass Fascia",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_d97a7f9a-9628-48b4-b65a-0e98fc1730db.pdf?v=1671753288"
+          }
+        },
+        "e488b3a7-19af-47d4-ba6b-f273544926c0": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 850 - 850mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_6883e5b2-833e-450e-825a-c3ccff736401.pdf?v=1671753348"
+          }
+        },
+        "580b4a8f-5f8f-49bb-ad59-a8a46185aaa6": {
+          "type": "download",
+          "settings": {
+            "title": "SLTC919 L 520 - 520mm Undermount with Glass Fascia",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_6c441d51-1b6b-48e3-a861-df8484567301.pdf?v=1671753389"
+          }
+        },
+        "8be6e9ba-34ec-4da7-b43c-f19e3c29370d": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 1500 - 1500mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_ff71fe3b-974f-4533-85e3-c4fd8d02ff35.pdf?v=1671753441"
+          }
+        },
+        "f7685ba9-e2f3-43fb-a4d7-dcc5ee6b28b7": {
+          "type": "download",
+          "settings": {
+            "title": "SL920 FRESCO 1200 - 1200mm Indoor\/Outdoor Undermount Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_03fb0406-9b48-4f74-bf6b-d86b7d3d3364.pdf?v=1671753487"
+          }
+        }
+      },
+      "block_order": [
+        "9186c52c-5646-4268-9757-d1b58516ec85",
+        "ae72108c-4456-4763-88c3-133953b04bd6",
+        "8ee973f7-b0ca-488a-acb2-76561ff981a8",
+        "e488b3a7-19af-47d4-ba6b-f273544926c0",
+        "580b4a8f-5f8f-49bb-ad59-a8a46185aaa6",
+        "8be6e9ba-34ec-4da7-b43c-f19e3c29370d",
+        "f7685ba9-e2f3-43fb-a4d7-dcc5ee6b28b7"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "1bb37971-1cd6-4499-8ced-8e684acc9993": {
+      "type": "download",
+      "blocks": {
+        "598bb3f1-85b6-4149-b985-9214c7763f63": {
+          "type": "rich-text",
+          "settings": {
+            "title": "VALENTINA-ARCHIVE",
+            "align_text": "left"
+          }
+        },
+        "e83ecc95-4267-4f18-8034-664165df4dcd": {
+          "type": "download",
+          "settings": {
+            "title": "SLT-105 - Wall-Mount Pendant Recirculating Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_ec1113f9-79ee-45a7-a759-11101ebb9555.pdf?v=1671753564"
+          }
+        },
+        "8d441486-563f-424d-ae51-104d47b3f471": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 952 EM - 1080MM CEILING CASSETTE",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a2cf3371-eed6-47ea-afa9-36a4994b0d6b.pdf?v=1671753599"
+          }
+        }
+      },
+      "block_order": [
+        "598bb3f1-85b6-4149-b985-9214c7763f63",
+        "e83ecc95-4267-4f18-8034-664165df4dcd",
+        "8d441486-563f-424d-ae51-104d47b3f471"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    },
+    "dd716e9e-29e9-4e0f-863f-33052a547627": {
+      "type": "download",
+      "blocks": {
+        "2d129c6b-bd1c-49dd-bd31-0800dab6cbff": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SEM MOTORS",
+            "align_text": "left"
+          }
+        },
+        "bc7c2acd-f9fc-4093-ab29-2c1f0d960046": {
+          "type": "download",
+          "settings": {
+            "title": "SEM 1 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM1.pdf?v=1671753686"
+          }
+        },
+        "1c99bcd7-4c0c-4851-93ba-a9724ff19221": {
+          "type": "download",
+          "settings": {
+            "title": "SEM8 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM1_059ad795-1fa2-4e6f-b5c9-841b0764724c.pdf?v=1671753751"
+          }
+        },
+        "95c502ba-0528-4704-9306-d36a92fede5a": {
+          "type": "download",
+          "settings": {
+            "title": "SEM10 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM10.pdf?v=1671753803"
+          }
+        },
+        "971a915a-7908-4911-9406-7384ec4c60a6": {
+          "type": "download",
+          "settings": {
+            "title": "SEM2 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM2_ex.pdf?v=1671753842"
+          }
+        },
+        "4b5137e4-6401-4fb4-946b-bc76e7f5c702": {
+          "type": "download",
+          "settings": {
+            "title": "SEM5 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM2_ex_36ae7e74-43aa-4878-870a-c704be664e12.pdf?v=1671753891"
+          }
+        },
+        "c1a85d8a-4711-4de5-8044-2e6eb896a3a5": {
+          "type": "download",
+          "settings": {
+            "title": "SEM7 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM7_ex.pdf?v=1671753938"
+          }
+        },
+        "8947dfee-fda5-4943-9657-b27194a18217": {
+          "type": "download",
+          "settings": {
+            "title": "SEM11 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM11_int.pdf?v=1671753985"
+          }
+        },
+        "e407467d-7749-4db2-b553-3fa5655549d7": {
+          "type": "download",
+          "settings": {
+            "title": "SEM21 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM21_ext.pdf?v=1671754035"
+          }
+        },
+        "1a87b414-481e-4fd9-936f-4eb971d511db": {
+          "type": "download",
+          "settings": {
+            "title": "SEM51 Roof-mounted Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM51_roof.pdf?v=1671754082"
+          }
+        },
+        "4cfe1cb7-507d-45d8-9ae3-817755ef62e7": {
+          "type": "download",
+          "settings": {
+            "title": "SEM71 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/sem_71_ext.pdf?v=1671754128"
+          }
+        },
+        "ee99dd85-050e-45ba-8fee-877668a7c36c": {
+          "type": "download",
+          "settings": {
+            "title": "SEM81 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/sem_71_sem_81_internal_motor.pdf?v=1671754184"
+          }
+        }
+      },
+      "block_order": [
+        "2d129c6b-bd1c-49dd-bd31-0800dab6cbff",
+        "bc7c2acd-f9fc-4093-ab29-2c1f0d960046",
+        "1c99bcd7-4c0c-4851-93ba-a9724ff19221",
+        "95c502ba-0528-4704-9306-d36a92fede5a",
+        "971a915a-7908-4911-9406-7384ec4c60a6",
+        "4b5137e4-6401-4fb4-946b-bc76e7f5c702",
+        "c1a85d8a-4711-4de5-8044-2e6eb896a3a5",
+        "8947dfee-fda5-4943-9657-b27194a18217",
+        "e407467d-7749-4db2-b553-3fa5655549d7",
+        "1a87b414-481e-4fd9-936f-4eb971d511db",
+        "4cfe1cb7-507d-45d8-9ae3-817755ef62e7",
+        "ee99dd85-050e-45ba-8fee-877668a7c36c"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "bc7aab4b-0202-494f-bdc9-12d96e5476eb",
+    "a9a5efc9-a831-4c6d-bdb4-a75ddd425735",
+    "faee5678-74ed-4647-9257-89a44d514a1d",
+    "a682b2cd-2bc1-4675-b761-1dd0b7124e8b",
+    "711ae0ff-fec0-4c34-ad42-a9427a6e6467",
+    "eaaed464-c276-4fc4-9e7e-f970fae47de7",
+    "711c278d-9f8d-4ea6-8c78-9cf3a155c3ca",
+    "2f0a0f47-f731-491e-bb4a-43cb96338db3",
+    "66758c03-d8b4-469d-ae9b-3d5a88ece52d",
+    "914464d7-04d5-4152-8c8e-c1a4f4d911de",
+    "118dafff-5872-4800-901a-a24b04ae8be8",
+    "b27438ea-1040-437f-9eb9-08e6eb6a66a5",
+    "e8a40502-7bac-40a5-af74-67443575bb89",
+    "9860b2dc-0fa5-437b-b799-b96af5e2cb47",
+    "1bb37971-1cd6-4499-8ced-8e684acc9993",
+    "dd716e9e-29e9-4e0f-863f-33052a547627"
   ]
 }

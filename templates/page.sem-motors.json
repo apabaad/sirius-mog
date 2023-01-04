@@ -2,7 +2,27 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "5cbe0eb0-1b9b-400c-a5ef-7314bf3ad97b": {
+      "type": "download",
+      "blocks": {
+        "9dd65b52-4914-4300-b7dd-86410dfa26f4": {
+          "type": "blank",
+          "settings": {
+            "title": "",
+            "download_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "9dd65b52-4914-4300-b7dd-86410dfa26f4"
+      ],
+      "settings": {
+        "title": "SEM Motors",
+        "subtitle": ""
       }
     },
     "d8d4fb04-ea27-449d-9f70-012af8ba4021": {
@@ -14,7 +34,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 136,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM1_Internal_Motor.webp",
+        "image": "shopify:\/\/shop_images\/SEM1.jpg",
         "link": "",
         "layout": "left",
         "image_column_size": "6",
@@ -22,7 +42,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM 1 Internal Motor",
         "sub_title": "Model Number: SEM1 Internal Motor",
+        "sub_title2": "Test - Tab 2",
         "text": "<ul>\n<li>1200m3\/h extraction <\/li>\n<li>Aluminium die cast <\/li>\n<li>Absorption 265W<\/li>\n<li>Pressure 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm<\/li>\n<li>Designed for internal installation inside roof cavity or sub floor installation<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "test test <br>test test <br>test test <br>test test <br>test test <br>test test <br>test test <br>test test <br>test test <br>\ntest test\ntest test",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -33,7 +55,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM_1_Internal_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 50,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -55,7 +77,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM8 Internal Motor",
         "sub_title": "Model Number: SEM8 Internal Motor",
+        "sub_title2": "Test - Tab 2",
         "text": "<ul>\n<li>1650m3\/h extraction<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 65dBa<\/li>\n<li>Ducting: 200mm<\/li>\n<li>Designed for internal installation inside roof cavity or sub floor installation<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "test test",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -66,7 +90,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM8_Internal_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -88,7 +112,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM10 Internal Motor",
         "sub_title": "Model Number: SEM10 Internal Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1020 m³\/h extraction<\/li>\n<li>Aluminium die cast<\/li>\n<li>Noise: 69dBa<\/li>\n<li>Ducting: SEM10 specific<\/li>\n<li>Designed to be installed under cabinetry for ducting or recirculation<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -99,7 +125,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM10_Internal_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -113,7 +139,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM2_External_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM2.jpg",
         "link": "",
         "layout": "right",
         "image_column_size": "6",
@@ -121,7 +147,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM2 External Motor",
         "sub_title": "Model Number: SEM2 XS316 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1200m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm<\/li>\n<li>Designed to be installed on exterior wall<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -132,7 +160,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM2_External_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -146,7 +174,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/sem-5_external_motor.jpg",
+        "image": "shopify:\/\/shop_images\/Sem_5.jpg",
         "link": "",
         "layout": "left",
         "image_column_size": "6",
@@ -154,7 +182,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM5 External Motor",
         "sub_title": "Model Number: SEM5 XS316 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1200m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption 265W<\/li>\n<li>Pressure 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm Circular<\/li>\n<li>Designed to be installed on roof<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -165,7 +195,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM5_External_Motor_657d9647-c866-4ebd-89c8-a2f127753df7.pdf?v=1670902833",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -179,7 +209,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM7_External_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM7_External_Motor_a24c9eba-ea87-4fac-a17e-037b5ad07182.jpg",
         "link": "",
         "layout": "right",
         "image_column_size": "6",
@@ -187,7 +217,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM7 External Motor",
         "sub_title": "Model Number: SEM7 XS316 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>2300m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption 265W<\/li>\n<li>Pressure 480Pa<\/li>\n<li>Noise: 68dBa<\/li>\n<li>Ducting: 200mm<\/li>\n<li>Designed to be on an external wall or under an eve<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -198,7 +230,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM7_External_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -212,7 +244,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM11_Internal_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM11_Internal_Motor_3bf16f63-6fa7-40c9-8afd-3226e3cd508d.jpg",
         "link": "",
         "layout": "left",
         "image_column_size": "6",
@@ -220,7 +252,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM11 Internal Motor",
         "sub_title": "Model Number: SEM11 Internal Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1200m3\/h extraction<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm<\/li>\n<li>Designed for internal installation inside roof cavity or sub floor installation<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -231,7 +265,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM11_Internal_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -245,7 +279,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM21_External_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM2.jpg",
         "link": "",
         "layout": "right",
         "image_column_size": "6",
@@ -253,7 +287,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM21 External Motor",
         "sub_title": "Model Number: SEM21 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1200m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm<\/li>\n<li>Designed to be installed on exterior wall<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -264,7 +300,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM21_External_Motor.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -278,7 +314,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/sem-51_Roof-mounted_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM5_External_Motor.jpg",
         "link": "",
         "layout": "left",
         "image_column_size": "6",
@@ -286,7 +322,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM51 Roof-mounted Motor",
         "sub_title": "Model Number: SEM51 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1200m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 64dBa<\/li>\n<li>Ducting: 150mm Circular<\/li>\n<li>Designed to be installed on roof<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -297,7 +335,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM51_Roof-mounted_Motor_125284ca-b04e-49f0-8e83-4a1061e8a26b.pdf?v=1670902833",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -311,7 +349,7 @@
         "background_color": "rgba(0,0,0,0)",
         "item_gap": 100,
         "item_gap_mobile": 30,
-        "image": "shopify:\/\/shop_images\/SEM71_External_Motor.jpg",
+        "image": "shopify:\/\/shop_images\/SEM7_External_Motor_a24c9eba-ea87-4fac-a17e-037b5ad07182.jpg",
         "link": "",
         "layout": "right",
         "image_column_size": "6",
@@ -319,7 +357,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM71 External Motor",
         "sub_title": "Model Number: SEM71 External Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>2300m3\/h extraction<\/li>\n<li>XS316 marine grade steel<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 68dBa<\/li>\n<li>Ducting: 200mm<\/li>\n<li>Designed to be on an external wall or under an eve<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -330,7 +370,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM71_External_Motor_4b38d5ca-9fa7-46f5-aab1-10d24475c277.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -352,7 +392,9 @@
         "content-bg-color": "#f3f3f3",
         "title": "SEM81 Internal Motor",
         "sub_title": "Model Number: SEM81 Internal Motor",
+        "sub_title2": "",
         "text": "<ul>\n<li>1650m3\/h extraction<\/li>\n<li>Aluminium die cast<\/li>\n<li>Absorption: 265W<\/li>\n<li>Pressure: 480Pa<\/li>\n<li>Noise: 65dBa<\/li>\n<li>Ducting: 200mm<\/li>\n<li>Designed for internal installation inside roof cavity or sub floor installation<\/li>\n<li>Can be placed up to 7m away from the hood<\/li>\n<\/ul>",
+        "text2": "",
         "text_size": "medium",
         "content_alignment": "left",
         "button_label": "SPECIFICATION SHEET",
@@ -363,7 +405,7 @@
         "button2_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/SEM81_Internal_Motor_50fd80ac-3d6b-444f-be02-2967f8b11af9.pdf?v=1670902834",
         "button2_style": "sf__btn-primary",
         "button2_size": "sf__btn-small",
-        "padding_top": 0,
+        "padding_top": 100,
         "padding_bottom": 0,
         "custom_class": ""
       }
@@ -371,6 +413,7 @@
   },
   "order": [
     "main",
+    "5cbe0eb0-1b9b-400c-a5ef-7314bf3ad97b",
     "d8d4fb04-ea27-449d-9f70-012af8ba4021",
     "439a3461-e68c-4abf-b876-940b94ab5675",
     "517dbdb5-ff22-4da1-a4c3-f57d7c951a38",

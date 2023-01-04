@@ -93,7 +93,7 @@
         "grid_layout": "grid",
         "grid_columns": "3",
         "show_columns_switcher": false,
-        "show_category": true,
+        "show_category": false,
         "show_product_code": true,
         "sku_black": true,
         "show_product_price": false,

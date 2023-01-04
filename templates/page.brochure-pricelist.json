@@ -1,0 +1,125 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "3dddb0a8-5e20-487f-a77c-4fc7679058f6": {
+      "type": "download",
+      "blocks": {
+        "8755c860-3357-48fb-9919-09124ff95f2e": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Brochures",
+            "align_text": "left"
+          }
+        },
+        "afa7ce23-004e-41dc-8c38-61a2595c8c5e": {
+          "type": "download",
+          "settings": {
+            "title": "Valentina Collection Brochure",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_9a1a30a4-12a6-44a1-af32-1ddca5dc5f26.pdf?v=1671686488"
+          }
+        },
+        "8ef2cfc1-9d44-4b54-aca8-42cbaaa9baad": {
+          "type": "download",
+          "settings": {
+            "title": "Sirius Range Brochure",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_37a46713-8c57-4cf2-92d2-502cfae71813.pdf?v=1671686543"
+          }
+        },
+        "f4f4503b-5943-4bec-9a0a-1cc5de740f25": {
+          "type": "download",
+          "settings": {
+            "title": "Ducting Collection Brochure",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web.pdf?v=1671686617"
+          }
+        },
+        "f7187ae5-6b76-4aed-8c14-ebb508e0ef76": {
+          "type": "download",
+          "settings": {
+            "title": "Smart-Switch Brochure",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_9a452c1b-f9d1-41d3-8b60-514264c098c2.pdf?v=1671686663"
+          }
+        },
+        "a635e633-b991-4b97-8749-ade91041cdff": {
+          "type": "download",
+          "settings": {
+            "title": "Alfresco Rangehood Brochure",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_4611772b-89bf-4535-a00b-cc52884f9561.pdf?v=1671686708"
+          }
+        },
+        "b311974b-5dc2-455f-b6c3-fff3b472b97e": {
+          "type": "download",
+          "settings": {
+            "title": "SM923 \/SM924 \/SM927 undermounts",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_a1a9d67d-6f75-4d22-8772-a141b8447e0b.pdf?v=1671686754"
+          }
+        }
+      },
+      "block_order": [
+        "8755c860-3357-48fb-9919-09124ff95f2e",
+        "afa7ce23-004e-41dc-8c38-61a2595c8c5e",
+        "8ef2cfc1-9d44-4b54-aca8-42cbaaa9baad",
+        "f4f4503b-5943-4bec-9a0a-1cc5de740f25",
+        "f7187ae5-6b76-4aed-8c14-ebb508e0ef76",
+        "a635e633-b991-4b97-8749-ade91041cdff",
+        "b311974b-5dc2-455f-b6c3-fff3b472b97e"
+      ],
+      "settings": {
+        "title": "Brochures and Pricelist",
+        "subtitle": "Keep up to date with Latest Kitchen Designs"
+      }
+    },
+    "f29684e8-5532-455d-8e53-743665dc43df": {
+      "type": "download",
+      "blocks": {
+        "ba6a348d-054f-4ccb-a51c-b6a5a7b4fa4f": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Pricelist",
+            "align_text": "left"
+          }
+        },
+        "54660a2c-7f0b-4d31-a391-0e494d1a5c89": {
+          "type": "download",
+          "settings": {
+            "title": "Valentina Collection Pricelist",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_0a33ef97-1a96-47d8-8dc6-0398cf72df71.pdf?v=1671686851"
+          }
+        },
+        "0ae0d518-291b-4096-a115-8ac749693aa0": {
+          "type": "download",
+          "settings": {
+            "title": "Sirius Range Pricelist",
+            "download_url": ""
+          }
+        },
+        "b3082002-3c11-4922-8c72-0953884c62af": {
+          "type": "download",
+          "settings": {
+            "title": "Ducting Pricelist",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_77a1513a-0001-4e56-9dd5-cd36d09919fc.pdf?v=1671686966"
+          }
+        }
+      },
+      "block_order": [
+        "ba6a348d-054f-4ccb-a51c-b6a5a7b4fa4f",
+        "54660a2c-7f0b-4d31-a391-0e494d1a5c89",
+        "0ae0d518-291b-4096-a115-8ac749693aa0",
+        "b3082002-3c11-4922-8c72-0953884c62af"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "3dddb0a8-5e20-487f-a77c-4fc7679058f6",
+    "f29684e8-5532-455d-8e53-743665dc43df"
+  ]
+}

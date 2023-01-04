@@ -830,12 +830,144 @@
         "title": "",
         "subtitle": ""
       }
+    },
+    "a2593c30-8386-4728-8572-1bd81fc04abf": {
+      "type": "download",
+      "blocks": {
+        "d7aaa1b4-83c3-4ed7-a752-b326a062ca60": {
+          "type": "rich-text",
+          "settings": {
+            "title": "VALENTINA-ARCHIVE",
+            "align_text": "left"
+          }
+        },
+        "2eefb03a-0b08-4951-b0c4-4afbde057e28": {
+          "type": "download",
+          "settings": {
+            "title": "SLT-105 - Wall-Mount Pendant Recirculating Rangehood",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_2f0fb639-1db0-49a8-9021-146248ffb76a.pdf?v=1671683788"
+          }
+        },
+        "8aefc3cf-7ba0-481c-bdde-f24ee688c9e0": {
+          "type": "download",
+          "settings": {
+            "title": "SLT 952 EM - 1080MM CEILING CASSETTE",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_18f6614b-e6d5-4d82-952c-bc2176a0cc74.pdf?v=1671683834"
+          }
+        },
+        "3db00243-a16c-471c-af68-b50276c5a695": {
+          "type": "rich-text",
+          "settings": {
+            "title": "SEM MOTORS",
+            "align_text": "left"
+          }
+        },
+        "6a39e12e-94d9-443d-82b9-30c935a76a8d": {
+          "type": "download",
+          "settings": {
+            "title": "SEM 1 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_95555d88-78cc-4a6d-ba00-89c1e5e27de3.pdf?v=1671683909"
+          }
+        },
+        "90a498f9-f347-48ce-97ce-6e97e196186d": {
+          "type": "download",
+          "settings": {
+            "title": "SEM8 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_a012bfec-a8d7-45cc-ae2b-e1d06b3fd8f6.pdf?v=1671683980"
+          }
+        },
+        "80f4759e-d218-4b96-a636-4e26c1c59c80": {
+          "type": "download",
+          "settings": {
+            "title": "SEM10 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_6af4a815-3c81-4943-b68c-205a5eed1a67.pdf?v=1671684042"
+          }
+        },
+        "fc9e637e-07ee-4a29-a008-bd837ce3e7bf": {
+          "type": "download",
+          "settings": {
+            "title": "SEM2 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_07143006-78a0-41cc-a5ad-1a3c1f040eec.pdf?v=1671684105"
+          }
+        },
+        "4ccd3fb3-317e-448b-a1e9-7b5f456e9673": {
+          "type": "download",
+          "settings": {
+            "title": "SEM5 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_e286db97-9e3e-4116-97c6-eadfcdd6629b.pdf?v=1671684164"
+          }
+        },
+        "f0dc4cd3-3396-49f3-bab0-41e2da956158": {
+          "type": "download",
+          "settings": {
+            "title": "SEM7 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_d197937e-8e35-43bd-9f2b-0aac92198ac6.pdf?v=1671684251"
+          }
+        },
+        "25337924-fbc6-49ca-8383-d4395b2f09e9": {
+          "type": "download",
+          "settings": {
+            "title": "SEM11 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_7f386018-6858-4d58-b2f1-d2ac5790b0bc.pdf?v=1671684355"
+          }
+        },
+        "3991c7f1-3fda-44bb-b7c8-eda72492a056": {
+          "type": "download",
+          "settings": {
+            "title": "SEM21 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_073667f1-4f19-49fc-b667-3014dca15370.pdf?v=1671684400"
+          }
+        },
+        "c7664f7c-14c1-4f3e-a720-b624d291fa11": {
+          "type": "download",
+          "settings": {
+            "title": "SEM51 Roof-mounted Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_6b601b30-c2c1-4f75-bda1-453f590465fb.pdf?v=1671684466"
+          }
+        },
+        "6834612c-245e-4cc5-a4fe-8c8d807baba1": {
+          "type": "download",
+          "settings": {
+            "title": "SEM71 External Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_fef37143-d458-49cb-9349-eb9d2d2efd6f.pdf?v=1671684515"
+          }
+        },
+        "a4cf1714-f42d-4f71-b390-3500be192af5": {
+          "type": "download",
+          "settings": {
+            "title": "SEM81 Internal Motor",
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius-CANOPY-OFFBOARD_User-and-Install-Manual_e529d57e-714f-4454-a98a-8fdd04c786ea.pdf?v=1671684603"
+          }
+        }
+      },
+      "block_order": [
+        "d7aaa1b4-83c3-4ed7-a752-b326a062ca60",
+        "2eefb03a-0b08-4951-b0c4-4afbde057e28",
+        "8aefc3cf-7ba0-481c-bdde-f24ee688c9e0",
+        "3db00243-a16c-471c-af68-b50276c5a695",
+        "6a39e12e-94d9-443d-82b9-30c935a76a8d",
+        "90a498f9-f347-48ce-97ce-6e97e196186d",
+        "80f4759e-d218-4b96-a636-4e26c1c59c80",
+        "fc9e637e-07ee-4a29-a008-bd837ce3e7bf",
+        "4ccd3fb3-317e-448b-a1e9-7b5f456e9673",
+        "f0dc4cd3-3396-49f3-bab0-41e2da956158",
+        "25337924-fbc6-49ca-8383-d4395b2f09e9",
+        "3991c7f1-3fda-44bb-b7c8-eda72492a056",
+        "c7664f7c-14c1-4f3e-a720-b624d291fa11",
+        "6834612c-245e-4cc5-a4fe-8c8d807baba1",
+        "a4cf1714-f42d-4f71-b390-3500be192af5"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": ""
+      }
     }
   },
   "order": [
     "main",
     "e2dbb50d-590c-41df-94df-f0d45d322155",
     "5b7e7b43-3f9a-4a44-bc30-6e90fb7f0e10",
-    "d17fa333-ec46-44d2-8fb9-954af2df9740"
+    "d17fa333-ec46-44d2-8fb9-954af2df9740",
+    "a2593c30-8386-4728-8572-1bd81fc04abf"
   ]
 }

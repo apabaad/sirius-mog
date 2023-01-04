@@ -8,6 +8,18 @@
     },
     "c56a7262-7806-44af-9b3c-efaea9437cd9": {
       "type": "download",
+      "blocks": {
+        "a8620a56-627e-43ab-931d-ecfcdcc9adb8": {
+          "type": "blank",
+          "settings": {
+            "title": "",
+            "download_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "a8620a56-627e-43ab-931d-ecfcdcc9adb8"
+      ],
       "settings": {
         "title": "Instructional Videos",
         "subtitle": ""

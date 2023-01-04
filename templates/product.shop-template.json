@@ -60,17 +60,17 @@
           "settings": {
           }
         },
+        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6": {
+          "type": "specs-manuals",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": true,
             "show_atc_button": true,
             "show_dynamic_checkout": true
-          }
-        },
-        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6": {
-          "type": "specs-manuals",
-          "settings": {
           }
         }
       },
@@ -82,8 +82,8 @@
         "price",
         "1478118b-f4cc-4676-b8a9-63bfcfe96098",
         "2d2652a3-4085-4a8f-bf9a-804ef0320aab",
-        "buy_buttons",
-        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6"
+        "6a1882c1-ddad-4761-bf1b-b0ae432f75e6",
+        "buy_buttons"
       ],
       "settings": {
         "container": "container",
