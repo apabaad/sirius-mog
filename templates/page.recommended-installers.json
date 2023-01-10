@@ -1,0 +1,82 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "a402a1da-2c6c-447e-b144-db27219fe968": {
+      "type": "download",
+      "blocks": {
+        "89bebbf2-c7ec-45eb-a31d-cf057e654fa6": {
+          "type": "blank",
+          "settings": {
+            "title": "Recommended Installers",
+            "download_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "89bebbf2-c7ec-45eb-a31d-cf057e654fa6"
+      ],
+      "settings": {
+        "title": "Recommended Installers",
+        "subtitle": "Find the right installer for your kitchen"
+      }
+    },
+    "68107bea-10e8-4d2c-b64d-d0e0153fc8ca": {
+      "type": "custom-content",
+      "blocks": {
+        "ad9f62d1-22cc-4f5e-a433-560bbcb5b2f8": {
+          "type": "html",
+          "settings": {
+            "code": "<h2>\n<i class=\"fa-regular fa-user\"><\/i><span>Capital Plumbing<\/span>\n<\/h2>\n\n<style>\n.fa-user{\nmargin-right:5px;\ncolor:red;}\n<\/style>",
+            "width": "50%",
+            "block_custom_class": ""
+          }
+        },
+        "62dc40d8-635a-41e8-bf01-4a0150cccfcc": {
+          "type": "html",
+          "settings": {
+            "code": "",
+            "width": "33%",
+            "block_custom_class": ""
+          }
+        },
+        "54154371-f70e-479b-9fdd-06f62dfefc23": {
+          "type": "html",
+          "settings": {
+            "code": "",
+            "width": "33%",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "ad9f62d1-22cc-4f5e-a433-560bbcb5b2f8",
+        "62dc40d8-635a-41e8-bf01-4a0150cccfcc",
+        "54154371-f70e-479b-9fdd-06f62dfefc23"
+      ],
+      "settings": {
+        "heading": "Victoria",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "left",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 0,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a402a1da-2c6c-447e-b144-db27219fe968",
+    "68107bea-10e8-4d2c-b64d-d0e0153fc8ca"
+  ]
+}

@@ -8,13 +8,53 @@
         "header_height": "large",
         "text_alignment": "center",
         "vertical_alignment": "center",
-        "text_color": "dark",
+        "text_color": "white",
         "bg_color": "#f5f1ed",
         "bg_image": "shopify:\/\/shop_images\/bg-all.jpg",
         "enable_parallax": false,
         "upper_title": false,
         "show_desc": false,
         "collection_all_desc": ""
+      }
+    },
+    "8248039c-b207-42ae-8652-6e35e8da4402": {
+      "type": "custom-content",
+      "blocks": {
+        "template--17226197336374__8248039c-b207-42ae-8652-6e35e8da4402-16733111329e0bc3a7-0": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "subheading": "",
+            "text": "<p>{{ collection.metafields.custom.collection_description | metafield_tag }}<\/p>",
+            "width": "100%",
+            "alignment": "center",
+            "align_text": "center",
+            "text_size": "medium",
+            "text_color": "white",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "sf__btn-primary",
+            "button_size": "",
+            "block_custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17226197336374__8248039c-b207-42ae-8652-6e35e8da4402-16733111329e0bc3a7-0"
+      ],
+      "settings": {
+        "heading": "Custom content",
+        "subheading": "",
+        "description": "",
+        "header_alignment": "center",
+        "container": "container-fluid",
+        "background_color": "",
+        "gap": 30,
+        "use_scroll_mobile": false,
+        "gap_mobile": 16,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "custom_class": ""
       }
     },
     "main": {
@@ -127,6 +167,7 @@
   },
   "order": [
     "collection-header",
+    "8248039c-b207-42ae-8652-6e35e8da4402",
     "main",
     "recent-viewed"
   ]

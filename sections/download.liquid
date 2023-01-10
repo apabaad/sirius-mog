@@ -59,6 +59,15 @@ font-size:18px;
 .download-pdf-title{
   text-transform: uppercase;
 }
+
+.download-pdf-title-img{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-left:20px; 
+  font-weight:bold;
+}
+
     </style>
     
     {%- if section.settings.divider -%}<div class="section--divider">{%- endif -%}
@@ -122,9 +131,9 @@ font-size:18px;
         
                   {% when 'download'%}
                       <a href="{{block.settings.download_url}}" class="download-block" target="_blank">
-                         
-                        
-                        <div class="download-pdf-title"><i class="fas fa-file-pdf sirius-red-color" style="font-size:18px; "></i>{{ block.settings.title }}</div>
+                                                 
+                        <div class="download-pdf-title {% if block.settings.pdf-icon != blank %} flex {% endif %}">{% if block.settings.pdf-icon != blank %}<img src="{{ block.settings.pdf-icon | img_url : 'master' }}">{% else %}<i class="fas fa-file-pdf sirius-red-color" style="font-size:18px; "></i> {% endif %}{% if block.settings.pdf-icon != blank %}<div class="download-pdf-title-img">{% endif %}{{ block.settings.title }} {% if block.settings.pdf-icon != blank %}</div>{% endif %}</div>
+
                       </a>
                 {% endcase %}
               </div>
@@ -194,6 +203,11 @@ font-size:18px;
               "type": "download",
               "name": "Download",
               "settings": [
+                {
+                  "type":"image_picker",
+                  "id":"pdf-icon",
+                  "label":"Icon"
+                },
                 {
                   "type": "text",
                   "id": "title",

@@ -8,7 +8,7 @@
                     <div class="features-container flex">
                     {% for i in (0..features) %}
                     <div class="keyfeatures">
-                    <img class="feature-icon" loading="lazy" src="{{product.metafields.features-icon.features-icon[i]}}"> 
+                    <img class="feature-icon" loading="lazy" src="{% if product.metafields.features-title.features-title[i] == "App Control"  %} https://cdn.shopify.com/s/files/1/0555/4231/7366/files/App-Control.jpg?v=1671681872 {% elsif product.metafields.features-title.features-title[i] == "Marine Grade" %} https://cdn.shopify.com/s/files/1/0555/4231/7366/files/Marine-Grade.jpg?v=1673242287 {% else %} {{ product.metafields.features-icon.features-icon[i] }} {% endif %}"> 
                     <div class="keyfeatures-text">
                             <div class="features-title">{{product.metafields.features-title.features-title[i] }}</div>
                             {% if product.metafields.features-title.features-title[i] == "Light Strip" %}

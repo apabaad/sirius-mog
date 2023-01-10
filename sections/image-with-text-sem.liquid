@@ -64,12 +64,13 @@
                 </ul>
                 
                 {% if section.settings.text != blank %}
-                  <div id="tabs-2" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose">{{ section.settings.text }}</div>
+                  <div id="tabs-2" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose sem-tabs">{{ section.settings.text }}</div>
                 {% endif %}
 
                 {% if section.settings.text2 != blank %}
-                  <div id="tabs-3" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose">{{ section.settings.text2 }}</div>
+                  <div id="tabs-3" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose sem-tabs">{{ section.settings.text2 }}</div>
                 {% endif %}
+             
 
                 <div class ="sem-pdf-container flex">
                   {% if section.settings.button_label != blank %}
@@ -90,6 +91,9 @@
          $(function() {  
             $( "#{{ section.id }}-1" ).tabs();  
          });  
+
+         var SemHeight = $("#tabs-2").height();
+         $("#tabs-3").height(SemHeight);
   </script> 
 
   {% schema %}
@@ -475,6 +479,10 @@
   #{{section.id}}-1{
     font-size: 16px;
   }  
+
+  .sem-tabs{
+    min-height:380px;
+  }
   
   .ui-widget-header {  
      background:#f3f3f3;  
