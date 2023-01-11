@@ -25,8 +25,66 @@
         "subtitle": "Find the right installer for your kitchen"
       }
     },
+    "8bf98517-6f17-44ad-8ac3-0d13e6b5baf2": {
+      "type": "sirius-tabs",
+      "blocks": {
+        "430291f8-4bf5-4f48-8b9f-8d994513452b": {
+          "type": "tab",
+          "settings": {
+            "tab-name": "Victoria",
+            "tab-id": "vic-content"
+          }
+        },
+        "31b35622-c968-46f7-b6f7-fd0be04498b3": {
+          "type": "tab-content",
+          "settings": {
+            "tab-content": "<h2>hello vic<\/h2>",
+            "tab-content-id": "vic-content"
+          }
+        },
+        "265866b2-e3e2-421c-9b8e-760b64d7ca77": {
+          "type": "tab",
+          "settings": {
+            "tab-name": "New South Wales",
+            "tab-id": "nsw-content"
+          }
+        },
+        "62f3d893-a9c7-45f5-a343-8811c710899f": {
+          "type": "tab-content",
+          "settings": {
+            "tab-content": "hello nsw",
+            "tab-content-id": "nsw-content"
+          }
+        },
+        "2f723536-44fb-4956-bddf-4714bfcbc351": {
+          "type": "tab",
+          "settings": {
+            "tab-name": "Western Australia",
+            "tab-id": "wa-content"
+          }
+        },
+        "20d0e9ff-813b-4453-ad16-2e8d79c92176": {
+          "type": "tab-content",
+          "settings": {
+            "tab-content": "hello wa",
+            "tab-content-id": "wa-content"
+          }
+        }
+      },
+      "block_order": [
+        "430291f8-4bf5-4f48-8b9f-8d994513452b",
+        "31b35622-c968-46f7-b6f7-fd0be04498b3",
+        "265866b2-e3e2-421c-9b8e-760b64d7ca77",
+        "62f3d893-a9c7-45f5-a343-8811c710899f",
+        "2f723536-44fb-4956-bddf-4714bfcbc351",
+        "20d0e9ff-813b-4453-ad16-2e8d79c92176"
+      ],
+      "settings": {
+      }
+    },
     "68107bea-10e8-4d2c-b64d-d0e0153fc8ca": {
       "type": "custom-content",
+      "disabled": true,
       "blocks": {
         "ad9f62d1-22cc-4f5e-a433-560bbcb5b2f8": {
           "type": "html",
@@ -77,6 +135,7 @@
   "order": [
     "main",
     "a402a1da-2c6c-447e-b144-db27219fe968",
+    "8bf98517-6f17-44ad-8ac3-0d13e6b5baf2",
     "68107bea-10e8-4d2c-b64d-d0e0153fc8ca"
   ]
 }

@@ -1,0 +1,116 @@
+<div class="container tab-container" id="tab-container">
+    
+    <ul>
+        {% for block in section.blocks %}
+            {% case block.type %}
+                {% when 'tab'%}
+            <li class="content__subheading mb-5"><a href="#{{block.settings.tab-id}}">{{ block.settings.tab-name }}</a></li>   
+        {% endcase %}
+    {% endfor %}
+    </ul>
+
+    {% for block in section.blocks %}
+        {% case block.type %}
+            {% when 'tab-content'%}
+        <div id="{{ block.settings.tab-content-id }}" class="md:mb-6 mb-3 lg:mb-8 text-black rte prose sem-tabs"> {{ block.settings.tab-content }}</div>
+    {% endcase %} 
+{% endfor %}
+    </div>
+
+
+
+<script>  
+$(function() {  
+   $( "#tab-container" ).tabs();  
+});  
+
+var SemHeight = $("#tabs-5").height();
+$("#tabs-4").height(SemHeight);
+</script> 
+
+{% style %}
+
+
+.ui-widget-header {  
+   background:#f3f3f3;  
+   border: none;  
+   color: black;  
+  font-weight: bold;  
+    }  
+
+.ui-widget-content{
+  border:0;
+  background:none;
+}
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
+  color: black;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+  border: 2px solid #E21219;
+  background:#f1f1f1;
+}
+
+.ui-tabs .ui-tabs-nav li {
+    /* width:15%; */
+    text-align: center;
+}
+.ui-tabs .ui-tabs-nav li a {
+    display: inline-block;
+    float: none;
+    padding: 5px;
+    text-decoration: none;
+    width: 100%;
+}
+
+.prose :where(ul>li):not(:where([class~=not-prose] *))::marker {
+  color: black;
+}
+
+
+{% endstyle %}
+
+
+{% schema %}
+{
+	"name": "Sirius Tabs",
+	"blocks": [{
+			"type": "tab",
+			"name": "Tab",
+			"settings": [{
+					"id": "tab-name",
+					"label": "Tab name",
+					"type": "text"
+				},
+				{
+					"id": "tab-id",
+					"label": "Unique ID (same as content)",
+					"type": "text"
+				}
+			]
+		},
+		{
+			"type": "tab-content",
+			"name": "Tab Content",
+			"settings": [{
+					"id": "tab-content",
+					"label": "Tab content",
+					"type": "html"
+				},
+				{
+					"id": "tab-content-id",
+					"label": "Unique ID (same as tab)",
+					"type": "text"
+				}
+			]
+		}
+	],
+
+	"presets": [{
+		"name": "Sirius Tabs",
+		"category": "Advanced Layout"
+	}]
+
+}
+{% endschema %}

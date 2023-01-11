@@ -8,7 +8,7 @@
         "header_height": "adapt",
         "text_alignment": "left",
         "vertical_alignment": "center",
-        "text_color": "dark",
+        "text_color": "white",
         "bg_color": "#f5f1ed",
         "bg_image": "{{ collection.image }}",
         "enable_parallax": false,
