@@ -1,6 +1,6 @@
 {
   "current": {
-    "favicon": "shopify:\/\/shop_images\/sirius_red.png",
+    "favicon": "shopify:\/\/shop_images\/sirius_favicon.png",
     "use_ajax_atc": false,
     "container_width": 1350,
     "container_fluid_width": 1620,
@@ -177,7 +177,7 @@
           "uppercase_parent_level": false,
           "search": "show_icon",
           "show_account_icon": false,
-          "show_cart_icon": false,
+          "show_cart_icon": true,
           "show_wishlist_icon": false,
           "show_compare_icon": false,
           "show_currency_switcher": false,

@@ -17,28 +17,6 @@
           "settings": {
           }
         },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-            "show_saving": false
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "size_title": "Size"
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_quantity_selector": false,
-            "show_atc_button": false,
-            "show_dynamic_checkout": false
-          }
-        },
         "addons": {
           "type": "addons",
           "disabled": true,
@@ -59,9 +37,29 @@
             "show_sku": true
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_saving": false
+          }
+        },
         "1478118b-f4cc-4676-b8a9-63bfcfe96098": {
           "type": "description",
           "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_title": "Size"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_atc_button": true,
+            "show_dynamic_checkout": true
           }
         },
         "2d2652a3-4085-4a8f-bf9a-804ef0320aab": {
@@ -77,12 +75,12 @@
       },
       "block_order": [
         "title",
-        "price",
-        "variant_picker",
-        "buy_buttons",
         "addons",
         "e5f1bc50-1e00-407c-b058-f3f142c1edb6",
+        "price",
         "1478118b-f4cc-4676-b8a9-63bfcfe96098",
+        "variant_picker",
+        "buy_buttons",
         "2d2652a3-4085-4a8f-bf9a-804ef0320aab",
         "6a1882c1-ddad-4761-bf1b-b0ae432f75e6"
       ],
@@ -147,11 +145,13 @@
     },
     "76ebe260-dc48-4219-aa30-4dc9563004e8": {
       "type": "sirius-product-specification",
+      "disabled": true,
       "settings": {
       }
     },
     "b402f929-d4f3-470f-b419-08289f5ce26b": {
       "type": "sirius-product-features",
+      "disabled": true,
       "settings": {
       }
     },

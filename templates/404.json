@@ -3,10 +3,25 @@
     "main": {
       "type": "404-template",
       "settings": {
+        "bg_color": "#f5f1ed",
+        "t1_color": "#000",
+        "t2_color": "#000"
+      }
+    },
+    "240436e8-e441-4bd8-a73b-5115be612567": {
+      "type": "recent-viewed-products",
+      "settings": {
+        "container": "container",
+        "heading": "Recently Viewed Products",
+        "limit": 8,
+        "columns": 4,
+        "column_gap": 30,
+        "enable_slider": true
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "240436e8-e441-4bd8-a73b-5115be612567"
   ]
 }
