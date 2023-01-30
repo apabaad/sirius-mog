@@ -6,7 +6,7 @@
         "container": "container",
         "layout": "without_breadcrumb",
         "header_height": "adapt",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "vertical_alignment": "center",
         "text_color": "white",
         "bg_color": "#f5f1ed",

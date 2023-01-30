@@ -90,7 +90,7 @@
       "settings": {
         "container": "container-fluid",
         "grid_layout": "grid",
-        "grid_columns": "3",
+        "grid_columns": "4",
         "show_columns_switcher": false,
         "show_category": true,
         "show_product_code": true,

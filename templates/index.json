@@ -155,7 +155,7 @@
     "b0579a63-3764-44b8-8c2f-4dec1bbc0a93": {
       "type": "featured-collection",
       "settings": {
-        "heading": "BEST SELLERS",
+        "heading": "OUR BEST SELLERS",
         "subheading": "",
         "description": "",
         "header_alignment": "center",
@@ -238,6 +238,7 @@
         },
         "template--16719655960886__b1a7d2a3-663f-45e5-a3f3-d7fa33096557-16665904922016fefe-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/98122501226526.png",
             "image_by_url": "",
@@ -266,7 +267,7 @@
         "9d200632-3ad1-40bb-8d0d-13872e73aa68": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/elite-logo.jpg",
+            "image": "shopify:\/\/shop_images\/Elite-DA_Logo_REV-BOX.jpg",
             "image_by_url": "",
             "image_link": "",
             "max_width": "150px"

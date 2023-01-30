@@ -167,7 +167,7 @@
         "show_columns_switcher": false,
         "show_category": false,
         "show_product_code": true,
-        "sku_black": false,
+        "sku_black": true,
         "show_product_price": false,
         "pagination_limit": 50,
         "paginate_type": "infinite",

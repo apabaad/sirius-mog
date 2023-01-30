@@ -17,12 +17,6 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "size_title": "Size"
-          }
-        },
         "addons": {
           "type": "addons",
           "disabled": true,
@@ -65,6 +59,12 @@
           "settings": {
           }
         },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "size_title": "Size"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -76,13 +76,13 @@
       },
       "block_order": [
         "title",
-        "variant_picker",
         "addons",
         "e5f1bc50-1e00-407c-b058-f3f142c1edb6",
         "price",
         "1478118b-f4cc-4676-b8a9-63bfcfe96098",
         "2d2652a3-4085-4a8f-bf9a-804ef0320aab",
         "6a1882c1-ddad-4761-bf1b-b0ae432f75e6",
+        "variant_picker",
         "buy_buttons"
       ],
       "settings": {

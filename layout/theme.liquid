@@ -90,6 +90,15 @@ template-{{ template.name | handle }} {{ template.name }}-{{ template.suffix }} 
 
   <script src="{{ 'quick-view.min.js' | asset_url }}" defer="defer"></script>
   <script src="{{ 'product-card-swatch.min.js' | asset_url }}" defer="defer"></script>
+   <script>
+  var links = document.links;
+for (let i = 0, linksLength = links.length ; i < linksLength ; i++) {
+  if (links[i].hostname !== window.location.hostname) {
+    links[i].target = '_blank';
+    links[i].rel = 'noreferrer noopener';
+  }
+}
+</script>
 </body>
 
  <style>
