@@ -389,6 +389,11 @@
         "padding_bottom": 0,
         "custom_class": ""
       }
+    },
+    "b8958e4d-edf0-44cc-8b8e-65b6bad73a42": {
+      "type": "Calculator",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -396,6 +401,7 @@
     "fe85dca1-4cc6-43ec-a8b3-6ad9ca28839a",
     "eb492102-d0c7-4732-a222-48828d2a2978",
     "b0579a63-3764-44b8-8c2f-4dec1bbc0a93",
-    "b1a7d2a3-663f-45e5-a3f3-d7fa33096557"
+    "b1a7d2a3-663f-45e5-a3f3-d7fa33096557",
+    "b8958e4d-edf0-44cc-8b8e-65b6bad73a42"
   ]
 }

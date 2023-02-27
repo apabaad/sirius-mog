@@ -51,6 +51,7 @@
     "pcard_alignment": "center",
     "pcard_image_ratio": "1\/1",
     "show_second_img": false,
+    "show_swatch_option": false,
     "show_cart_button": false,
     "show_quickview_button": false,
     "show_wishlist_button": false,

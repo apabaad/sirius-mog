@@ -18,6 +18,7 @@
         },
         "afa7ce23-004e-41dc-8c38-61a2595c8c5e": {
           "type": "download",
+          "disabled": true,
           "settings": {
             "pdf-icon": "shopify:\/\/shop_images\/Valentina_Collection_9aa78f97-1453-4e65-ad33-779f9315eed6.png",
             "title": "Valentina Collection Brochure",
@@ -94,7 +95,7 @@
           "settings": {
             "pdf-icon": "shopify:\/\/shop_images\/Alfresco_Brochure_0870356a-b39d-4de6-8174-d00e3b8d6f92.png",
             "title": "Valentina Collection Pricelist",
-            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Ducting-Brochure_Dec2022_web_0a33ef97-1a96-47d8-8dc6-0398cf72df71.pdf?v=1671686851"
+            "download_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0555\/4231\/7366\/files\/Sirius_Proforma_Price_List_-_FEB_2023.pdf?v=1676607162"
           }
         },
         "0ae0d518-291b-4096-a115-8ac749693aa0": {

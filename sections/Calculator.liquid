@@ -1,0 +1,217 @@
+{% schema %}
+{
+  "name": "Ceiling Calculator",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Ceiling Calculator Settings"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Ceiling Calculator",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
+
+{% stylesheet %}
+
+  /* Ceiling Calculator section */
+
+.ceiling-calculator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ceiling-calculator-form {
+  width: 28vw;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top:4rem;
+  margin-bottom:4rem;
+}
+  
+.ceiling-calculator-form label {
+  display: inline-block;
+}
+
+.ceiling-calculator-form input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  flex: 1;
+  max-width: 150px;
+}
+.calc-button {
+  background-color: red;
+   border-radius: 5px;
+   border:1px solid red;
+  margin-top: 1rem;
+}
+
+.ceiling-result {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+  
+.ceiling-calculator-form .input-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: .5rem;
+  width: 100%;
+  
+}
+
+.reset-button-border{
+  border:1px solid white;
+}
+
+.button-group{
+  align-items:center;
+}
+
+.result-container{
+  width:100%;
+}
+
+@media (max-width: 768px) {
+  .ceiling-calculator-form {
+    width: 90%;
+  }
+
+
+{% endstylesheet %}
+
+<section id="ceiling-calculator" class="ceiling-calculator bg-black ">
+  <form class="ceiling-calculator-form">
+    <h2 class="text-white font-bold mb-10" align="center">Air Movement Calculator</h2><br/>
+
+    <div class="input-group">
+    <label class="text-white " for="ceiling-length">Length of area:</label>
+    <div class="input-error-grp flex flex-col">
+          <input placeholder="Length" required type="number" id="ceiling-length">
+          <span class=" sirius-red-color"></span><br>
+    </div>
+    </div>
+
+    <div class="input-group">
+    <label class="text-white " for="ceiling-width">Width of area:</label>
+    <div class="input-error-grp flex flex-col">
+    <input placeholder="Width" required type="number" id="ceiling-width">
+    <span class="sirius-red-color"></span><br>
+    </div>
+    </div>
+
+
+    <div class="input-group">
+    <label class="text-white " for="ceiling-height">Height of ceiling:</label>
+    <div class="input-error-grp flex flex-col">
+      <input placeholder="Height" required type="number" id="ceiling-height">
+      <span class="sirius-red-color"></span><br>
+    </div>
+    </div>
+
+    <div class="result-container mb-5 hidden" id="result-container">
+    <span id="ceiling-result" class="text-white"></span><br/></br>
+    <span id="ceiling-result8" class="text-white"></span><br/></br>
+    <span id="ceiling-result10" class="text-white"></span><br/></br>
+    <span id="ceiling-result12" class="text-white"></span><br/>
+
+    </div>
+    
+    
+    <div class="text-white italic text-sm" style="color:rgb(107 114 128);">*Area measuring includes kitchen/dining/lounge areas if open plan.</div>
+
+    <div class="button-group flex w-full">
+      <button class="h-full  px-6 py-2 text-white calc-button" type="button" id="ceiling-calculate">Calculate</button>
+      <button class="h-full  px-6 py-2 text-white ml-3 calc-button reset-button-border" type="button" id="form-reset" style="background-color:black;" onClick=resetFunction()>Reset</button>
+    </div>
+  </div>
+    
+  </form>
+</section>
+
+{% javascript %}
+  document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('ceiling-calculate').addEventListener('click', calculate);
+
+    function calculate() {
+      var lengthEl = document.getElementById("ceiling-length");
+      var widthEl = document.getElementById("ceiling-width");
+      var heightEl = document.getElementById("ceiling-height");
+      var length = parseFloat(lengthEl.value);
+      var width = parseFloat(widthEl.value);
+      var height = parseFloat(heightEl.value);
+      var resultEl = document.getElementById("ceiling-result");
+      var result8 = document.getElementById("ceiling-result8");
+      var result10 = document.getElementById("ceiling-result10");
+      var result12 = document.getElementById("ceiling-result12");
+
+    if(length || width || height === "") {
+      document.getElementById("result-container").classList.remove("hidden");
+      document.getElementById("result-container").classList.add("block");     
+    }
+      // Clear any existing error messages
+      lengthEl.nextElementSibling.innerHTML = "";
+      widthEl.nextElementSibling.innerHTML = "";
+      heightEl.nextElementSibling.innerHTML = "";
+      
+      // Check if any input fields are blank
+      if (isNaN(length)) {
+        lengthEl.nextElementSibling.innerHTML = "Please enter a value.";
+      }
+      if (isNaN(width)) {
+        widthEl.nextElementSibling.innerHTML = "Please enter a value.";
+      }
+      if (isNaN(height)) {
+        heightEl.nextElementSibling.innerHTML = "Please enter a value.";
+      }
+      
+      // If any fields are blank, don't perform the calculation
+      if (isNaN(length) || isNaN(width) || isNaN(height)) {
+        resultEl.innerHTML = "";
+        return;
+      }
+      
+      var volume = length * width * height;
+      resultEl.innerHTML = "Total volume: " + volume.toLocaleString() + "m<sup>3</sup>";
+
+      var volume8x = length * width * height * 8;
+      result8.innerHTML = "For basic single pot or pan cooking: " + volume8x.toLocaleString() + "m<sup>3</sup>";
+
+      var volume10x = length * width * height * 10;
+      result10.innerHTML = "For heavy frying or multiple pots & pans: " + volume10x.toLocaleString() + "m<sup>3</sup>";
+
+      var volume12x = length * width * height * 12;
+      result12.innerHTML = "For serious cooking, lots of smoke & steam: " + volume12x.toLocaleString() + "m<sup>3</sup>";
+    }
+  });
+
+  resetFunction = () => { 
+    document.getElementById("ceiling-length").nextElementSibling.innerHTML = "";
+    document.getElementById("ceiling-width").nextElementSibling.innerHTML = "";
+    document.getElementById("ceiling-height").nextElementSibling.innerHTML = "";
+      document.getElementById("ceiling-length").value = "";
+      document.getElementById("ceiling-width").value = "";
+      document.getElementById("ceiling-height").value = "";
+      document.getElementById("ceiling-result").innerHTML = "";;
+      document.getElementById("ceiling-result8").innerHTML = "";;
+      document.getElementById("ceiling-result10").innerHTML = "";;
+      document.getElementById("ceiling-result12").innerHTML = "";
+      document.getElementById("result-container").classList.add("hidden");
+    }
+
+{% endjavascript %}
+
